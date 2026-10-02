@@ -5,7 +5,7 @@ env/
 venv/
 ENV/
 
-# Archivos de caché y temporales de Python
+# Archivos de cache y temporales de Python
 __pycache__/
 *.py[cod]
 *$py.class
