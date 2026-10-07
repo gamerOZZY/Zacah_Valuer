@@ -11,3 +11,7 @@ __pycache__/
 *$py.class
 *.so
 .Python
+
+# Coso de carpeta de Playwright
+perfil_playwright/*
+perfil_playwright/
