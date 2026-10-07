@@ -38,7 +38,7 @@ def main():
         for index, url_propiedad in enumerate(urls_propiedades):
             
             # Intervalo de espera de 2 segundos antes de acceder a la tarjeta
-            page.wait_for_timeout(2000) 
+            page.wait_for_timeout(4000) 
             
             print(f"Accediendo a la propiedad {index + 1} de {len(urls_propiedades)}...")
             
