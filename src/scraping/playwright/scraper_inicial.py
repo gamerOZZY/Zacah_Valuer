@@ -14,10 +14,10 @@ def main():
             user_data_dir,
             headless=False,
             args=["--disable-blink-features=AutomationControlled"] # Oculta que es un bot
-        )
+        )   
         
         page = context.new_page()
-        url_inicial = "https://propiedades.com/gustavo-a-madero/casas-venta"
+        url_inicial = "https://www.inmuebles24.com/casas-en-gustavo-a.-madero.html"
         page.goto(url_inicial)
 
         # Esperamos a que el selector de los enlaces de las tarjetas cargue en el DOM
