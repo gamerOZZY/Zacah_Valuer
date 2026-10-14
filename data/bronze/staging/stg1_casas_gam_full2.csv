@@ -47,11 +47,9 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 49,49,2,1,0,1,0,Gustavo A. Madero,1179000,500,Av. Acueducto,Casa,False,,False,19.5188395,-99.1386396
 165,320,4,3,1,2,30,Gustavo A. Madero,6990000,0,Habana 194,Casa,False,,False,19.4868142,-99.1215039
 213,127,3,3,0,2,18,Lindavista Norte,7995000,2500,Pernambuco 800,Apartamento,False,,True,19.4912605,-99.1256395
-1120,71,2,2,0,2,0,Lindavista Norte,5330800,0,Av Instituto Politécnico Nacional A,Apartamento,False,,True,19.4973459,-99.1320295
 86,86,3,1,1,1,10,Vallejo,680000,0,Schumann 117,Apartamento,True,remateHipotecario,False,19.4676866,-99.1300704
 149,278,4,2,1,1,15,Industrial,750000,0,romulo escobar ,Casa,True,remateHipotecario,False,19.4704945,-99.1289685
 151,214,3,2,0,1,10,Gustavo A. Madero,1250000,0,C. Wagner 173,Casa,True,remateHipotecario,False,19.4636169,-99.1291054
-1120,65,2,2,0,1,0,Lindavista Norte,4753800,0,Av Instituto Politécnico Nacional A,Apartamento,False,,True,19.4973459,-99.1320295
 56,56,2,2,0,1,0,Vallejo,2655000,0,Schumann 225,Apartamento,False,,False,19.46747435613254,-99.13105627683896
 70,65,2,1,0,1,20,Aragón la Villa,868000,0,Alberto Herrera 108,Apartamento,True,remateHipotecario,False,19.4806506,-99.1118547
 81,81,2,2,0,0,0,Magdalena de las Salinas,4783000,0,Insurgentes Norte 1346,Apartamento,False,,False,19.4811493,-99.1299205
@@ -91,12 +89,10 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 223,223,4,3,1,2,40,Industrial,6800000,0,Excelsior 239,Casa,True,remateHipotecario,True,19.4752201,-99.132246
 180,280,4,3,0,3,20,Torres Lindavista,12700000,0,Guantánamo 2,Casa,False,,False,19.507806,-99.1465024
 136,95,3,1,0,1,32,Guadalupe Tepeyac,1100000,0,Otilia 148,Casa,True,remateHipotecario,False,19.4682239,-99.1185807
-1405,1390,7,9,1,4,40,Lindavista Norte,32800000,0,Cali 835,Casa,False,,False,19.4910689,-99.123076
 150,270,6,4,1,2,40,La Malinche,5900000,0,Norte 86,Casa,False,,True,19.4568588,-99.1033235
 58,58,2,2,0,1,6,Santiago Atzacoalco,2900000,0,Av. Centenario 1811,Apartamento,False,,False,19.497743218940823,-99.09672957732772
 82,82,2,2,0,2,0,Magdalena de las Salinas,4717000,0,Insurgentes Norte al 1346,Apartamento,False,,False,19.4811493,-99.1299205
 208,459,5,3,0,3,45,Santa Maria Ticoman,9405000,0,15 de septiembre,Casa,False,,True,19.5163175,-99.1324353
-1470,1300,4,5,0,2,50,Lindavista Norte,35700000,0,Arequipa 836,Casa,False,,False,19.4908471,-99.1226773
 49,49,2,1,0,1,1,Santiago Atzacoalco,2040000,870,AV Centenario 1900,Apartamento,False,,False,19.4977106,-99.0966874
 198,160,6,3,2,1,46,Ampliación Providencia,4550000,0,Calle Estado de Nuevo León 28,Casa,False,,False,19.4792022,-99.0735554
 89,89,3,2,0,1,50,Industrial,3825000,500,Avenida Ingeniero Alfredo Robles Domínguez 4,Apartamento,False,,False,19.4705611,-99.1331051
@@ -124,13 +120,12 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 50,50,2,1,0,1,10,Estrella,2800000,0,Escuela Industrial 282,Apartamento,False,,False,19.4772942,-99.1211629
 97,165,3,2,0,1,47,Gustavo A. Madero,850000,0,C. 651 49,Casa,True,remateHipotecario,False,19.4514874,-99.0612016
 180,96,3,2,0,3,30,San Felipe de Jesús,2750000,0,Ayutla,Casa,False,,False,19.4958316,-99.0763631
-1,5423,2,1,0,0,0,Guadalupe Tepeyac,2680000,0,Guadalupe Tepeyac,Apartamento,False,,False,19.4680088,-99.1193297
+1,54,2,1,0,0,0,Guadalupe Tepeyac,2680000,0,Guadalupe Tepeyac,Apartamento,False,,False,19.4680088,-99.1193297
 202,155,3,2,0,2,15,Vasco de Quiroga,1385000,0,Juan Bosco No 107 Vasco de Quiroga,Casa,True,remateHipotecario,True,19.491284549520383,-99.0944019871414
 160,256,4,2,1,1,30,Industrial,6800000,0,Ingeniero Carlos Daza,Casa,False,,False,19.4733361,-99.1324324
 54,57,2,1,0,1,0,Guadalupe Tepeyac,2968043,0,Sara,Apartamento,False,,False,19.4673306,-99.1177584
 70,70,3,1,0,1,30,Gustavo A. Madero,2600000,0,Avenida Miguel Bernard 31,Apartamento,False,,False,19.512758,-99.141097
 153,226,4,3,1,2,40,Salvador Díaz Mirón,4350000,0,"Norte 74 7923  , Salvador Díaz Mirón , 07400 Gustavo A. Madero, Ciudad de México, México",Casa,False,,False,19.487269199999982,-99.09631429999996
-54020,54020,2,1,0,1,37,La Esmeralda,1950000,300,Norte 94,Apartamento,False,,False,19.4881259,-99.0849557
 90,140,3,2,1,2,18,La Purísima TicomAn,4190000,0,Plan de Guadalupe 56,Casa en condominio,False,,False,19.5140388,-99.136692
 50,50,2,1,0,1,15,Constitución de La República,1800000,0,Av. San Juan de Aragón 600,Apartamento,False,,False,19.4769393,-99.0919644
 458,382,4,2,2,2,8,Lindavista Norte,2000000,0,Managua 877,Casa,True,remateHipotecario,False,19.4961821,-99.1286077
@@ -159,7 +154,6 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 50,50,2,1,0,1,0,Vallejo,2268000,1500,J Sebastián Bach 186,Apartamento,False,,False,19.4661018,-99.1362056
 57,57,2,1,0,0,21,DM Nacional,2066000,0,"Arcos de Aragón, DM Nacional, Rinconada Villa de Aragón",Apartamento,False,,False,19.4761575,-99.0963392
 80,80,3,2,0,1,20,Lindavista Vallejo II Secc,2600000,200,Lindavista Vallejo III Sección,Apartamento,False,,False,19.4923603,-99.1476908
-2260,3006,10,6,2,3,60,Lindavista Norte,89500000,0,Pernambuco 890,Casa,False,,False,19.4939608,-99.1237572
 50,50,2,1,0,1,0,Juventino Rosas,2141000,1500,J Sebastián Bach 186,Apartamento,False,,False,19.4661018,-99.1362056
 167,230,3,3,1,3,15,San Juan de Aragón III Secc,6000000,0,Av ,Casa,False,,False,19.4512797,-99.0705466
 128,250,3,2,1,2,33,Gustavo A. Madero,2300000,1,Av 499 133,Casa,True,remateHipotecario,True,19.4712831,-99.0706751
@@ -175,7 +169,6 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 170,237,3,1,2,4,40,San Juan de Aragón I Secc,6500000,0,Av. Río Consulado ,Casa,False,,False,19.4516867,-99.0929147
 76,105,3,2,1,1,33,Gustavo A. Madero,1500000,0,Vicente García González 104,Casa,True,remateHipotecario,False,19.5082949,-99.0950049
 202,161,2,3,0,0,45,San Felipe de Jesús,4284000,0,"Colima Mz269 Lt6, San Felipe de Jesús, Gustavo A. Madero",Casa,False,,False,19.4998262,-99.0769869
-5013,4872,1,1,0,0,0,Lindavista Norte,3180000,0,lindavista,Apartamento,False,,False,19.5037694,-99.1324282
 145,145,3,2,0,2,15,Lindavista Norte,4200000,1400,Neiva,Apartamento,False,,False,19.4996987,-99.1273939
 395,674,5,4,0,2,35,Residencial Zacatenco,16500000,0,San Juan de Puerto Rico,Casa,False,,False,19.506,-99.1274
 140,343,3,2,0,1,35,Ampliación Progreso Nacional,2214500,0,C. 15 74,Casa,True,remateHipotecario,True,19.5170312,-99.1596671
@@ -270,7 +263,6 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 203,493,3,3,0,4,10,Torres Lindavista,16500000,0,Torres Lindavista,Casa,False,,False,19.5109537,-99.1442316
 68,68,2,1,0,1,0,Santa Isabel Tola,2643334,0,Av. Acueducto de Guadalupe 511,Apartamento,False,,True,19.5018056311,-99.1168177128
 152,225,3,2,0,1,23,Gertrudiz Sánchez,970000,0,Norte 82 5813,Casa,True,remateHipotecario,False,19.4646444,-99.1021368
-1718,1718,8,6,0,0,30,Lindavista Sur,38000000,0,Av. Montevideo ,Casa,False,,False,19.4887721,-99.1276448
 46,46,2,1,0,1,5,Vallejo,1890000,1000,Florencio Constantino 243,Apartamento,True,remateHipotecario,True,19.4636189,-99.1300776
 85,85,2,2,0,2,3,Gustavo A. Madero,5323500,0,Euzkaro 43 Depto. 501,Apartamento,False,,True,19.479205,-99.1214694
 37,37,1,1,0,0,1,Villa Gustavo A. Madero,1981999,1,Alberto Herrera,Apartamento,False,,False,19.4811226,-99.1137136
@@ -378,7 +370,6 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 65,65,2,2,0,1,0,Lindavista Norte,4534500,1,AV. POLITECNICO NACIONAL ,Apartamento,False,,False,19.4966793,-99.1321796
 173,214,3,2,1,2,10,Gustavo A. Madero,700000,0,AV 637 al 0,Casa,True,remateHipotecario,False,19.4489156,-99.0627056
 184,184,5,5,1,0,0,Tepeyac Insurgentes,7900000,0,Tepeyac,Casa,False,,False,19.4855507,-99.1220962
-20584,20584,4,2,0,2,10,Nueva Atzacoalco,1026988,0,Calle 325,Casa,True,remateHipotecario,False,19.5005061,-99.0824075
 216,300,4,3,0,3,10,Lindavista Norte,9500000,0,Chiclayo,Casa,False,,False,19.4920639,-99.1288606
 160,210,3,2,0,1,0,Aragón InguarAn,700000,0,Aragón Inguarán,Casa,True,remateHipotecario,False,19.4708116,-99.1075731
 114,114,3,2,0,1,16,Bondojito,495000,300,Ferrocarril Hidalgo 1337,Apartamento,True,remateHipotecario,True,19.4689079,-99.1155406
@@ -540,7 +531,6 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 251,370,5,3,1,2,14,Estrella,907800,0,Avenida Tesoro 66,Casa,True,remateHipotecario,False,19.4740492,-99.1179939
 65,65,2,2,0,1,0,Lindavista Norte,4943100,3000,Av Instituto Politécnico Nacional,Apartamento,False,,False,19.497992,-99.1320414
 161,161,3,3,1,3,45,Nueva Atzacoalco,4284000,0,"Casa en Venta en Nueva Atzacoalco, Gustavo Madero AF 27-949",Casa,False,,True,19.4991516,-99.0861392
-5713,5713,2,1,0,1,8,Vasco de Quiroga,4420000,0,AVENIDA EDUARDO MOLINA 8132,Apartamento,True,remateHipotecario,False,19.4892578,-99.0939946
 75,75,2,2,0,2,19,Capultitlan,2763300,0,Sky Tower Lindavista,Apartamento,True,remateHipotecario,False,19.4810967,-99.129892
 118,207,4,2,1,2,12,Valle del Tepeyac,1127000,0,Boyacá 578,Casa,True,remateHipotecario,False,19.4889126,-99.142798
 160,150,3,2,0,1,20,Pradera,2160000,10,Sierra Madre Oriental 140,Casa,True,remateHipotecario,True,19.4756662,-99.0643295
@@ -641,7 +631,6 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 167,120,3,3,0,3,30,Cuautepec de Madero,3000000,0,Sexta Cerrada del Rosario,Casa,False,,False,19.55201,-99.13967
 191,171,3,3,1,2,10,Gustavo A. Madero,1200000,0,Catamarca 113,Casa,True,remateHipotecario,False,19.5031398,-99.1240255
 72,49,2,1,0,1,1,Tres Estrellas,2775000,1500,Oniquina,Apartamento,False,,False,19.472225,-99.110509
-5159,51,2,1,0,1,15,Nueva Industrial Vallejo,723000,600,"Margarita Maza de Juárez 168, Nueva Industrial Vallejo, Gustavo A. Madero, 07700 Ciudad de México, CDMX",Apartamento,True,remateHipotecario,False,19.5070148,-99.1532954
 62,62,2,1,0,1,2,Estanzuela,537786,0,General Pedro Negrete 179,Apartamento,True,remateHipotecario,False,19.489923,-99.1099599
 63,63,2,2,0,1,0,Lindavista Norte,4190000,0,AV INSURGENTES NTE,Apartamento,False,,False,19.4906611,-99.1220291
 143,143,5,5,1,3,19,Industrial,1825000,0,Industrial,Casa,True,remateHipotecario,False,19.4736233,-99.1248628
@@ -710,7 +699,6 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 135,135,3,2,0,1,32,Lindavista Sur,3464968,0,Montiel 221,Apartamento,False,,True,19.4866044,-99.1263452
 162,330,3,2,0,1,47,Gustavo A. Madero,1190000,0,Volcán Xitle 33,Casa,True,remateHipotecario,False,19.4723373,-99.06622
 230,234,4,3,1,2,15,Lindavista Sur,640000,0,Oruro ,Casa,True,remateHipotecario,False,19.490852,-99.128653
-1316,103,3,2,0,2,9,San Bartolo Atepehuacan,1110000,1000,"Av Ricarte 489, lindavista, Gustavo A. Madero, 07730 Ciudad de México, CDMX",Apartamento,True,remateHipotecario,False,19.4891998,-99.1393268
 202,155,3,2,0,2,18,Vasco de Quiroga,1385000,0,CALLE JUAN BOSCO NO 107 LT 4 MZA,Casa,True,remateHipotecario,True,19.4912922,-99.0944108
 228,323,4,3,1,2,10,Estrella,590000,0,Calle Brillante,Casa,True,remateHipotecario,False,19.4758639,-99.1184445
 200,310,4,2,0,2,9,Villa de Aragón,650000,0,Villa de Aragón,Casa,True,remateHipotecario,False,19.4672793,-99.0605643
@@ -1158,7 +1146,6 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 63,63,2,1,0,1,10,Gustavo A. Madero,690000,0,Smetana 90,Apartamento,True,remateHipotecario,False,19.4648876,-99.1324018
 210,390,4,2,1,1,15,Industrial,600000,0,Av Huasteca 46,Casa,True,remateHipotecario,False,19.4701846,-99.1261406
 100,120,4,3,0,2,32,Nueva Industrial Vallejo,500000,0,Calle Tetrazzini 232,Casa,True,remateHipotecario,True,19.4667787,-99.131672
-1400,172,4,2,1,2,10,Tepeyac Insurgentes,550000,0,Arica,Casa,True,remateHipotecario,True,19.4855507,-99.1220962
 120,210,4,3,2,2,30,Lindavista Norte,510000,0,Ambato,Casa,True,remateHipotecario,False,19.5000712,-99.1288767
 48,48,2,1,0,1,,Industrial,2295000,0,NECAXA,Apartamento,False,,False,19.47732,-99.12775
 85,85,2,2,0,1,10,Santiago Atzacoalco,1204814,0,Avenida Centenario 2152,Apartamento,True,remateHipotecario,False,19.5022555,-99.0943081
