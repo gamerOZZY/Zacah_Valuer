@@ -1,67 +1,42 @@
 Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Colonia,Price,Maintenance_cost,Address,PropertyType,IsAuction,FlagsFeatures,HaveVideo,Latitude,Longitude
-291,330,4,3,1,2,18,Lindavista Norte,2852000,0,Lima ,Casa,True,remateHipotecario,False,19.4939749,-99.1260188
-58,58,2,1,0,1,10,El Arbolillo,948560,0,5o de Río Santa María,Casa,True,remateHipotecario,False,19.5289172,-99.1473835
 485,395,3,4,1,3,41,Torres Lindavista,19800000,1500,jovellanos,Casa,False,,False,19.5075179,-99.1494497
 47,47,2,1,0,1,0,Panamericana,2206106,1500,Norte 7-A 4934,Apartamento,False,,False,19.4788803,-99.1443215
 77,77,2,2,0,1,4,Granjas Modernas,2750000,0,Palomas 43,Apartamento,False,,False,19.4783881,-99.1034242
 55,55,2,1,0,1,0,Guadalupe Tepeyac,3015170,1600,Av. Río Consulado 1787,Apartamento,False,,False,19.4597722,-99.1233853
-60,60,2,1,0,0,25,Maximino Avila Camacho,1200090,1000,Insurgentes Norte,Apartamento,True,remateHipotecario,False,19.4761917,-99.1337517
 318,426,5,4,2,3,70,Lindavista Norte,12800000,0,Managua,Casa,False,,True,19.4957771,-99.1291495
-57,57,2,1,0,1,7,La Joyita,848000,0,FC Hidalgo 1404,Apartamento,True,remateHipotecario,False,19.4809664,-99.1079643
-196,337,3,2,1,2,55,Lindavista Norte,1120000,0,"Ambato 956, Lindavista Nte., Gustavo A. Madero, 07300 Ciudad de México, CDMX",Casa,True,remateHipotecario,False,19.5001179,-99.1290017
-75,75,2,1,0,1,10,Acueducto de Guadalupe,548900,0,C. 17 18,Apartamento,True,remateHipotecario,False,19.52607145708512,-99.14847817141664
-160,160,5,3,3,2,10,Nueva Vallejo,1390000,0,Norte 17-A,Casa,True,remateHipotecario,False,19.484009,-99.1475063
 105,108,3,2,1,2,0,Lindavista,1929000,500,Lindavista,Casa,False,,True,19.5037694,-99.1324282
 608,407,3,3,1,2,55,Lindavista Sur,17950000,0,Pernambuco 728,Casa,False,,False,19.4893386,-99.1275538
 62,85,2,1,0,0,57,Pradera II Secc,1750000,0,Andador volcán Malacatepetl 31,Casa,False,,False,19.469819018321378,-99.06340549310208
 150,207,4,2,1,2,45,Santa Maria Ticoman,6500000,0,Educadores Mexicanos,Casa,False,,False,19.5167686,-99.1403402
-160,160,4,2,0,2,10,Lindavista Vallejo,1490000,0,Norte 17-A,Casa,True,remateHipotecario,False,19.484009,-99.1475063
 353,429,8,4,2,3,12,Ferrocarrilera,9590000,0,MANUEL MORALES,Casa,False,,False,19.4821134,-99.0927777
 242,258,7,0,4,3,16,Lindavista Sur,12500000,0,Cali 638,Casa,False,,True,19.4858129,-99.1280726
-66,66,2,2,0,2,0,Salvador Díaz Mirón,2245334,0,Avenida Ingeniero Eduardo Molina 8132,Apartamento,True,remateHipotecario,True,19.4892709,-99.0938023
-71,71,2,1,0,1,5,Campestre Aragón,548010,0,Camino Sur 198,Apartamento,True,remateHipotecario,False,19.4817781,-99.077063
-142,142,3,2,0,1,5,Santa Maria Ticoman,1248540,0,Plan de Guadalupe,Casa,True,remateHipotecario,False,19.512678083483976,-99.14052259021298
 156,371,3,2,2,1,15,Lindavista Sur,7990000,0,"Coban, #S/N",Casa,False,,False,19.48775245791853,-99.14027740422974
-50,50,2,1,0,1,5,Vallejo,548890,0,Calle Tetrazzini,Casa,True,remateHipotecario,False,19.46618623318264,-99.13173783810328
 59,59,2,2,0,1,0,El Coyol,3401346,900,Eduardo Molina 8132,Apartamento,False,,False,19.4894054,-99.0940466
-45,45,2,1,0,1,10,Zona Escolar,669670,0,Av. Acueducto Tenayuca 551,Apartamento,True,remateHipotecario,False,19.528069872920906,-99.1642647141556
 168,293,6,4,1,1,56,Industrial,5850000,0,Avenida Cruz Azul 100,Casa,False,,True,19.472563,-99.1242035
-60,60,2,1,0,1,5,Martín Carrera,677436,0,General Pedro Negrete 179,Apartamento,True,remateHipotecario,False,19.489923,-99.1099599
 50,50,2,1,0,0,0,Barrio Candelaria TicomAn,2089000,0,"Av Acueducto 833, Candelaria Ticoman, Gustavo A",Apartamento,False,,False,19.5082686,-99.1046667
 59,59,3,1,0,1,35,Guadalupe Proletaria,1800000,500,Calle 15 no. 276,Apartamento,False,,True,19.5236091,-99.1560049
 74,74,3,2,0,1,5,Villa Gustavo A. Madero,3381000,1200,Ferrocarril Hidalgo 1404,Apartamento,False,,False,19.4809664,-99.1079643
-430,480,3,3,1,3,7,Valle del Tepeyac,2240193,0,Moctezuma 525,Casa,True,remateHipotecario,True,19.4881524,-99.141459
 91,215,4,2,1,0,10,Ampliación Providencia,2600000,0,Calle Volcán de Santa María No. 38,Casa,False,,False,19.47853100554996,-99.07218003112486
 157,157,2,2,0,2,0,Lindavista,8428000,0,Insurgentes Norte 1346,Apartamento,False,,False,19.4811493,-99.1299205
-105,100,3,1,0,1,25,San Pedro Zacatenco,1150000,0,Pinar del Río,Casa,True,remateHipotecario,False,19.5069515,-99.1214045
 81,81,2,2,0,2,0,Lindavista,4871000,0,Insurgentes Norte 1346,Apartamento,False,,False,19.4811493,-99.1299205
 60,60,2,2,0,1,14,15 de Agosto,2600000,0,Gral. Pedro Maria Anaya,Apartamento,False,,False,19.4864781,-99.1042461
 418,425,6,4,2,6,26,Industrial,11899000,0,Corona,Casa,False,,True,19.4760417,-99.1228664
 160,475,4,4,0,2,9,San Juan de Aragón,9000000,0,Av.561,Casa,False,,False,19.4515162,-99.0840381
 271,298,5,3,1,3,50,Lindavista Sur,14000000,0,Avenida Montiel Esq. con Entre Coquinbo y Curazao,Casa,False,,False,19.4908853,-99.1331631
 60,52,2,1,0,1,0,Lindavista,1179000,500,Lindavista,Casa,False,,True,19.5037694,-99.1324282
-430,4480,3,3,1,3,7,Valle del Tepeyac,2240193,0,Moctezuma 525,Casa,True,remateHipotecario,True,19.4881524,-99.141459
 51,51,2,1,0,1,5,Vallejo,2141606,1500,Juan Sebastián Bach,Apartamento,False,,False,19.4663502317,-99.1364311584
-98,98,3,1,1,1,10,Bondojito,1360000,0,Av Herny Ford,Apartamento,True,remateHipotecario,True,19.465802224733736,-99.10831106347656
 85,85,2,2,0,1,0,Industrial,4569000,0,Avenida Euzkaro 43,Apartamento,False,,False,19.4792167,-99.1214654
 49,49,2,1,0,1,0,Gustavo A. Madero,1179000,500,Av. Acueducto,Casa,False,,False,19.5188395,-99.1386396
 165,320,4,3,1,2,30,Gustavo A. Madero,6990000,0,Habana 194,Casa,False,,False,19.4868142,-99.1215039
 213,127,3,3,0,2,18,Lindavista Norte,7995000,2500,Pernambuco 800,Apartamento,False,,True,19.4912605,-99.1256395
-86,86,3,1,1,1,10,Vallejo,680000,0,Schumann 117,Apartamento,True,remateHipotecario,False,19.4676866,-99.1300704
-149,278,4,2,1,1,15,Industrial,750000,0,romulo escobar ,Casa,True,remateHipotecario,False,19.4704945,-99.1289685
-151,214,3,2,0,1,10,Gustavo A. Madero,1250000,0,C. Wagner 173,Casa,True,remateHipotecario,False,19.4636169,-99.1291054
 56,56,2,2,0,1,0,Vallejo,2655000,0,Schumann 225,Apartamento,False,,False,19.46747435613254,-99.13105627683896
-70,65,2,1,0,1,20,Aragón la Villa,868000,0,Alberto Herrera 108,Apartamento,True,remateHipotecario,False,19.4806506,-99.1118547
 81,81,2,2,0,0,0,Magdalena de las Salinas,4783000,0,Insurgentes Norte 1346,Apartamento,False,,False,19.4811493,-99.1299205
-123,164,3,2,0,1,22,Estrella,1040000,0,Sardónica ,Casa,True,remateHipotecario,False,19.4733864,-99.1135773
 200,354,4,2,1,3,22,Nueva Atzacoalco,4100000,0,C. 321 529,Casa,False,,True,19.4969127,-99.0846348
 201,373,0,5,2,4,50,Providencia,4600000,0,Estado de Baja California Sur,Casa,False,,False,19.481792,-99.0762992
 233,530,4,3,0,3,36,Planetario Lindavista,13850000,0,Buenavista,Casa,False,,False,19.4955874,-99.1421561
 58,58,2,1,0,0,40,DM Nacional,1850000,0,San Juan de Aragón,Apartamento,False,,False,19.4781039,-99.0944355
 49,49,2,1,0,2,15,Nueva Industrial Vallejo,2550000,550,Avenida Margarita Maza de Juárez,Apartamento,False,,False,19.5066387,-99.1530529
 198,284,3,2,1,4,55,Guadalupe Insurgentes,6990000,0,Avenida Insurgentes Norte,Casa,False,,False,19.4764197,-99.1323921
-273,273,4,2,0,2,0,Estanzuela,1790800,0,Lic. Verdad 32,Casa,True,remateHipotecario,False,19.488129,-99.1126409
-86,86,3,1,1,1,10,Vallejo,680000,0,Schumann 117,Apartamento,True,remateHipotecario,False,19.4676866,-99.1300704
 160,397,3,2,1,4,50,Lindavista Norte,8700000,0,Ambato,Casa,False,,False,19.5000712,-99.1288767
 67,67,2,2,0,1,0,Valle del Tepeyac,3566600,0,Poniente 126 431,Apartamento,False,,True,19.4869547,-99.1505938
 50,50,2,1,0,1,5,Industrial,2900000,0,Escuela Industrial ,Apartamento,False,,True,19.4772942,-99.1211629
@@ -71,7 +46,6 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 395,674,5,4,1,2,30,Residencial Zacatenco,16500000,0,San Juan de Puerto Rico Col. Residencial Zacatenco,Casa,False,,False,19.506471807509524,-99.12755970641516
 105,132,3,2,1,2,0,Lindavista,2169000,500,Lindavista,Casa,False,,True,19.5037694,-99.1324282
 59,59,2,1,0,1,0,Mártires de Río Blanco,2850000,0,Norte 146,Apartamento,False,,False,19.45990249989444,-99.11197177501911
-120,60,2,1,0,1,31,Vasco de Quiroga,1000000,0,CALLE JUAN BOSCO NO  107 LT 4 MZA,Casa,True,remateHipotecario,True,19.4912922,-99.0944108
 135,256,4,5,0,3,45,Panamericana,5750000,0,Norte 3 A,Casa,False,,False,19.4794298,-99.1420087
 290,420,4,4,1,3,37,Torres Lindavista,16700000,600,Torres Lindavista,Casa,False,,False,19.51111550409759,-99.1428583089844
 105,108,3,1,1,2,0,Acueducto de Guadalupe,1930000,500,Lindavista Vallejo,Casa,False,,False,19.5005344,-99.1535718
@@ -79,16 +53,11 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 51,51,2,1,0,0,0,Mártires de Río Blanco,2095000,0,Oriente 91 ,Apartamento,False,,False,19.4605291,-99.1112641
 272,462,14,9,0,0,36,Ampliación Casas Alemán,5750000,0,Puerto Madero,Casa,False,,True,19.4785126,-99.078861
 300,205,6,2,1,4,20,Gustavo A. Madero,5450000,0,Puerto Mazatlan,Casa,False,,False,19.5539791,-99.139523
-80,75,2,1,0,1,20,Gustavo A. Madero,719436,0,Gral. Pedro Negrete 179,Apartamento,True,remateHipotecario,False,19.489923,-99.1099599
-75,75,2,2,0,2,1,Capultitlan,2763294,0,Avenida Insurgentes Norte 1346,Apartamento,True,remateHipotecario,True,19.4817723,-99.1308863
 75,75,3,2,0,0,0,Valle del Tepeyac,4425000,0,San Bartolo Atepehuacan,Apartamento,False,,False,19.4925705,-99.1435398
 102,93,3,2,0,1,0,Vallejo,3800000,0,Vallejo,Apartamento,False,,False,19.4673105,-99.1331631
 89,89,2,2,0,2,0,Magdalena de las Salinas,5607000,0,Insurgentes Norte 1346,Apartamento,False,,False,19.4811493,-99.1299205
-197,372,4,3,0,2,28,Lindavista Norte,3600000,0,"Ambato 942 , Lindavista, Gustavo A. Madero",Casa,True,remateHipotecario,False,19.5037694,-99.1324282
 61,61,2,1,0,1,0,Valle del Tepeyac,3044927,0,Poniente 126 431,Apartamento,False,,True,19.4869547,-99.1505938
-223,223,4,3,1,2,40,Industrial,6800000,0,Excelsior 239,Casa,True,remateHipotecario,True,19.4752201,-99.132246
 180,280,4,3,0,3,20,Torres Lindavista,12700000,0,Guantánamo 2,Casa,False,,False,19.507806,-99.1465024
-136,95,3,1,0,1,32,Guadalupe Tepeyac,1100000,0,Otilia 148,Casa,True,remateHipotecario,False,19.4682239,-99.1185807
 150,270,6,4,1,2,40,La Malinche,5900000,0,Norte 86,Casa,False,,True,19.4568588,-99.1033235
 58,58,2,2,0,1,6,Santiago Atzacoalco,2900000,0,Av. Centenario 1811,Apartamento,False,,False,19.497743218940823,-99.09672957732772
 82,82,2,2,0,2,0,Magdalena de las Salinas,4717000,0,Insurgentes Norte al 1346,Apartamento,False,,False,19.4811493,-99.1299205
@@ -105,36 +74,26 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 68,68,2,2,0,0,1,Lindavista,3809999,0,"Departamento en Venta en Lindavista, Gustavo Madero AF 27-373",Apartamento,False,,True,19.5037694,-99.1324282
 65,65,2,2,0,0,1,Vasco de Quiroga,1970000,270,Av. Eduardo Molina 8140,Apartamento,False,,False,19.4897889,-99.0938061
 404,262,0,0,0,0,67,La Purísima TicomAn,6550000,0,TUXTEPEX 35,Casa,False,,False,19.1988418,-99.1558581
-223,277,4,3,0,3,63,Guadalupe Insurgentes,8200000,0,Excelsior 239,Casa,True,remateHipotecario,True,19.4752201,-99.132246
-190,284,5,3,1,2,34,Guadalupe Tepeyac,8900000,0,Alicia 112B,Casa,True,remateHipotecario,True,19.4677285,-99.123146
 135,450,2,1,0,0,10,Faja de Oro,9900000,5,Norte 74-A,Casa,False,,False,19.4656185,-99.105031
 160,350,8,5,0,1,36,Residencial Zacatenco,4100000,0,Venta de Casa en Residencial Zacatenco Gustavo Madero VE 27-454,Casa,False,,True,19.5128297,-99.1254115
 58,58,2,1,0,1,33,San Pedro El Chico,2100000,0,Calz. San Juan de Aragón 439,Apartamento,False,,True,19.4799484,-99.1000512
-140,140,3,2,0,2,19,Lindavista Norte,1672000,0,Lindavista Norte,Casa,True,remateHipotecario,False,19.494112,-99.1276295
 65,65,2,2,0,1,0,Lindavista Norte,4615300,0,Av. Instituto Politécnico Nacional. Reforma 32052,Apartamento,False,,False,19.495877341694044,-99.13185506764177
 250,402,9,5,1,4,41,Vallejo,10400000,0,Jorge Bizet,Casa,False,,False,19.4682657,-99.1341295
 172,280,4,4,1,2,20,Torres Lindavista,12370000,0,Sucre Sur 69,Casa,False,,False,19.5090881,-99.1440465
-60,60,2,1,0,1,29,El Arbolillo,455000,0,Cam. Viejo a Cuautepec 9,Apartamento,True,remateHipotecario,True,19.5329125,-99.1488062
 68,68,2,2,0,3,10,Tablas de San Agustín,3250000,1000,"Ferrocarril Hidalgo , Gustavo A Madero",Apartamento,False,,False,19.4802914,-99.1074108
 120,66,2,1,0,1,0,Gustavo A. Madero,1315000,475,Gustavo A. Madero,Casa,False,,False,19.4873329,-99.1236134
 50,50,2,1,0,1,10,Estrella,2800000,0,Escuela Industrial 282,Apartamento,False,,False,19.4772942,-99.1211629
-97,165,3,2,0,1,47,Gustavo A. Madero,850000,0,C. 651 49,Casa,True,remateHipotecario,False,19.4514874,-99.0612016
 180,96,3,2,0,3,30,San Felipe de Jesús,2750000,0,Ayutla,Casa,False,,False,19.4958316,-99.0763631
 1,54,2,1,0,0,0,Guadalupe Tepeyac,2680000,0,Guadalupe Tepeyac,Apartamento,False,,False,19.4680088,-99.1193297
-202,155,3,2,0,2,15,Vasco de Quiroga,1385000,0,Juan Bosco No 107 Vasco de Quiroga,Casa,True,remateHipotecario,True,19.491284549520383,-99.0944019871414
 160,256,4,2,1,1,30,Industrial,6800000,0,Ingeniero Carlos Daza,Casa,False,,False,19.4733361,-99.1324324
 54,57,2,1,0,1,0,Guadalupe Tepeyac,2968043,0,Sara,Apartamento,False,,False,19.4673306,-99.1177584
 70,70,3,1,0,1,30,Gustavo A. Madero,2600000,0,Avenida Miguel Bernard 31,Apartamento,False,,False,19.512758,-99.141097
 153,226,4,3,1,2,40,Salvador Díaz Mirón,4350000,0,"Norte 74 7923  , Salvador Díaz Mirón , 07400 Gustavo A. Madero, Ciudad de México, México",Casa,False,,False,19.487269199999982,-99.09631429999996
 90,140,3,2,1,2,18,La Purísima TicomAn,4190000,0,Plan de Guadalupe 56,Casa en condominio,False,,False,19.5140388,-99.136692
 50,50,2,1,0,1,15,Constitución de La República,1800000,0,Av. San Juan de Aragón 600,Apartamento,False,,False,19.4769393,-99.0919644
-458,382,4,2,2,2,8,Lindavista Norte,2000000,0,Managua 877,Casa,True,remateHipotecario,False,19.4961821,-99.1286077
 59,59,2,1,0,1,0,Nueva Vallejo,2900000,1200,Calzada Vallejo,Apartamento,False,,False,19.4837846,-99.1496406
 630,400,4,3,1,6,50,Lindavista Norte,23000000,0,Matanzas,Casa,False,,False,19.4970958,-99.127179
 160,190,3,1,0,2,70,Industrial,5350000,0,Industrial,Casa,False,,False,19.4736233,-99.1248628
-100,122,3,2,0,2,32,Gustavo A. Madero,500000,0,PRIVADA IGNACIO ZARAGOZA NO  91 MZA 2 LT 12 ZONA 4 COL  CUAUTEPEC II CP 07200,Casa en condominio,True,remateHipotecario,True,19.5440857,-99.136143
-215,243,3,2,0,1,10,Lindavista Norte,1200000,0,Sierravista 215,Casa,True,remateHipotecario,False,19.4950961,-99.1250141
-200,150,3,1,0,1,45,Guadalupe Tepeyac,2200000,0,daniel ,Casa,True,remateHipotecario,False,19.4641723,-99.1212208
 156,429,6,4,1,2,35,Industrial,8700000,0,Esperanza 152,Casa,False,,False,19.478486,-99.1234484
 740,609,4,4,1,7,46,Lindavista,35890000,900,Riobamba,Casa,False,,False,19.4935596,-99.1244813
 167,167,4,2,1,2,30,Lindavista Norte,5100000,0,Ramiriqui 1008,Apartamento,False,,False,19.5010074,-99.1270332
@@ -145,7 +104,6 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 60,60,3,1,0,0,35,Acueducto de Guadalupe,1500000,0,Boulevard del Temoluco,Apartamento,False,,False,19.524274,-99.1485143
 160,163,4,2,0,4,28,La Pradera,4550000,0,Sierra Madre Oriental,Casa,False,,True,19.4741093,-99.0656644
 57,57,2,1,0,0,21,DM Nacional,1650000,0,Calz. San Juan de Aragón 439,Apartamento,False,,True,19.4775383983724,-99.09513580331152
-60,60,2,1,1,1,18,El Arbolillo,455000,0,Cam. Viejo a Cuautepec 9,Apartamento,True,remateHipotecario,True,19.5329125,-99.1488062
 105,132,3,2,1,2,0,Aragón la Villa,2169000,500,Alberto Herrera,Casa,False,,False,19.4811226,-99.1137136
 70,70,2,2,0,1,0,Lindavista Vallejo,4000000,0,Calzada Vallejo 720,Apartamento,False,,False,19.4837846,-99.1496406
 58,58,2,1,0,1,14,Vasco de Quiroga,3200000,0,Av. Ing. Eduardo Molina 8132,Apartamento,False,,True,19.4892578,-99.0939946
@@ -156,82 +114,58 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 80,80,3,2,0,1,20,Lindavista Vallejo II Secc,2600000,200,Lindavista Vallejo III Sección,Apartamento,False,,False,19.4923603,-99.1476908
 50,50,2,1,0,1,0,Juventino Rosas,2141000,1500,J Sebastián Bach 186,Apartamento,False,,False,19.4661018,-99.1362056
 167,230,3,3,1,3,15,San Juan de Aragón III Secc,6000000,0,Av ,Casa,False,,False,19.4512797,-99.0705466
-128,250,3,2,1,2,33,Gustavo A. Madero,2300000,1,Av 499 133,Casa,True,remateHipotecario,True,19.4712831,-99.0706751
 319,379,4,2,1,3,24,Lindavista Norte,14100000,0,Cuzco,Casa,False,,False,19.4923755,-99.1292779
 203,171,2,1,2,2,10,Residencial Zacatenco,7000000,0,Ramiriqui,Casa,False,,False,19.5002857,-99.1220962
 90,150,4,2,0,2,45,San Juan de Aragón V Secc,3400000,0,Andador 647,Casa,False,,True,19.451954207550507,-99.06217894285278
 250,250,6,3,0,0,50,25 de Julio,3250000,0,"Cda. 16 de septiembre 17, 25 de julio, Gustavo A. Madero",Casa,False,,False,19.4985524,-99.0801984
 63,78,2,2,0,1,7,7 de Noviembre,2650000,750,Congreso de la Unión,Apartamento,False,,False,19.4565751,-99.1143315
 62,62,3,1,0,0,42,Jorge Negrete,1395000,0,Zona de estacionamiento Edif. 71 Depto 302 Zona 2,Apartamento,False,,False,19.529243481057154,-99.14954414353669
-86,86,3,1,1,1,15,Vallejo,680000,0,Schumann 117,Apartamento,True,remateHipotecario,True,19.4678721,-99.1303004
-156,262,3,2,1,1,50,Valle del Tepeyac,1275000,0,Calle Caldas 582,Casa,True,remateHipotecario,False,19.4886712,-99.1411453
 70,70,2,1,1,1,0,Santa Isabel Tola,2755817,0,Av. Acueducto de Guadalupe 511,Apartamento,False,,True,19.5018056311,-99.1168177128
 170,237,3,1,2,4,40,San Juan de Aragón I Secc,6500000,0,Av. Río Consulado ,Casa,False,,False,19.4516867,-99.0929147
-76,105,3,2,1,1,33,Gustavo A. Madero,1500000,0,Vicente García González 104,Casa,True,remateHipotecario,False,19.5082949,-99.0950049
 202,161,2,3,0,0,45,San Felipe de Jesús,4284000,0,"Colima Mz269 Lt6, San Felipe de Jesús, Gustavo A. Madero",Casa,False,,False,19.4998262,-99.0769869
 145,145,3,2,0,2,15,Lindavista Norte,4200000,1400,Neiva,Apartamento,False,,False,19.4996987,-99.1273939
 395,674,5,4,0,2,35,Residencial Zacatenco,16500000,0,San Juan de Puerto Rico,Casa,False,,False,19.506,-99.1274
-140,343,3,2,0,1,35,Ampliación Progreso Nacional,2214500,0,C. 15 74,Casa,True,remateHipotecario,True,19.5170312,-99.1596671
 142,426,9,9,0,0,40,Ampliación Gabriel HernAndez,4100000,0,Rafael Ramírez 36,Casa,False,,True,19.5033645,-99.09898160000002
 140,140,3,3,1,2,1,Lindavista,9700000,0,Bonao al 100,Casa,False,,True,19.5011088,-99.129723
 195,274,4,2,0,3,0,San Pedro El Chico,6000000,0,Eduardo Molina 6531,Casa,False,,False,19.4873329,-99.1236134
-137,104,3,1,1,2,28,Estrella,1100000,0,Prol. Granate 29,Casa,True,remateHipotecario,False,19.473054,-99.1179046
 242,380,3,2,2,3,40,Torres Lindavista,14700000,0,Calzada Santa Ana 37,Casa,False,,False,19.5097757,-99.1437882
 60,60,2,1,0,1,7,Constitución de La República,2550000000,0,Calz. San Juan de Aragón 322,Apartamento,False,,False,19.4798847,-99.1000778
 212,225,5,3,1,3,45,Gustavo A. Madero,5700000,0,Calle 10  620,Casa,False,,False,19.479171,-99.1554307
 180,328,5,3,1,3,40,Lindavista Norte,9300000,0,Zaruma,Casa,False,,False,19.5000052,-99.1304995
-245,364,5,2,2,2,49,Lindavista Sur,2145000,0,Av. de los 45 Metros 681,Casa,True,remateHipotecario,False,19.4958535,-99.1404602
 105,103,3,2,1,2,0,Lindavista Sur,2530000,500,Callao,Casa,False,,False,19.4895251,-99.1254278
 52,52,2,1,0,1,8,Bondojito,2590000,850,F.C Hidalgo,Apartamento,False,,False,19.4690489,-99.115585
 53,53,2,1,0,1,1,Salvador Díaz Mirón,2749000,1000,Av. Ing. Eduardo Molina 8132,Apartamento,False,,False,19.4892578,-99.0939946
 57,57,2,2,0,1,10,Constitución de La República,2745000,1000,Calzada San Juan de Aragón 322,Apartamento,False,,False,19.4809484,-99.1018239
 129,263,8,4,1,0,98,La Joyita,5400000,0,Norte 50,Casa,False,,False,19.4653472,-99.1167523
 202,419,8,6,0,4,40,San Pedro El Chico,10000000,0,Calle Norte 92 6625,Casa,False,,False,19.4712929,-99.0953218
-196,282,3,1,1,2,29,San Felipe de Jesús,627000,0,Atizapan de Zaragoza 133,Casa,True,remateHipotecario,False,19.4941752,-99.0715292
-122,185,4,2,0,2,24,Villa de Aragón,784000,0,Villa de Tezozomoc 34,Casa,True,remateHipotecario,False,19.4689966,-99.0622102
 217,220,7,3,0,5,50,San Juan de Aragón I Secc,4800000,0,Av ,Casa,False,,False,19.4600869,-99.0936211
-147,170,4,2,1,1,20,Valle del Tepeyac,5000000,0,Oroya 549,Casa,True,remateHipotecario,False,19.486898,-99.1377985
 148,293,7,6,0,0,40,Ex Escuela de Tiro,3750000,0,Pengos 4,Casa,False,,False,19.4552028,-99.0986453
 256,126,4,1,1,2,52,Zona Escolar,3200000,0,"MAESTRO RURAL 8  , Zona Escolar , 07230 Gustavo A. Madero, Ciudad de México, México",Casa,False,,False,19.54188169999999,-99.1526117
 180,259,3,2,2,3,30,Guadalupe Tepeyac,10200000,0,Martha ,Casa,False,,False,19.4680088,-99.1193297
-168,300,3,2,0,1,17,San Juan de Aragón,900000,0,Avenida 511 230,Casa,True,remateHipotecario,False,19.4650013,-99.0919407
 117,204,7,3,1,0,40,Magdalena de las Salinas,4600000,0,"NORTE  17 A  , Magdalena de las Salinas , 07760 Gustavo A. Madero, Ciudad de México, México",Casa,False,,False,19.4796331,-99.14807329999998
 140,333,6,4,0,3,30,La Joya,7200000,0,Norte 74 a,Casa,False,,False,19.4553,-99.1095
 100,250,4,3,1,2,16,Lindavista Sur,7550000,0,Bogotá 701,Casa,False,,False,19.4871685,-99.1259476
-113,113,3,2,0,1,6,Guadalupe Tepeyac,800000,0,Sara 4577,Apartamento,True,remateHipotecario,False,19.4678929,-99.1176446
 158,275,5,4,0,3,40,Zona Escolar,4500000,0,Casa en Manuel Altamirano,Casa,False,,False,19.5373367,-99.146999
 143,203,3,1,1,3,50,Lindavista,10000000,0,Calzada Azcapotzalco - La Villa 1246,Casa,False,,False,19.491217,-99.1381126
 160,350,8,5,0,0,36,Vasco de Quiroga,4100000,1,"Gustavo Madero,vasco de Quiroga,",Casa,False,,True,19.4950848,-99.0937441
 150,150,3,2,0,1,15,7 de Noviembre,3600000,0,Lic. Portugal,Apartamento,False,,False,19.4614608,-99.123743
 170,260,6,3,1,2,45,Emiliano Zapata,5100000,0,Oriente 95 número ,Casa,False,,False,19.4636288,-99.1174469
-75,75,2,1,1,1,20,Héroe de Nacozari,1631006,0,Leopoldo Auer 12(100),Apartamento,True,remateHipotecario,True,19.4698017,-99.1420827
 124,120,3,3,0,4,9,Vallejo,4900000,1800,Calzada de los Misterios 308,Apartamento,False,,False,19.4660585,-99.1261534
-149,278,3,2,0,2,18,Industrial,1000000,0,Romulo Escobar 34,Casa,True,remateHipotecario,False,19.4704945,-99.1289685
 148,120,5,3,0,0,40,Ex Escuela de Tiro,2825000,0,Chelines 8,Casa,False,,False,19.450473603979777,-99.10060567573218
 160,168,4,2,1,1,35,Acueducto de Guadalupe,5100000,0,De La Neblina,Casa,False,,False,19.525519,-99.1535822
-269,269,4,2,0,1,25,San Juan de Aragón II Secc,2145000,1,Av. 553,Casa,True,remateHipotecario,False,19.4527498,-99.0855437
 74,74,3,2,0,2,0,Vallejo,3449495,0,Tamagno 317,Apartamento,False,,False,19.46855374736383,-99.1323820580892
-51,51,2,1,0,1,14,Jorge Negrete,650000,0,El Arbolillo 2,Apartamento,True,remateHipotecario,True,19.534109,-99.1452693
-217,499,5,4,1,2,30,Lindavista,1000000,0,Casma # 717,Casa,True,remateHipotecario,False,19.4927582,-99.1357355
 74,74,3,2,0,1,0,Villa Gustavo A. Madero,2995200,0,"FC Hidalgo 1404 Edificio ""2 B""",Apartamento,False,,False,19.4809664,-99.1079643
-94,94,2,2,0,1,20,Guadalupe Tepeyac,1300000,0,Carlota 27,Apartamento,True,remateHipotecario,False,19.4680088,-99.1193297
 53,53,2,1,0,2,5,Guadalupe Tepeyac,3950000,700,Sara 449,Apartamento,False,,False,19.4680088,-99.1193297
 275,275,3,3,2,4,51,Lindavista Norte,19000000,3000,Pujato no. 8,Casa,False,,True,19.49816300284118,-99.13134718735851
 124,80,2,1,0,0,7,Lindavista Sur,5300000,0,"Residencial Zacatenco, Residencial Zacatenco, Gustavo A. Madero, Ciudad de México",Apartamento,False,,False,19.4908853,-99.1331631
-129,120,3,2,1,1,10,General Felipe Berriozabal,3200000,0,JERONIMO TREVIÑO ,Casa,True,remateHipotecario,False,19.5551604,-99.1297045
 300,270,4,2,1,3,25,Lindavista,12875000,0,Latacunga,Casa,False,,False,19.4910773,-99.1275269
 230,450,8,8,1,5,20,San Juan de Aragón III Secc,20000000,0,Av. ,Casa,False,,False,19.4489088,-99.0728664
-43,43,2,1,0,1,11,Granjas Modernas,750000,0,Gaviotas 21,Apartamento,True,remateHipotecario,True,19.4783881,-99.1034242
 51,51,2,1,0,0,33,Gustavo A. Madero,1000000,0,Carretera Tenayuca Chalmita 50,Apartamento,False,,False,19.5309666,-99.1441601
-223,277,4,3,0,3,19,Guadalupe Insurgentes,8000000,0,Guadalupe Insurgentes,Casa,True,remateHipotecario,False,19.4739758,-99.1324714
 129,263,8,3,1,1,61,La Joyita,7664000,0,Norte 0,Casa,False,,True,19.466769824295028,-99.11580124385982
-45,45,2,1,0,1,4,Vallejo,1891000,0,Florencio Constantino 243,Apartamento,True,remateHipotecario,True,19.4636189,-99.1300776
 54,54,3,2,0,1,0,Guadalupe Tepeyac,3258088,0,Sara,Apartamento,False,,False,19.4680088,-99.1193297
 136,224,4,4,0,1,45,La Joya,4900000,0,Norte 76-A,Casa,False,,False,19.4616821,-99.1058977
-247,247,4,2,0,2,25,Guadalupe Tepeyac,1650000,0,"Elsa #8 Guadalupe Tepeyac, Cidad de Mexico, CDMX",Casa,True,remateHipotecario,False,19.4542422,-99.1300319
 200,400,6,6,1,4,0,San Felipe de Jesús,4800000,0,CUMBRES DE ACULZINGO 789,Casa,False,,False,19.4959876964,-99.0673803742
 500,475,4,5,1,5,22,Torres Lindavista,19980000,1300,Jovellanos 50,Casa en condominio,False,,True,19.5092687,-99.1481773
-100,120,3,2,0,2,32,Vasco de Quiroga,1100000,0,Calle juan bosco 107,Casa,True,remateHipotecario,True,19.4912922,-99.0944108
 231,200,4,3,0,3,60,Tepeyac Insurgentes,5995000,0,Habana 93,Casa,False,,False,19.4844209,-99.1223452
 54,54,2,1,0,0,0,Nueva Vallejo,1650000,240,Calle Poniente 140 64,Apartamento,False,,False,19.494634,-99.1501199
 161,343,3,4,2,3,,Nueva Atzacoalco,8950000,0,"Calle 307 461, Nueva Atzacoalco, 07420 Gustavo A Madero, CDMX, México",Casa,False,,False,19.496986,-99.0884137
@@ -239,929 +173,292 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 160,350,8,5,0,1,36,Residencial Zacatenco,4100000,0,Casa en Venta en Gustavo Madero Residencial Zacatenco BJ 27-454,Casa,False,,True,19.5128297,-99.1254115
 63,63,2,2,0,1,6,Bondojito,2699000,900,Av. Henry Ford,Apartamento,False,,True,19.467415,-99.1108882
 160,311,9,4,0,2,27,Gustavo A. Madero,5300000,0,Malinche,Casa,False,,False,19.5285503,-99.0622198
-43,43,2,1,0,1,10,Granjas Modernas,750000,1500,Gaviotas 21,Apartamento,True,remateHipotecario,False,19.4783881,-99.1034242
 343,343,4,2,1,8,52,Industrial,16000000,0,Excelsior 83,Casa,False,,True,19.4730815,-99.1260509
 160,350,8,5,0,1,36,Residencial Zacatenco,4100000,0,"Venta Vasco de Quiroga, C.p. 07440, Gustavo Madero",Casa,False,,True,19.5002857,-99.1220962
 136,192,5,2,1,2,61,Ampliación Casas Alemán,3580000,0,Puerto Papantla,Casa,False,,False,19.4741401,-99.082931
-233,277,5,3,1,1,25,Guadalupe Insurgentes,8200000,1500,Excelsior 239,Casa,True,remateHipotecario,True,19.4752201,-99.132246
 236,495,3,1,1,1,30,Industrial,13000000,0,Avenida Ingeniero Basiliso Romo Anguiano 103,Casa,False,,False,19.4717023,-99.1276902
 81,81,2,2,0,2,5,Magdalena de las Salinas,4800000,2000,Avenida Insurgentes Norte 1346,Apartamento,False,,False,19.48098336045952,-99.13000653544312
 59,50,2,2,0,1,0,Vallejo,2338000,1500,JUAN SEBASTIAN BACH  186,Apartamento,False,,False,19.4661019,-99.1362056
 180,373,4,3,1,3,37,Lindavista,8900000,0,Ambato,Casa,False,,False,19.5000712,-99.1288767
 310,111,4,1,2,12,38,Lindavista,7890000,0,Manizales 759,Casa,False,,False,19.4933213,-99.1318215
-150,150,3,1,0,2,20,Guadalupe Tepeyac,1250000,0,"Lidia 4e, Guadalupe Tepeyac, Ciudad de Mexico",Casa,True,remateHipotecario,False,19.4634638,-99.1214299
-80,80,3,2,0,1,19,Lindavista Norte,830000,0,Lindavista Norte,Apartamento,True,remateHipotecario,False,19.494112,-99.1276295
 64,64,2,2,0,1,0,Guadalupe Tepeyac,3443967,0,Guadalupe Tepeyac GAM,Apartamento,False,,False,19.4680088,-99.1193297
 160,207,4,2,1,2,30,Nueva Vallejo,5900000,0,Nte. 27 ,Casa,False,,False,19.4936356,-99.1501015
-50,50,2,1,0,1,10,Nueva Industrial Vallejo,890000,0,Calle Tetrazzini 232,Casa,True,remateHipotecario,False,19.4667787,-99.131672
-115,122,3,2,0,1,12,Estrella,1200000,0,Prolongación Turquesa 31,Casa,True,remateHipotecario,False,19.472372,-99.1157958
 220,220,6,3,0,6,30,San Juan de Aragón I Secc,5500000,0,1a. 507 1,Casa,False,,False,19.45673244913151,-99.09563420178296
 158,332,6,3,0,3,10,Gustavo A. Madero,4600000,0,Av 525,Casa,False,,False,19.4585563,-99.0905898
-98,98,3,1,1,1,10,Bondojito,1360000,1500,Avenida Henry Ford 351,Apartamento,True,remateHipotecario,False,19.4658916,-99.108351
 81,81,3,1,0,1,20,La Purísima TicomAn,2990000,400,Av. Guillermo Massieu Helguera 177,Apartamento,False,,True,19.510427,-99.1364489
-179,230,5,2,1,3,10,Gustavo A. Madero,1400000,0,Bogotá 614,Casa,True,remateHipotecario,False,19.484896,-99.1281661
 203,493,3,3,0,4,10,Torres Lindavista,16500000,0,Torres Lindavista,Casa,False,,False,19.5109537,-99.1442316
 68,68,2,1,0,1,0,Santa Isabel Tola,2643334,0,Av. Acueducto de Guadalupe 511,Apartamento,False,,True,19.5018056311,-99.1168177128
-152,225,3,2,0,1,23,Gertrudiz Sánchez,970000,0,Norte 82 5813,Casa,True,remateHipotecario,False,19.4646444,-99.1021368
-46,46,2,1,0,1,5,Vallejo,1890000,1000,Florencio Constantino 243,Apartamento,True,remateHipotecario,True,19.4636189,-99.1300776
 85,85,2,2,0,2,3,Gustavo A. Madero,5323500,0,Euzkaro 43 Depto. 501,Apartamento,False,,True,19.479205,-99.1214694
 37,37,1,1,0,0,1,Villa Gustavo A. Madero,1981999,1,Alberto Herrera,Apartamento,False,,False,19.4811226,-99.1137136
 175,298,3,3,0,2,57,San Juan de Aragón VI Secc,6450000,0,Av 499 85,Casa,False,,False,19.4693776,-99.0711648
 120,120,3,3,0,4,8,Vallejo,4900000,1800,Calzada de los Misterios,Apartamento,False,,False,19.4657274,-99.125927
-280,440,4,3,1,2,15,Villa de Aragón,650000,0,Calle Villa Cuitláhuac 76,Casa,True,remateHipotecario,False,19.469961,-99.0616976
-305,230,4,2,1,2,25,Lindavista Norte,800000,0,Matanzas 872,Casa,True,remateHipotecario,False,19.4958675,-99.1283725
-186,165,3,2,0,2,20,La Escalera,845000,0,Arroyo Zacatenco 14 Colonia La escalera Alcaldia Gustavo A Madero,Casa,True,remateHipotecario,False,19.5083158,-99.1372566
 160,268,4,3,0,2,29,Acueducto de Guadalupe,5200000,0,CALLE DE LA PLAYA,Casa,False,,False,19.5268057,-99.1550321
-216,269,4,2,1,1,25,San Juan de Aragón II Secc,5200000,500,Av. 553 196,Casa,True,remateHipotecario,True,19.4571646,-99.0839495
-180,262,4,2,1,1,10,Lindavista Sur,2600000,0,Casma 720,Casa,True,remateHipotecario,False,19.4929359,-99.1359718
 63,63,2,1,0,1,,Granjas Modernas,2000000,0,H. CONGRESO DE LA UNION,Apartamento,False,,False,19.48085,-99.10649
 67,67,1,1,0,1,40,Lindavista Sur,2100000,360,Chosica,Apartamento,False,,False,19.4903826,-99.1357332
 52,52,2,1,0,0,0,Ticoman,2200000,1000,Acueducto ,Apartamento,False,,False,19.5163643,-99.1357786
 187,311,4,3,0,3,1,Industrial,7350000,0,Calle Tenayo,Casa,False,,False,19.4821539,-99.1207446
-219,220,4,4,0,3,9,Torres Lindavista,600000,0,"Torres Lindavista, Gustavo A. Madero,   Ciudad de México, CDMX",Casa,True,remateHipotecario,True,19.5109537,-99.1442316
-158,200,3,1,1,1,49,Nueva Tenochtitlan,892000,0,Nte 90 ,Casa,True,remateHipotecario,False,19.4560118,-99.1013986
-160,230,4,2,2,2,45,Pradera,2160000,0,Sierra Madre Oriental 140,Casa,True,remateHipotecario,True,19.4756662,-99.0643295
-160,146,3,2,1,2,35,La Pradera,2160000,500,Sierra Madre Oriental 140,Casa,True,remateHipotecario,False,19.4756662,-99.0643295
 51,51,2,1,0,1,0,Vallejo,2141600,0,Vallejo,Apartamento,False,,False,19.4673105,-99.1331631
 151,197,4,2,1,2,38,Progreso Nacional,3500000,0,calle 9 ,Casa,False,,False,19.5186119,-99.1621469
 47,47,1,1,0,0,6,Gertrudiz Sánchez,1730000,0,Norte 72 B,Apartamento,False,,False,19.4700482,-99.1043348
-150,110,2,1,1,1,10,Estrella,550000,0,Joyas,Casa,True,remateHipotecario,True,19.4753906,-99.1170564
-73,73,3,1,0,1,45,Acueducto de Guadalupe,1178693,250,Río San Javier 320,Apartamento,True,remateHipotecario,True,19.5278995,-99.1495001
 45,45,2,1,0,1,0,Tres Estrellas,2775000,1500,Tres Estrellas,Apartamento,False,,True,19.472076,-99.1117223
-202,155,3,2,0,2,18,Vasco de Quiroga,1385000,0,C. Padre Juan Bosco,Casa,True,remateHipotecario,True,19.49119605207777,-99.09409621531373
-100,204,4,2,1,2,30,San Juan de Aragón IV Secc,500000,0,Calle 631 23,Casa,True,remateHipotecario,False,19.4494033,-99.0636732
-160,275,4,2,1,2,28,Nueva Vallejo,2430000,0,Nte. 17,Casa,True,remateHipotecario,False,19.4845494,-99.1470828
-120,129,3,2,0,1,42,General Felipe Berriozabal,3200000,0,JERÓNIMO TREVIÑO 1,Casa,True,remateHipotecario,False,19.5551604,-99.1297045
 50,50,2,1,0,1,4,Juventino Rosas,2141606,1800,Juan Sebastián Bach 186,Apartamento,False,,False,19.4661018,-99.1362056
 77,77,3,1,0,1,44,San Juan de Aragón,2432700,0,"Calzada San Juan de Aragon, San Juan de Aragon VG 27-399",Apartamento,False,,True,19.4702966,-99.085996
-203,234,3,2,1,2,13,Residencial Zacatenco,2150000,0,Manizales ,Casa,True,remateHipotecario,False,19.5002857,-99.1220962
-223,278,5,3,1,2,10,Guadalupe Insurgentes,6000000,1200,Excelsior 239,Casa,True,remateHipotecario,True,19.4752201,-99.132246
-60,60,2,1,0,1,15,El Arbolillo,455000,0,Cam. Viejo a Cuautepec 9,Apartamento,True,remateHipotecario,True,19.5329125,-99.1488062
-195,234,5,4,0,2,37,Industrial,1848631,0,Santa Gertrudis 88,Casa,True,remateHipotecario,True,19.4718517,-99.1262254
-214,263,3,2,0,2,45,Lindavista Sur,700000,10,Chosica ,Casa,True,remateHipotecario,True,19.4900135,-99.1356275
-207,390,4,3,0,1,17,San Juan de Aragón,1320000,0,Avenida 508 20,Casa,True,remateHipotecario,False,19.4627704,-99.0929418
-160,190,3,2,0,1,29,Valle del Tepeyac,904000,0,Solola ,Casa,True,remateHipotecario,False,19.4866759,-99.1420738
-427,457,6,5,3,2,36,Lindavista Norte,13000000,1,Prernambuco 845,Casa,True,remateHipotecario,True,19.4924472,-99.1245818
-122,207,4,2,1,1,32,Providencia,500000,1,Avenida Francisco Morazán,Casa,True,remateHipotecario,True,19.4725144,-99.0679596
 92,92,2,2,0,1,,Industrial,4300000,0,AV ING BASILISO ROMO ANGUIANO,Apartamento,False,,False,19.47267,-99.13062
-242,350,4,2,1,2,18,Lindavista Sur,645000,0,Linares,Casa,True,remateHipotecario,False,19.4888785,-99.1298249
-217,332,4,3,1,1,41,Lindavista Sur,650000,0,Oruro,Casa,True,remateHipotecario,False,19.4902138,-99.1289849
 170,300,3,2,1,2,10,Estrella,620000,0,Calle Diamante,Casa,False,,False,19.477227,-99.1169142
-170,240,4,3,1,2,10,Industrial,510000,0,Romulo Escobar ,Casa,True,remateHipotecario,False,19.4736617,-99.1278181
-166,322,4,3,0,2,15,Lindavista,790000,0,calle ambato,Casa,True,remateHipotecario,False,19.5037694,-99.1324282
 57,57,2,2,0,0,0,Nueva Atzacoalco,1600000,0,Nueva Atzacoalco,Apartamento,False,,False,19.4991516,-99.0861392
-45,45,2,1,0,1,5,Gustavo A. Madero,750000,0,Gaviotas 21,Apartamento,True,remateHipotecario,False,19.478817,-99.1056928
-51,51,2,1,0,1,9,El Arbolillo,650000,0,TENAYUCA CLALMITA SN EDIF 43 DEPTO 102,Apartamento,True,remateHipotecario,True,19.53431763221659,-99.1465168671814
-63,63,2,1,0,1,36,San Juan de Aragón II Secc,830000,0,Puerto Oporto 64,Apartamento,True,remateHipotecario,True,19.4689724,-99.0907497
-187,230,3,3,1,2,11,Industrial,890000,0,Miraflores,Casa,True,remateHipotecario,True,19.4703598,-99.1264528
 211,450,5,2,0,8,7,Zona Escolar Oriente,6900000,0,Adolfo Ruiz Cortines,Casa,False,,False,19.5394705,-99.1451772
-100,103,3,1,1,0,34,Gustavo A. Madero,500000,0,Unión 257,Apartamento,True,remateHipotecario,False,19.4830734,-99.1212802
-50,59,2,1,0,0,20,Indeco,1050000,0,Perdiz,Casa,True,remateHipotecario,True,19.47193291686429,-99.0905859400894
 72,72,2,1,0,0,,La Purísima TicomAn,1795000,0,ESCUADRON ,Apartamento,False,,False,19.517167379160043,-99.14055661582094
 70,70,3,1,1,2,15,Bondojito,3200000,1500,Fc hidalgo 1337,Apartamento,False,,False,19.4684702,-99.1156559
-112,112,3,2,1,1,65,Tepeyac Insurgentes,587000,0,Cda. Talara 109,Apartamento,True,remateHipotecario,False,19.4849509,-99.1216008
-262,405,4,2,1,2,15,Lindavista Sur,850000,0,Cerrada de Otavalo 80,Casa,True,remateHipotecario,False,19.493441,-99.1368364
 77,77,3,1,0,1,44,San Juan de Aragón,2432710,0,SAN JUAN DE ARAGON 645,Apartamento,False,,False,19.473535628685685,-99.07988388371324
 88,150,3,3,1,3,30,Torres Lindavista,13000000,2500,"Casa EN Venta Uruyen,torres DE Lindavista",Casa,False,,False,19.512168,-99.1442661
-350,159,4,2,1,1,70,Juventino Rosas,1328500,0,Juan Sebastián Bach,Casa,True,remateHipotecario,True,19.4683817,-99.1360422
-51,51,2,1,0,1,15,El Arbolillo,650000,0,tenayuca clalmita,Apartamento,True,remateHipotecario,True,19.534560303213443,-99.14707476665647
-256,256,4,3,0,2,10,Lindavista Sur,650000,0,Linares,Casa,True,remateHipotecario,True,19.4888785,-99.1298249
-173,363,4,3,1,2,29,Industrial,1400000,0,Parque María del Carmen 5,Casa,True,remateHipotecario,False,19.4721714,-99.1280066
-148,282,4,1,0,1,16,Industrial,589000,0,Luxo,Casa,True,remateHipotecario,False,19.4782717,-99.1292446
-302,327,4,3,1,1,60,Lindavista Sur,930000,500,Cali 676,Casa,True,remateHipotecario,False,19.4867863,-99.127262
-130,242,3,2,0,1,10,Estrella,550000,0,Prol. Granate,Casa,True,remateHipotecario,False,19.4736027,-99.1177795
-56,56,2,1,0,1,30,Gustavo A. Madero,525000,0,Virginia Fábregas 138,Apartamento,True,remateHipotecario,False,19.5250618,-99.1437164
-91,91,3,1,0,1,52,Tepeyac Insurgentes,708500,700,Unión 257,Apartamento,True,remateHipotecario,True,19.4855507,-99.1220962
-234,140,3,2,1,2,10,El Coyol,480000,0,C 311,Casa,True,remateHipotecario,False,19.4882841,-99.0905436
 38,38,1,1,0,0,1,Villa Gustavo A. Madero,1981999,1,Villa Gustavo A. Madero,Apartamento,False,,False,19.4838854,-99.1135903
-77,77,2,1,0,1,11,Gustavo A. Madero,1600000,0,Cam. Sur 129,Apartamento,True,remateHipotecario,True,19.481827300000003,-99.0792751
-188,447,4,2,1,2,8,Valle del Tepeyac,3000000,0,Boyacá 601,Casa,True,remateHipotecario,False,19.4896132,-99.1423124
-168,168,3,2,0,2,7,San Juan de Aragón I Secc,820000,0,Avenida 511 #230 San Juan de aragon I sección,Casa,True,remateHipotecario,False,19.4686616,-99.0847614
-52,52,2,1,0,1,25,Gustavo A. Madero,350000,0,Av. de las Brisas,Apartamento,True,remateHipotecario,False,19.5274932,-99.1508737
 103,85,3,2,0,1,35,Industrial,4200000,0,Perfeccionada,Casa,False,,False,19.4749042,-99.1302985
 63,63,2,2,0,1,4,Bondojito,3283500,0,Oriente 107 3444,Apartamento,False,,False,19.465087307869293,-99.10837476996592
-62,62,2,1,0,1,10,Triunfo de La República,607000,200,Gral. Pedro Negrete 179,Apartamento,True,remateHipotecario,False,19.489923,-99.1099599
-240,280,4,2,1,2,13,Lindavista Norte,1200000,0,Sierravista,Casa,True,remateHipotecario,False,19.4963609,-99.1265651
 71,70,2,2,0,0,0,La Pradera,2200000,0,Cofre de Perote,Apartamento,False,,False,19.4743558,-99.0663552
-202,264,3,2,1,1,12,Lindavista Sur,1800000,0,Trujillo ,Casa,True,remateHipotecario,False,19.4916351,-99.1346616
 50,50,2,1,0,1,15,Guadalupe Insurgentes,2590000,1150,Aurelio Leyva 15,Apartamento,False,,False,19.4713555,-99.1348398
-210,210,3,1,1,1,9,C.T.M. El Risco,790000,1,El Risco CTM,Casa,True,remateHipotecario,False,19.5103835,-99.0972012
-173,187,3,2,1,1,30,San Juan de Aragón III Secc,1620000,0,"Av. 605 31, San Juan de Aragón III Secc, Gustavo A. Madero, 07970 Ciudad de México, CDMX",Casa,True,remateHipotecario,False,19.4498383,-99.0690902
-43,43,2,1,0,1,25,Granjas Modernas,570600,100,Gaviotas 21,Apartamento,True,remateHipotecario,True,19.4783881,-99.1034242
 600,750,3,2,2,5,70,Lindavista Norte,19200000,0,Coquimbo 804,Casa,False,,False,19.4910819,-99.1252664
-378,210,3,2,1,2,20,Lindavista Norte,699000,0,Rio Bamba 845 Col. Lindavista Norte Gustavo A. Madero,Casa,True,remateHipotecario,False,19.4931576,-99.1253119
-86,86,3,1,1,1,8,Gustavo A. Madero,750000,0,Schumann 117,Apartamento,True,remateHipotecario,False,19.4678721,-99.1303004
-162,136,3,2,1,1,39,Ampliación Casas Alemán,1270000,0,Puerto Progreso,Casa,True,remateHipotecario,False,19.4771143,-99.0827977
-233,159,5,2,1,2,23,Acueducto de Guadalupe,780000,0,De La Arena 46,Casa,True,remateHipotecario,False,19.5213589,-99.1436333
-142,284,5,4,1,2,16,Industrial,1599000,0,Sirena ,Casa,True,remateHipotecario,False,19.4801815,-99.1277416
-218,220,4,1,1,2,16,Constitución de La República,695000,0,Constitución de la República,Casa,True,remateHipotecario,True,19.4801382,-99.0645497
 105,69,2,1,0,2,0,Gustavo A. Madero,1260000,475,Av Politécnico Nacional,Casa,False,,False,19.5393415,-99.1468584
 132,193,4,3,0,3,62,Ampliación Mártires de Río Blanco,5500000,0,Oriente 76 A,Casa,False,,False,19.4621,-99.1056
 450,450,6,4,0,2,,San Juan de Aragón I Secc,7000000,0,AV. HENRY FORD,Casa,False,,False,19.4642,-99.10268
-127,141,3,1,1,1,33,Guadalupe Tepeyac,1100000,0,Lidia 79,Casa,True,remateHipotecario,False,19.465987,-99.1200908
-295,297,3,1,0,1,20,Valle del Tepeyac,703000,0,Corumbá,Casa,True,remateHipotecario,False,19.4876522,-99.1397012
-230,160,3,2,0,1,29,Acueducto de Guadalupe,520000,0,Del Piélago 54,Casa,True,remateHipotecario,False,19.5265409,-99.1547702
-210,162,4,2,0,1,24,Acueducto de Guadalupe,690000,0,Del Puerto 23,Casa,True,remateHipotecario,False,19.5257557,-99.155995
-218,280,4,2,1,2,15,Gustavo A. Madero,690000,0,Av. 519,Casa,True,remateHipotecario,False,19.4568673,-99.092836
 205,320,3,1,2,3,40,Industrial,6000000,0,Fundidora de Monterrey 56,Casa,False,,True,19.4714839,-99.1295382
-200,600,5,3,1,1,15,Industrial,700000,0,Buen Tono 275,Casa,True,remateHipotecario,False,19.4780788,-99.1247539
 111,111,3,2,0,1,30,Industrial,4500000,0,Necaxa,Apartamento,False,,False,19.4772056,-99.1270445
 357,898,3,3,0,2,56,Lindavista Norte,25245000,0,Lima,Casa,False,,False,19.4895747,-99.1301961
 65,65,2,2,0,1,0,Lindavista Norte,4534500,1,AV. POLITECNICO NACIONAL ,Apartamento,False,,False,19.4966793,-99.1321796
-173,214,3,2,1,2,10,Gustavo A. Madero,700000,0,AV 637 al 0,Casa,True,remateHipotecario,False,19.4489156,-99.0627056
 184,184,5,5,1,0,0,Tepeyac Insurgentes,7900000,0,Tepeyac,Casa,False,,False,19.4855507,-99.1220962
 216,300,4,3,0,3,10,Lindavista Norte,9500000,0,Chiclayo,Casa,False,,False,19.4920639,-99.1288606
-160,210,3,2,0,1,0,Aragón InguarAn,700000,0,Aragón Inguarán,Casa,True,remateHipotecario,False,19.4708116,-99.1075731
-114,114,3,2,0,1,16,Bondojito,495000,300,Ferrocarril Hidalgo 1337,Apartamento,True,remateHipotecario,True,19.4689079,-99.1155406
-60,60,2,1,0,1,5,Mártires de Río Blanco,2500000,1000,Norte. 64 3716,Apartamento,True,remateHipotecario,False,19.4597682,-99.1124741
-124,134,4,1,1,1,10,Industrial,1530000,0,Sirena 5,Casa,True,remateHipotecario,False,19.4798367,-99.12684
-137,163,4,2,1,1,30,Valle del Tepeyac,3850000,0,Recife 653,Casa,True,remateHipotecario,False,19.4906155,-99.1380317
 72,72,2,1,0,1,0,Tres Estrellas,2775000,1,Oniquina,Apartamento,False,,False,19.472076,-99.1117223
-61,61,2,1,0,1,18,Vasco de Quiroga,408000,1,Av. Ing. Eduardo Molina 1720 Vasco de Quiroga,Apartamento,True,remateHipotecario,False,19.4909454,-99.0954726
 140,125,4,1,0,0,,Estrella,4900000,0,ACERINA,Casa,False,,False,19.4749,-99.12043
-218,420,4,3,0,2,19,Lindavista Sur,615000,0,Oruro ,Casa,True,remateHipotecario,True,19.490852,-99.128653
-141,156,3,2,1,2,30,Villa de Aragón,510000,0,Villa de Aragón,Casa,True,remateHipotecario,False,19.4672793,-99.0605643
-95,95,3,3,0,2,25,Ampliación Mártires de Río Blanco,409488340,0,Nte. 17 5252,Casa,True,remateHipotecario,False,19.4865658,-99.146826
-220,320,4,3,0,1,40,Guadalupe Tepeyac,690000,0,Guadalupe Tepeyac,Casa,True,remateHipotecario,True,19.4680088,-99.1193297
 49,49,2,1,0,1,1,Santiago Atzacoalco,2040100,0,Centenario 2045,Apartamento,False,,False,19.497257510641667,-99.09789385235554
 89,89,3,2,0,1,,Vallejo,3800000,0,BORODIN,Apartamento,False,,False,19.46798580117389,-99.13348484598907
 149,231,7,5,0,2,45,Panamericana,4500000,0,norte 3 a,Casa,False,,False,19.4794298,-99.1420087
-220,86,3,2,0,2,25,San Juan de Aragón II Secc,680000,0,Avenida  ,Casa,True,remateHipotecario,False,19.4482389,-99.0863747
 160,202,4,2,0,2,61,Mártires de Río Blanco,5400000,0,H. Congreso de la Unión 3640,Casa,False,,False,19.4587151,-99.1139598
 69,69,3,1,0,1,20,Defensores de La República,2500000,350,Norte 1-H no. 4607,Apartamento,False,,False,19.4738389,-99.1408216
-414,227,4,2,1,2,20,Torres Lindavista,645000,0,"Punto Fijo, Torres Lindavista, Gustavo A. Madero",Casa,True,remateHipotecario,False,19.510842,-99.1444866
-174,196,3,1,1,1,30,Villa de Aragón,600000,0,Villa de Sahagún #14,Casa,True,remateHipotecario,False,19.4682766,-99.0621764
 52,52,2,1,0,0,45,El Arbolillo,1200000,0,El Arbolillo 50,Apartamento,False,,False,19.53479330251724,-99.14435894019776
 125,81,2,2,0,2,5,Residencial Zacatenco,5297000,0,"Cienfuegos 1077  , Residencial Zacatenco , 07369 Gustavo A. Madero, Ciudad de México, México",Apartamento,False,,False,19.5009318,-99.1220728
-240,121,3,2,0,2,15,Lindavista Sur,800000,0,huancayo 719,Casa,True,remateHipotecario,False,19.4935513,-99.1392913
-324,358,0,3,1,1,27,Mártires de Río Blanco,693000,0,Norte 56A ,Casa,True,remateHipotecario,False,19.4626874,-99.1154348
-65,65,2,1,0,1,20,Jorge Negrete,810006,0,Virginia Fábregas 138,Apartamento,True,remateHipotecario,True,19.5280552,-99.1443839
-170,250,3,2,0,2,10,Estrella,590000,0,Acerina,Casa,True,remateHipotecario,False,19.4765172,-99.1198626
-160,246,4,3,0,2,22,Industrial,590000,0,Industrial,Casa,True,remateHipotecario,False,19.4736233,-99.1248628
-183,214,3,2,1,2,42,Tepeyac Insurgentes,1086000,0,Arica 111,Casa,True,remateHipotecario,False,19.4862895,-99.1204969
-214,263,3,2,0,2,15,Lindavista Sur,700000,0,Chosica ,Casa,True,remateHipotecario,False,19.4900135,-99.1356275
-406,470,5,4,0,3,20,Zacatenco,790000,0,Mollendo,Casa,True,remateHipotecario,False,19.50127929513057,-99.129133015142
-220,248,4,3,0,2,30,San Juan de Aragón II Secc,2145000,1,Av. 553,Casa,True,remateHipotecario,False,19.4527498,-99.0855437
 65,65,2,2,0,1,0,Lindavista Norte,3993600,0,Av Instituto Politécnico Nacional,Apartamento,False,,False,19.497992,-99.1320414
 196,196,3,3,0,2,35,Torres Lindavista,6630000,0,Miguel Othón de Mendizabal Oriente,Apartamento,False,,False,19.5089799,-99.141596
-140,206,3,1,1,1,10,Industrial,2000000,0,Av. Victoria,Casa,True,remateHipotecario,False,19.4747435,-99.1257179
 202,161,3,2,0,3,43,Nueva Atzacoalco,4284000,1,"Gustavo Madero, Nueva Atzacoalco",Casa,False,,True,19.4991516,-99.0861392
-148,148,4,3,1,2,0,Campestre Aragón,650000,0,Camino de La Enseñanza,Casa,True,remateHipotecario,False,19.4840308,-99.0798513
-158,220,3,2,0,2,10,Guadalupe Tepeyac,550000,0,Martha,Casa,True,remateHipotecario,False,19.4680088,-99.1193297
-136,286,3,2,0,1,37,Ampliación Casas Alemán,761000,0,Puerto Progreso 148,Casa,True,remateHipotecario,False,19.4798346,-99.0824612
-160,290,4,2,0,2,30,San Juan de Aragón VII Secc,495000,0,Av 499,Casa,True,remateHipotecario,True,19.4678151,-99.07197
-85,85,2,2,0,1,3,Nueva Atzacoalco,1204814,0,Avenida Centenario 2152,Apartamento,True,remateHipotecario,True,19.5022555,-99.0943081
-90,125,4,3,0,2,34,Lomas de Cuautepec,600000,0,PRIVADA IGNACIO ZARAGOZA NO  91,Casa en condominio,True,remateHipotecario,True,19.5703182,-99.1359301
-156,240,3,2,0,1,15,Lindavista Sur,958000,0,Trujillo ,Casa,True,remateHipotecario,False,19.4927214,-99.1342184
 79,122,4,2,0,0,56,Industrial,4350000,0,Tepeyac,Casa,False,,False,19.4716387,-99.1251762
 254,240,4,4,0,2,25,Lindavista Norte,10300000,0,Managua,Casa,False,,False,19.4965,-99.1283
-287,300,4,3,1,3,10,Estrella,640000,0,C. Amatista,Casa,True,remateHipotecario,True,19.4764229,-99.1194587
-136,195,3,2,1,2,10,Fernando Casas Alemán,749900,0,Puerto Guaymas 148,Casa,True,remateHipotecario,False,27.9110633,-110.9090678
 140,217,4,2,1,3,22,Ampliación Casas Alemán,6645000,0,Puerto Progreso no. 36,Casa,False,,False,19.475418,-99.0832526
 57,57,2,1,0,0,21,DM Nacional,2066000,0,Calzada SAN Juan DE Aragon 439,Apartamento,False,,False,19.4760698,-99.0948001
-133,174,3,2,0,2,16,Gustavo A. Madero,2540602,0,Avenida 499,Casa,True,remateHipotecario,False,19.4678151,-99.07197
-250,64,2,1,0,0,21,Constitución de La República,3135000,0,Calzada San Juan de Aragón 322,Apartamento,True,remateHipotecario,False,19.48094966432954,-99.10187754418033
-140,200,4,3,0,2,10,Industrial,500000,0,ROMULO ESCOBAR,Casa,True,remateHipotecario,False,19.4741202,-99.1275379
-190,405,5,3,1,2,21,Gustavo A. Madero,920000,0,Av. ,Casa,True,remateHipotecario,False,19.4546669,-99.0879067
-130,150,3,2,0,1,15,San Juan de Aragón VII Secc,1721643,0,Av 412-A 123,Casa,True,remateHipotecario,True,19.4680406,-99.0748016
-356,429,4,3,1,2,10,San Juan de Aragón II Secc,450000,0,Av. 563,Casa,True,remateHipotecario,False,19.4529297,-99.0830212
-174,348,4,3,0,2,19,Gustavo A. Madero,750000,0,Nte. 17 5224,Casa,True,remateHipotecario,False,19.4854955,-99.1470158
-50,50,2,1,0,1,14,Vallejo,890000,0,C. Tetrazzini 232,Apartamento,True,remateHipotecario,True,19.4667787,-99.131672
 500,410,9,4,0,7,60,Lindavista Sur,13500000,0,Arequipa 612,Casa,False,,False,19.4846416,-99.1277426
-98,98,3,1,1,1,15,Bondojito,1460000,1000,Avenida Henry Ford 351,Apartamento,True,remateHipotecario,False,19.4658916,-99.108351
 41,143,3,2,0,1,15,Lindavista,5600000,1000,Lindavista,Apartamento,False,,False,19.5037694,-99.1324282
-109,235,3,2,0,2,14,Guadalupe Proletaria,1000000,0,Del Atolon ,Casa,True,remateHipotecario,False,19.5202824,-99.1448265
-142,142,3,2,1,1,35,Industrial,2130000,500,Santa Gertrudis 88,Apartamento,True,remateHipotecario,False,19.4718517,-99.1262254
 0,0,2,2,0,1,0,Lindavista,4534519,0,gustavo Madero  - Lindavista,Apartamento,False,,False,19.5037694,-99.1324282
-64,64,2,1,0,1,10,Acueducto de Guadalupe,2600000,1,Boulevard del Temoluco 372,Apartamento,True,remateHipotecario,True,19.5277127,-99.1567231
 54,54,3,2,0,1,0,Guadalupe Tepeyac,3178566,0,,Apartamento,False,,True,19.4680088,-99.1193297
-160,217,3,3,0,2,15,San Juan de Aragón,500000,0,Av 511,Casa,True,remateHipotecario,False,19.46508492684181,-99.09176032446749
 150,260,4,2,1,1,10,Industrial,580000,0,Santa Gertrudis,Casa,False,,False,19.4728963,-99.1259522
 57,58,2,1,0,0,30,Acueducto de Guadalupe,1249000,0,"And. 43 del Temoluco Acueducto de Guadalupe, Gustavo A. Madero  Ciudad de México, CDMX México",Apartamento,False,,False,19.5291631,-99.153113
-202,155,3,2,0,2,10,Vasco de Quiroga,1385000,0,Calle Padre Juan Bosco 117,Casa,True,remateHipotecario,False,19.4912024,-99.0941098
-86,86,2,2,0,2,0,7 de Noviembre,1962685,0,Nte 42 3636,Apartamento,True,remateHipotecario,True,19.4616489,-99.1228235
-85,85,2,2,0,1,10,Santiago Atzacoalco,1204814,0,Avenida Centenario 2152,Apartamento,True,remateHipotecario,False,19.5022555,-99.0943081
 63,63,2,2,0,1,6,7 de Noviembre,2400000,800,7 de Noviembre,Apartamento,False,,True,19.45728329582435,-99.11371402153712
-85,85,2,2,0,1,10,Santiago Atzacoalco,1204814,1500,Avenida Centenario 2152,Apartamento,True,remateHipotecario,False,19.5022555,-99.0943081
-43,43,2,1,0,1,15,Granjas Modernas,750000,0,Gaviotas 21,Apartamento,True,remateHipotecario,False,19.4783881,-99.1034242
-85,85,3,2,0,2,19,Residencial Zacatenco,2215000,0,Residencial Zacatenco,Apartamento,True,remateHipotecario,False,19.5002857,-99.1220962
-162,92,3,2,1,1,10,Estrella,600000,0,Coral,Casa,True,remateHipotecario,False,19.476111,-99.1178492
-119,224,4,2,0,2,15,Tepeyac Insurgentes,800000,0,Arica,Casa,True,remateHipotecario,False,19.4855507,-99.1220962
-263,186,3,2,1,1,30,San Juan de Aragón I Secc,720000,0,Av  ,Casa,True,remateHipotecario,False,19.4650013,-99.0919407
 52,52,2,1,0,1,20,Vallejo,1990000,0,Tetrazzini,Apartamento,False,,False,19.4663,-99.1318
 180,240,0,1,1,2,100,Martín Carrera,4800000,0,Ramón López Rayón 63,Casa,False,,False,19.4871162,-99.1118114
-171,280,4,1,1,2,22,Industrial,460000,0,La Huasteca,Casa,True,remateHipotecario,False,19.4725932,-99.1250777
 41,143,3,2,0,1,15,Lindavista Norte,5600000,1000,Salaverry,Apartamento,False,,False,19.5011543,-99.1273622
 162,240,3,2,0,2,,Villa de Aragón,4850000,0,VILLA DE ANAHUAC,Casa,False,,False,19.466412559822707,-99.05997295112527
 74,74,2,2,0,1,0,Residencial Zacatenco,3900000,0,Cienfuegos 1169,Apartamento,False,,False,19.5016705997705,-99.12240799873705
-178,197,3,2,1,1,48,Valle del Tepeyac,720000,0,Pisagua 553,Casa,True,remateHipotecario,True,19.4874582,-99.1402434
-202,155,3,2,0,2,40,Vasco de Quiroga,1385000,0,C. Fray Juan Bosco 107,Casa,True,remateHipotecario,True,19.491513,-99.0949529
 76,76,2,2,0,2,0,Lindavista,5777700,1,"Gustavo Madero, Lindavista",Apartamento,False,,True,19.5037694,-99.1324282
-143,337,4,2,0,2,25,San Juan de Aragón,1180000,0,C. -A ,Casa,True,remateHipotecario,False,19.4585266,-99.0645412
-140,237,4,2,1,1,15,Estrella,500000,0,Calle Turquesa 43-lote 40 manzana 24,Casa,True,remateHipotecario,False,19.4727684,-99.1157094
-208,268,3,1,1,1,20,Residencial Zacatenco,710000,0,Mollendo ,Casa,True,remateHipotecario,True,19.5002857,-99.1220962
-96,204,4,2,0,2,20,San Juan de Aragón IV Secc,500000,0,Calle ,Casa,True,remateHipotecario,False,19.4543769,-99.0654184
-128,193,3,2,1,2,12,San Juan de Aragón,695700,0,Av 499 133,Casa,True,remateHipotecario,False,19.4712831,-99.0706751
 200,200,5,3,0,2,20,Cuchilla del Tesoro,6550000,0,Casa EN Venta Cuchilla DEL Tesoro Poniente  6 Gustavo A. Madero,Casa,False,,True,19.4473789,-99.0606703
-50,50,2,1,0,1,30,Nueva Industrial Vallejo,890000,0,Calle Tetrazzini 232,Casa,True,remateHipotecario,True,19.4667787,-99.131672
-96,204,4,2,1,1,36,San Juan de Aragón,500000,0,Calle 631,Casa,True,remateHipotecario,False,19.4543769,-99.0654184
 63,63,2,2,0,1,4,Bondojito,3283510,0,ORIENTE 107 3442,Apartamento,False,,False,19.46446233416565,-99.10827994767732
 318,445,8,0,0,0,,Guadalupe Insurgentes,10000000,0,ING BARTOLO VERGARA,Casa,False,,False,19.47169,-99.13444
-45,45,2,1,0,1,10,Vallejo,2100000,1,Florencio Constantino 243,Apartamento,True,remateHipotecario,False,19.4636189,-99.1300776
 160,229,3,2,1,2,42,Acueducto de Guadalupe,5838363,0,Calle de la Ola,Casa,False,,True,19.52653,-99.15389
-120,129,3,2,1,1,20,General Felipe Berriozabal,3200000,0,Jerónimo Treviño,Casa,True,remateHipotecario,False,19.5551604,-99.1297045
-160,146,4,3,1,1,46,Pradera,1410000,1000,Sierra Madre Oriental 140,Casa,True,remateHipotecario,True,19.4756662,-99.0643295
-135,186,4,2,0,1,40,Gustavo A. Madero,790000,0,Puerto Matamoros 34,Casa,True,remateHipotecario,False,19.4749188,-99.0806614
-210,390,4,2,1,1,15,Industrial,600000,0,Av Huasteca,Casa,True,remateHipotecario,False,19.4741606,-99.124467
 240,409,6,3,3,4,30,Aragón la Villa,7300000,7300000,Aragón La Villa(Aragón),Casa,False,,False,19.479936,-99.1165633
-271,420,4,3,1,2,10,Estrella,720000,0,C. Amatista,Casa,True,remateHipotecario,True,19.4769174,-99.1192713
-200,600,5,3,1,1,15,Industrial,700000,0,Buen Tono 257,Casa,True,remateHipotecario,False,19.4775028,-99.1249785
-158,127,3,1,1,1,38,Industrial,812000,0,SANTA GERTRUDIS 15,Casa,True,remateHipotecario,False,19.4694111,-99.127371
-202,155,3,1,1,2,26,Vasco de Quiroga,1385000,0,C. Padre Juan Bosco 107,Casa,True,remateHipotecario,True,19.4912922,-99.0944108
-243,300,4,3,1,2,18,Tepeyac Insurgentes,750000,0,Cerrada Talara 189,Casa,True,remateHipotecario,False,19.4875913,-99.1199465
-173,187,3,2,1,1,15,San Juan de Aragón III Secc,790000,0,Av 601 31,Casa,True,remateHipotecario,False,19.4495531,-99.06994
 165,213,2,1,0,3,60,Industrial,5200000,0,Fundidora de Monterrey,Casa,False,,False,19.4755317,-99.1279754
-127,146,3,2,1,1,41,San Juan de Aragón,624000,0,C. 1509 160,Casa,True,remateHipotecario,False,19.4695596,-99.0690324
 75,109,3,2,0,0,,San Juan de Aragón VI Secc,2400000,0,C.  A,Casa,False,,False,19.45464,-99.05518
-180,220,4,2,1,2,17,Gustavo A. Madero,1080500,0,Av. 553 196,Casa,True,remateHipotecario,False,19.4571646,-99.0839495
 190,300,4,4,0,4,,San Juan de Aragón II Secc,7800000,0,AV. ,Casa,False,,False,19.45736,-99.0827
-43,43,2,1,0,0,20,Granjas Modernas,635000,0,Gaviotas 21,Apartamento,True,remateHipotecario,True,19.4795584,-99.1057324
-50,59,2,1,0,0,17,Indeco,1050000,0,ANDADOR DE LA PERDIZ,Casa,True,remateHipotecario,True,19.5492655,-99.1302943
-163,253,3,2,0,2,7,Acueducto de Guadalupe,550000,0,Del Puerto,Casa,True,remateHipotecario,False,19.5232329,-99.1490745
-164,164,3,2,0,1,60,Lindavista Sur,600000,0,Trujillo 656,Casa,True,remateHipotecario,False,19.4903298,-99.1349004
 150,297,1,1,0,0,50,Nueva Tenochtitlan,4600000,0,Norte 82,Casa,False,,False,19.4630493,-99.1028802
-166,332,4,3,0,2,14,Lindavista Norte,790000,0,Ambato,Casa,True,remateHipotecario,False,19.5000712,-99.1288767
 54,54,2,2,0,1,31,Gustavo A. Madero,1600000,1,Unidad habitacional el Milagro,Apartamento,False,,False,19.4848708,-99.0844109
 73,73,3,2,0,1,46,Lindavista Vallejo II Secc,1980000,0,Edif 32 Ent A Depto 501,Apartamento,False,,False,19.4967104,-99.1490745
-163,253,3,1,1,2,32,Acueducto de Guadalupe,1000000,0,C. De La Ola ,Casa,True,remateHipotecario,False,19.5253083,-99.1540631
-90,52,2,1,0,1,18,San Juan de Aragón,1455570,0,Emiliano Zapata 45,Apartamento,True,remateHipotecario,False,19.4667374,-99.0859226
 55,55,2,1,0,1,,Bondojito,2900000,0,FC. HIDALGO,Apartamento,False,,False,19.46757248504264,-99.11646589690892
-164,230,3,3,0,2,10,Lindavista Vallejo II Secc,650,0,Norte 17,Casa,True,remateHipotecario,False,19.4845494,-99.1470828
 315,71,2,2,0,1,0,Aragón la Villa,2881000,1200,Cuauhtémoc 55,Apartamento,False,,True,19.4804321,-99.1154644
-155,163,4,1,1,1,8,Industrial,790000,0,Nte. 26 320,Casa,True,remateHipotecario,False,19.4700944,-99.1305456
-169,301,3,2,1,3,27,San Juan de Aragón I Secc,1618900,0,Av 511 230,Casa,True,remateHipotecario,False,19.4650013,-99.0919407
-220,220,4,2,1,2,25,Gustavo A. Madero,4000000,1,Av. 533 196,Casa,True,remateHipotecario,True,19.4598258,-99.0884009
-50,50,2,1,0,1,10,Nueva Industrial Vallejo,890000,0,Calle Tetrazzini 232,Casa,True,remateHipotecario,False,19.4667787,-99.131672
-202,155,3,1,1,2,23,Vasco de Quiroga,1385000,0,Calle Padre Juan Bosco 107,Casa,True,remateHipotecario,True,19.4912922,-99.0944108
-224,250,4,3,0,2,11,San Felipe de Jesús,650000,0,Anenecuilco,Casa,True,remateHipotecario,True,19.4917367,-99.0827837
-86,86,3,1,0,1,19,7 de Noviembre,1963000,0,7 de Noviembre,Apartamento,True,remateHipotecario,False,19.4612738,-99.1214045
-135,333,4,2,1,2,44,Lindavista Sur,1425000,0,Cda. de Otavalo 126,Casa,True,remateHipotecario,False,19.493799,-99.1388461
 875,570,6,3,1,8,1,Lindavista Norte,26000000,0,Pernambuco,Casa,False,,False,19.4943634,-99.123339
-110,128,4,3,1,2,25,San Juan de Aragón VI Secc,559000,0,Av. 499,Casa,True,remateHipotecario,False,19.4708411,-99.0709537
 101,101,3,2,0,2,0,7 de Noviembre,6500000,0,7 Noviembre,Apartamento,False,,False,19.4101298,-99.0572335
 405,553,4,3,1,2,37,Residencial Zacatenco,16500000,0,San Juan de Puerto Rico 1208,Casa,False,,False,19.506301898135693,-99.12742709077814
-333,334,4,3,1,2,16,Torres Lindavista,895000,0,"Torres Lindavista, Gustavo A. Madero, 07708 Ciudad de México, CDMX",Casa,True,remateHipotecario,True,19.5109537,-99.1442316
 223,187,4,2,0,2,70,Estrella,6200000,0,Calle Granate,Casa,False,,False,19.475727,-99.1169154
 63,63,2,2,0,1,4,Bondojito,3283500,0,Oriente 107 3370,Apartamento,False,,False,19.4647869,-99.1085035
 214,240,5,4,0,3,,Tepeyac Insurgentes,6490000,0,HORMIGA,Casa,False,,False,19.48243,-99.12618
-50,50,2,1,1,1,32,Nueva Vallejo,890000,0,C. Tetrazzini 232,Casa,True,remateHipotecario,True,19.4667787,-99.131672
-200,200,3,2,0,2,24,Cuchilla del Tesoro,5500000,0,Calle Poniente 10 66,Casa,True,remateHipotecario,True,19.4458997,-99.0619619
-160,220,3,1,1,1,16,Aragón InguarAn,620000,0,Aragón Inguarán,Casa,True,remateHipotecario,True,19.4708116,-99.1075731
-126,251,4,2,1,2,20,San Juan de Aragón VI Secc,2540602,0,Av. 499,Casa,True,remateHipotecario,False,19.4708411,-99.0709537
-85,85,3,2,0,2,7,Residencial Zacatenco,2214192,0,Avenida Acueducto 698,Apartamento,True,remateHipotecario,True,19.5029389,-99.1222151
-174,196,3,1,0,1,16,Villa de Aragón,600000,0,Villa de Sahagún,Casa,True,remateHipotecario,False,19.4699543,-99.0629834
 161,308,5,3,0,3,45,San Felipe de Jesús,4284000,0,Colima 269,Casa,False,,False,19.5002267,-99.0766993
-85,85,3,2,0,2,7,Residencial Zacatenco,2214192,0,Avenida Acueducto 698,Apartamento,True,remateHipotecario,True,19.5029389,-99.1222151
-170,140,3,2,1,2,10,El Coyol,485000,0,C ,Casa,True,remateHipotecario,False,19.4882841,-99.0905436
 173,107,3,1,1,2,40,Valle del Tepeyac,4900000,0,Lindavista ( Valle del Tepeyac ),Casa,False,,False,19.4868551426,-99.1433919048
 59,59,2,1,0,1,5,Mártires de Río Blanco,2550000,0,Norte. ,Apartamento,False,,False,19.4593635,-99.1124184
-190,245,3,3,0,2,24,San Juan de Aragón I Secc,500000,0,Av. 529,Casa,True,remateHipotecario,False,19.4579624,-99.0899036
-72,72,2,1,1,1,15,Gustavo A. Madero,520000,0,Calz. San Juan de Aragón 439,Apartamento,True,remateHipotecario,True,19.4774164,-99.0950742
-180,371,4,3,0,2,25,San Pedro El Chico,997000,0,Nte. 86-A ,Casa,True,remateHipotecario,False,19.4713789,-99.0970767
-251,370,5,3,1,2,14,Estrella,907800,0,Avenida Tesoro 66,Casa,True,remateHipotecario,False,19.4740492,-99.1179939
 65,65,2,2,0,1,0,Lindavista Norte,4943100,3000,Av Instituto Politécnico Nacional,Apartamento,False,,False,19.497992,-99.1320414
 161,161,3,3,1,3,45,Nueva Atzacoalco,4284000,0,"Casa en Venta en Nueva Atzacoalco, Gustavo Madero AF 27-949",Casa,False,,True,19.4991516,-99.0861392
-75,75,2,2,0,2,19,Capultitlan,2763300,0,Sky Tower Lindavista,Apartamento,True,remateHipotecario,False,19.4810967,-99.129892
-118,207,4,2,1,2,12,Valle del Tepeyac,1127000,0,Boyacá 578,Casa,True,remateHipotecario,False,19.4889126,-99.142798
-160,150,3,2,0,1,20,Pradera,2160000,10,Sierra Madre Oriental 140,Casa,True,remateHipotecario,True,19.4756662,-99.0643295
 38,38,1,1,0,0,1,Villa Gustavo A. Madero,1981999,1,Alberto Herrera,Apartamento,False,,False,19.4811226,-99.1137136
-172,344,4,4,0,3,19,Zona Escolar,970000,0,Av Adolfo López Mateos,Casa,True,remateHipotecario,True,19.54180290350928,-99.14633868200072
 49,49,2,1,0,0,5,Vasco de Quiroga,1700000,800,Padre Juan Bosco,Apartamento,False,,False,19.4924131,-99.0973883
-390,487,6,5,0,1,18,Lindavista Sur,5304226,0,Avenida Wilfrido Massieu 302,Casa,True,remateHipotecario,True,19.4943312,-99.134418
-98,98,3,1,1,1,5,Bondojito,1360000,0,Av. Henry Ford 351,Apartamento,True,remateHipotecario,False,19.4658916,-99.108351
-174,348,4,3,0,2,10,Lindavista Vallejo II Secc,700000,0,Norte 17-A,Casa,True,remateHipotecario,False,19.484009,-99.1475063
-140,267,4,2,1,2,51,Lindavista Norte,1931508,1,Pujato 16,Casa,True,remateHipotecario,False,19.4984485,-99.1312227
 57,57,2,1,0,0,10,Vasco de Quiroga,3719000,0,Vasco de Quiroga,Apartamento,False,,False,19.4966,-99.0965
 90,188,3,2,1,2,30,Valle del Tepeyac,5980000,0,Oroya 649,Casa,False,,False,19.4903441,-99.1371432
 63,63,2,2,0,1,4,Bondojito,3283500,0,"Oriente 107 3370  , Bondojito , 07850 Gustavo A. Madero, Ciudad de México, México",Apartamento,False,,False,19.464786900000007,-99.1085035
-146,238,4,3,0,2,15,Industrial,620000,0,Av. Cruz Azul 148,Casa,True,remateHipotecario,False,19.4729482,-99.124247
 160,350,8,5,0,1,36,Residencial Zacatenco,4100000,1,Residencial Zacatenco,Casa,False,,True,19.5002857,-99.1220962
-0,101,2,1,0,1,5,Residencial Zacatenco,890000,0,Moyobamba 329,Apartamento,True,remateHipotecario,False,19.501872,-99.1256333
-136,162,3,2,1,2,45,15 de Agosto,600000,0,Gral. Antonio Neri ,Casa,True,remateHipotecario,True,19.485635,-99.1065365
-64,64,2,1,1,1,32,San Juan de Aragón,830000,0,Emiliano Zapata 45,Apartamento,True,remateHipotecario,True,19.4667374,-99.0859226
-180,190,3,2,0,1,12,Lindavista Norte,690000,0,Ambato,Casa,True,remateHipotecario,False,19.5000712,-99.1288767
-430,4480,3,3,1,3,7,Valle del Tepeyac,2240193,0,Moctezuma 525,Casa,True,remateHipotecario,True,19.4881524,-99.141459
-214,263,4,2,1,2,45,Lindavista Sur,4112000,0,Chosica 645,Casa,True,remateHipotecario,True,19.4900135,-99.1356275
 183,350,5,3,1,1,10,Industrial,850000,0,Imperial,Casa,False,,False,19.4770013,-99.1269403
-113,98,2,1,1,1,14,San Juan de Aragón V Secc,490000,0,Calle 641,Casa,True,remateHipotecario,True,19.4546771,-99.0640176
 54,54,2,1,0,0,0,Mártires de Río Blanco,2230000,0,Ote 91 3200,Apartamento,False,,True,19.4605492,-99.1113387
-250,250,4,2,0,2,30,Lindavista,830000,0,Calle Oruro No. ,Casa,True,remateHipotecario,False,19.490852,-99.128653
-164,265,4,2,0,2,18,San Juan de Aragón I Secc,730150,0,Av. 529,Casa,True,remateHipotecario,False,19.4579624,-99.0899036
 51,51,1,1,0,0,0,Mártires de Río Blanco,2095000,0,Ote 91 3200,Apartamento,False,,True,19.4605492,-99.1113387
-86,86,3,1,1,1,20,Vallejo,680000,0,Schumann,Apartamento,True,remateHipotecario,True,19.46776752369349,-99.13030643439328
-51,51,2,1,0,1,12,El Arbolillo,650000,0,TENAYUCA CLALMITA SN EDIF 43,Apartamento,True,remateHipotecario,True,19.5344389677606,-99.14708549549256
-50,50,2,1,0,1,20,Nueva Industrial Vallejo,890000,0,tetrazzini,Casa,True,remateHipotecario,True,19.46686373010312,-99.13168335396728
-59,59,3,1,0,1,10,Guadalupe Proletaria,1098100,1000,Calle 15 278,Apartamento,True,remateHipotecario,True,19.5221801,-99.15530160000002
-43,43,2,1,0,1,20,Granjas Modernas,750000,0,Gaviotas 21,Apartamento,True,remateHipotecario,True,19.478886252946303,-99.10596156972804
-316,469,4,2,0,2,11,Estrella,630000,0,Calle Amatista,Casa,True,remateHipotecario,False,19.4764229,-99.1194587
-162,280,4,2,1,2,20,Santa Rosa,500000,0,CALLE 44 A,Casa,True,remateHipotecario,True,19.524643,-99.1737092
-200,71,2,1,0,1,15,Gustavo A. Madero,624873,500,General Pedro Negrete 179,Apartamento,True,remateHipotecario,True,19.489923,-99.1099599
-53,64,2,1,0,1,33,San Juan de Aragón,978577,0,EMILIANO ZAPATA 45,Apartamento,True,remateHipotecario,True,19.4667374,-99.0859226
-104,198,3,2,0,2,25,San Juan de Aragón II Secc,2145204,204,Av. 553 196,Casa,True,remateHipotecario,True,19.4571646,-99.0839495
-130,290,3,1,1,1,28,Ampliación Casas Alemán,640000,0,Av. Gran Canal I,Casa,True,remateHipotecario,True,19.47613,-99.090324
-160,131,3,2,0,1,15,San Juan de Aragón I Secc,780000,0,Av 515 123,Casa,True,remateHipotecario,False,19.4593177,-99.0928458
-225,540,4,2,1,1,31,Residencial Zacatenco,950000,0,Ramiriquí #1161,Casa,True,remateHipotecario,False,19.5062727,-99.1250477
 69,65,2,1,1,1,0,Guadalupe Tepeyac,3349956,0,Sara 4563,Apartamento,False,,False,19.4680088,-99.1193297
 190,322,6,4,0,2,56,San Pedro El Chico,6250000,0,Norte 84,Casa,False,,False,19.4701357,-99.0986294
-255,255,4,3,1,2,8,Vasco de Quiroga,1400000,1200,Calle Padre Juan Bosco 107,Casa,True,remateHipotecario,True,19.4912922,-99.0944108
 255,210,5,4,0,2,,San Juan de Aragón III Secc,5600000,0,SEGUNDA CDA. ,Casa,False,,False,19.45221,-99.07005
-56,56,2,1,0,1,22,Vallejo,615000,0,Smetana 43,Apartamento,True,remateHipotecario,False,19.464907,-99.1306124
-177,319,4,1,1,2,29,Industrial,853000,0,Buen Tono 257,Casa,True,remateHipotecario,False,19.4775028,-99.1249785
-104,104,3,1,0,1,30,La Laguna TicomAn,500000,0,Avenida Acueducto 1044,Apartamento,True,remateHipotecario,False,19.5141825,-99.1253204
-58,58,2,1,0,1,14,Vasco de Quiroga,3200000,0,Av. Ing. Eduardo Molina 8132,Apartamento,True,remateHipotecario,True,19.4892578,-99.0939946
-223,277,4,3,0,3,63,Guadalupe Insurgentes,8200000,0,Excelsior 239,Casa,True,remateHipotecario,True,19.4752201,-99.132246
-187,286,4,3,1,1,15,Industrial,838820,0,Gustavo A. Madero,Casa,True,remateHipotecario,False,19.4873329,-99.1236134
-223,277,4,3,0,3,63,Guadalupe Insurgentes,8200000,0,Excelsior 239,Casa,True,remateHipotecario,False,19.4752201,-99.132246
 681,581,4,4,0,3,10,Lindavista Norte,25000000,0,"managua  887  , Lindavista Norte , 07300 Gustavo A. Madero, Ciudad de México, México",Casa,False,,False,19.49648380000002,-99.1283533
-223,277,4,3,0,3,63,Guadalupe Insurgentes,8000000,0,Excelsior 239,Casa,True,remateHipotecario,True,19.4752201,-99.132246
-95,110,3,1,1,1,15,San Juan de Aragón,600000,0,Calle 641 228,Casa,True,remateHipotecario,True,19.4602502,-99.0652985
 68,1,2,1,0,0,20,Nueva Atzacoalco,1480000,0,Calle 315,Apartamento,False,,False,19.496496,-99.0864993
-98,98,3,1,1,1,19,Bondojito,1360000,0,Av. Henry Ford 351-edif d,Apartamento,True,remateHipotecario,True,19.4658916,-99.108351
 43,43,2,1,0,1,0,Vallejo,2275000,1100,Schumann ,Apartamento,False,,False,19.4676181,-99.1303959
-120,252,4,3,0,2,19,Villa de Aragón,590000,0,C. Villa Cuitláhuac ,Casa,True,remateHipotecario,True,19.469961,-99.0616976
-165,165,3,2,0,1,16,Industrial,880000,0,Carolina 42,Casa,True,remateHipotecario,False,19.4796897,-99.1249504
-62,61,2,1,0,1,14,Estanzuela,537786,500,General Pedro Negrete 179,Apartamento,True,remateHipotecario,False,19.4899987,-99.1099177
-170,260,4,3,2,2,35,San Juan de Aragón I Secc,550000,0,Av 511,Casa,True,remateHipotecario,False,19.4600869,-99.0936211
-160,336,4,3,0,2,15,Nueva Vallejo,750000,0,Norte 17,Casa,True,remateHipotecario,True,19.4845494,-99.1470828
-74,74,3,2,0,1,18,Villa Gustavo A. Madero,600000,0,Ferrocarril Hidalgo 1404,Apartamento,True,remateHipotecario,False,19.4809664,-99.1079643
-51,51,2,1,0,1,17,El Arbolillo,650000,0,El Arbolillo,Apartamento,True,remateHipotecario,True,19.53451655510268,-99.1471319126114
-178,197,3,2,1,1,48,Valle del Tepeyac,720000,200,Pisagua 553,Casa,True,remateHipotecario,False,19.4874582,-99.1402434
-170,300,3,2,1,2,10,Estrella,620000,0,Calle Diamante,Casa,True,remateHipotecario,False,19.477227,-99.1169142
-142,182,3,2,0,2,20,Villa de Aragón,550000,0,"Villa de Aragón 7, Villa de Aragón, Gustavo A. Madero, ",Casa,True,remateHipotecario,False,19.468678,-99.0593509
 65,65,3,2,0,2,0,Lindavista Norte,4538900,1,AV. POLITECNICO NACIONAL ,Apartamento,False,,False,19.4966793,-99.1321796
-149,228,3,2,0,2,10,Ex Escuela de Tiro,610000,0,Piastras 16,Casa,True,remateHipotecario,False,19.4514698,-99.1005655
-220,220,4,3,0,3,27,Lindavista Norte,925000,0,Sierravista 208,Casa,True,remateHipotecario,False,19.4946347,-99.1250541
 94,94,3,2,0,1,8,Lindavista,4550000,0,Av. Insurgentes Nte. 1932,Apartamento,False,,False,19.4908811,-99.121686
-305,367,4,3,0,2,12,Lindavista Norte,510000,0,Matanzas,Casa,True,remateHipotecario,False,19.4970958,-99.127179
-110,112,4,3,0,2,12,San Juan de Aragón VI Secc,2318400,1,Avenida 499 133,Casa,True,remateHipotecario,False,19.4712831,-99.0706751
 84,84,3,1,1,1,25,La Escalera,3395000,1400,Avenida del Carrizo 503,Apartamento,False,,False,19.4873329,-99.1236134
-162,196,3,2,0,2,27,Nueva Vallejo,1800000,0,Norte 17-A 5215,Casa,True,remateHipotecario,False,19.4852527,-99.1473054
-90,120,4,3,0,2,28,Lomas de Cuautepec,500000,0,PRIVADA IGNACIO ZARAGOZA NO  91 MZA 2 LT 12 ZONA 4 COL  CUAUTEPEC II CP 07200,Casa,True,remateHipotecario,True,19.5439587,-99.1362573
 496,629,4,5,0,4,,Lindavista,15200000,0,MATANZAS,Casa,False,,False,19.49111,-99.13217
 38,38,1,1,0,0,0,Aragón la Villa,1980000,0,Alberto Herrera 143,Apartamento,False,,False,19.480232285275708,-99.11339434074604
-161,298,3,2,0,1,10,Estrella,1550000,0,Jade 89,Casa,True,remateHipotecario,False,19.4765448,-99.1160056
-240,340,4,2,1,2,10,Gustavo A. Madero,900000,0,Av  ,Casa,True,remateHipotecario,False,19.4502816,-99.075062
-113,98,2,1,1,1,14,San Juan de Aragón V Secc,490000,0,Calle 641,Casa,True,remateHipotecario,False,19.4546771,-99.0640176
-172,344,4,4,0,3,15,Zona Escolar,970000,0,Adolfo Lopez Mateos 174,Casa,True,remateHipotecario,True,19.54221018150618,-99.14609777777098
-202,327,3,2,1,1,0,Lindavista Sur,2300000,0,Cali 676,Casa,True,remateHipotecario,False,19.4867863,-99.127262
-43,43,2,1,0,1,20,Granjas Modernas,750000,1,Gaviotas 21,Apartamento,True,remateHipotecario,False,19.4783881,-99.1034242
-161,184,3,2,1,1,28,Acueducto de Guadalupe,929000,0,De Los Esteros 34,Casa,True,remateHipotecario,False,19.5242469,-99.1514249
 50,50,2,1,0,1,0,Ticoman,2089000,0,Avenida Acueducto,Apartamento,False,,False,19.5188639,-99.1371211
-50,50,2,1,0,1,21,Nueva Industrial Vallejo,890000,0,C. Tetrazzini,Casa,True,remateHipotecario,True,19.46684349907074,-99.13168335396728
-150,255,4,3,0,2,10,Gustavo A. Madero,540000,0,Av. Sur de Los  Metros,Casa,True,remateHipotecario,True,19.4843399,-99.1465851
-179,295,3,3,1,1,40,Industrial,558000,200,Buen Tono 14,Casa,True,remateHipotecario,True,19.4696783,-99.1284029
-117,200,4,2,1,2,25,San Juan de Aragón VI Secc,820000,0,Calle 1535 31,Casa,True,remateHipotecario,False,19.4673003,-99.0636882
 147,217,2,2,2,3,52,Gertrudiz Sánchez,5500000,0,Norte ,Casa,False,,False,19.4664057,-99.1016008
-50,59,2,1,0,0,14,San Juan de Aragón,1050000,0,andador de la perdiz,Casa,True,remateHipotecario,True,19.47196076298017,-99.09055359112396
 138,138,6,3,0,3,30,Lindavista Sur,6500000,1100,Cali ,Apartamento,False,,False,19.4853843,-99.1280204
-217,332,3,2,0,2,51,Lindavista Sur,860000,0,Oruro,Apartamento,True,remateHipotecario,False,19.4902138,-99.1289849
-300,280,4,3,1,3,10,Lindavista Sur,570000,0,Coquimbo,Casa,True,remateHipotecario,True,19.4899235,-99.1259687
-126,212,3,2,1,1,12,Gabriel HernAndez,790000,0,Cabo Gris 134,Casa,True,remateHipotecario,False,19.5003118,-99.0976543
-142,142,4,3,0,2,10,Gustavo A. Madero,630000,0,Cerrada de Otavalo ,Casa,True,remateHipotecario,True,19.4936934,-99.1382127
 167,120,3,3,0,3,30,Cuautepec de Madero,3000000,0,Sexta Cerrada del Rosario,Casa,False,,False,19.55201,-99.13967
-191,171,3,3,1,2,10,Gustavo A. Madero,1200000,0,Catamarca 113,Casa,True,remateHipotecario,False,19.5031398,-99.1240255
 72,49,2,1,0,1,1,Tres Estrellas,2775000,1500,Oniquina,Apartamento,False,,False,19.472225,-99.110509
-62,62,2,1,0,1,2,Estanzuela,537786,0,General Pedro Negrete 179,Apartamento,True,remateHipotecario,False,19.489923,-99.1099599
 63,63,2,2,0,1,0,Lindavista Norte,4190000,0,AV INSURGENTES NTE,Apartamento,False,,False,19.4906611,-99.1220291
-143,143,5,5,1,3,19,Industrial,1825000,0,Industrial,Casa,True,remateHipotecario,False,19.4736233,-99.1248628
-180,290,4,2,0,2,0,Valle del Tepeyac,750000,0,Valle del Tepeyac,Casa,True,remateHipotecario,False,19.4882202,-99.1421561
 45,45,2,1,0,0,0,Gustavo A. Madero,1958905,0,Unión 134,Apartamento,False,,False,19.4788599,-99.1237421
-135,163,3,2,1,2,10,Guadalupe Tepeyac,670000,0,Martha ,Casa,True,remateHipotecario,False,19.4680088,-99.1193297
-90,118,3,2,0,2,32,San Juan de Aragón,650000,0,ANDADOR DE LA PERDIZ LT. 65,Casa,True,remateHipotecario,True,19.4686303,-99.0923614
-50,50,2,1,0,1,10,Gustavo A. Madero,890000,0,C. Tetrazzini 232,Casa,True,remateHipotecario,False,19.4667787,-99.131672
-160,146,3,2,0,2,40,Pradera,2160000,0,Sierra Madre Oriental 140,Casa,True,remateHipotecario,True,19.4756662,-99.0643295
-580,310,4,3,0,2,18,Lindavista Norte,879500,1,"Managua 911, Lindavista Nte., Gustavo A. Madero, 07300 Ciudad de México, CDMX",Casa,True,remateHipotecario,False,19.497012110181984,-99.12792186078262
-64,64,2,1,0,1,15,San Juan de Aragón,830000,0,Emiliano Zapata 45,Apartamento,True,remateHipotecario,True,19.4667374,-99.0859226
-160,180,4,2,1,2,46,Santa Rosa,450000,300,Calle 44-A 108,Casa,True,remateHipotecario,True,19.5250552,-99.1712174
-210,180,4,2,1,2,10,Guadalupe Tepeyac,910000,1,Guadalupe Tepeyac,Casa,True,remateHipotecario,False,19.4680088,-99.1193297
-149,182,3,3,0,2,30,Gustavo A. Madero,750000,0,Piastras 15,Casa,True,remateHipotecario,False,19.451672,-99.1003963
-90,90,3,2,0,0,8,San Juan de Aragón V Secc,1820000,1200,Andador 655 13,Casa,True,remateHipotecario,True,19.4534489,-99.0610859
 447,549,11,9,1,8,46,San Pedro Zacatenco,12000000,0,av. la Rioja 23,Casa,False,,False,19.5049587,-99.1232525
 146,260,5,3,1,2,10,Gertrudiz Sánchez,750000,0,Nte 90,Casa,False,,False,19.4651152,-99.0979746
-50,50,2,1,0,1,10,Nueva Industrial Vallejo,890000,0,Calle Tetrazzini 232,Casa,True,remateHipotecario,False,19.4667787,-99.131672
-135,110,3,2,1,2,38,Ampliación Casas Alemán,2400000,1,Puerto Angel 117,Casa,True,remateHipotecario,True,19.4796486,-99.0886275
-236,274,4,2,1,2,9,Industrial,2000000,0,Aurora 58,Casa,True,remateHipotecario,False,19.4713333,-99.1290679
 260,260,4,4,1,2,50,Lindavista,6950000,1500,Cuzco ,Casa,False,,False,19.4918142,-99.1299859
-172,172,2,1,0,1,10,Zona Escolar,1137234,0,Avenida Adolfo López Mateos,Casa,True,remateHipotecario,False,19.541756001483872,-99.14641317123842
-172,344,4,4,0,3,17,Zona Escolar,970000,0,ADOLFO LOPEZ MATEOS,Casa,True,remateHipotecario,True,19.541712406546303,-99.14632860910643
-160,146,3,2,1,2,30,Pradera,2160000,0,Sierra Madre Oriental 140,Casa,True,remateHipotecario,True,19.4756662,-99.0643295
 153,237,4,3,2,5,39,Tepeyac Insurgentes,10190000,0,Unión 200,Casa,False,,False,19.4805,-99.121181
-106,106,3,2,0,2,6,Bondojito,756000,200,FC Hidalgo 1321,Apartamento,True,remateHipotecario,True,19.4675753,-99.1164884
-196,252,4,3,1,1,15,Benito Juárez,2142000,1200,Emilio Portes Gil 10,Casa,True,remateHipotecario,True,19.4873329,-99.1236134
-180,245,3,3,1,2,18,San Juan de Aragón IV Secc,500000,0,Calle 615,Casa,True,remateHipotecario,False,19.4530325,-99.0670337
-160,140,4,2,0,2,30,Gustavo A. Madero,2160000,0,Sierra Madre Oriental ,Casa,True,remateHipotecario,False,19.4756662,-99.0643295
-207,350,3,2,0,2,15,San Juan de Aragón I Secc,700000,0,Av.  ,Casa,True,remateHipotecario,False,19.4627704,-99.0929418
-160,226,3,2,1,2,26,Gustavo A. Madero,1300000,0,Nte. 19-A 5258,Casa,True,remateHipotecario,False,19.4870083,-99.1482378
-195,160,3,2,1,2,18,Acueducto de Guadalupe,580000,0,De Las Confluencias 15,Casa,True,remateHipotecario,False,19.521694,-99.1471744
 65,65,2,2,0,0,19,Vasco de Quiroga,1970000,240,Av. Ing. Eduardo Molina 8140,Apartamento,False,,True,19.48986345632291,-99.09402563439332
-196,251,4,2,0,2,10,San Juan de Aragón III Secc,570000,0,AV 581,Casa,True,remateHipotecario,False,19.4510419,-99.0754283
-160,160,3,2,0,1,11,San Juan de Aragón I Secc,600000,0,AV 511,Casa,True,remateHipotecario,False,19.4600869,-99.0936211
 64,64,2,1,0,1,35,La Purísima TicomAn,1695000,0,Plan de Tuxtepec,Apartamento,False,,False,19.5166,-99.1395
-160,228,4,2,1,2,20,Gustavo A. Madero,3235000,0,C. 313 35,Casa,True,remateHipotecario,False,19.4893386,-99.089467
-282,282,4,3,0,2,10,Industrial,1500000,0,"Fundidora de Monterrey #153, Industrial, Ciudad de Mexico",Casa,True,remateHipotecario,False,19.4746947,-99.1281793
-73,73,2,1,0,1,20,La Purísima TicomAn,582000,0,Miguel Bernard,Apartamento,True,remateHipotecario,False,19.5142069,-99.1421497
-120,120,4,3,0,2,19,Vasco de Quiroga,1000000,0,Vasco de Quiroga,Casa,True,remateHipotecario,False,19.4950848,-99.0937441
 144,200,3,2,1,2,50,Lindavista Norte,7550000,0,Sierravista,Casa,False,,False,19.49684635559832,-99.12697279577024
 147,347,3,5,1,2,9,San Bartolo Atepehuacan,11000000,0,"Huacho 7  , San Bartolo Atepehuacan , 07730 Gustavo A. Madero, Ciudad de México, México",Casa,False,,False,19.4940793,-99.1397143
 160,140,3,1,0,1,45,Gertrudiz Sánchez,4150000,0,Norte 86,Casa,False,,False,19.4656791,-99.0995737
-119,65,3,2,1,1,53,Bondojito,1950000,0,Nte. 72 5642,Casa,True,remateHipotecario,False,19.4656623,-99.1069028
 104,104,2,2,0,2,2,Residencial Zacatenco,5130000,0,Mozaiko,Apartamento,False,,False,19.5008146,-99.1219171
 81,81,2,2,0,2,7,Residencial Zacatenco,5300010,0,CIENFUEGOS 1192,Apartamento,False,,False,19.500319110704584,-99.12274586817948
-137,278,4,2,1,2,8,Lindavista Norte,750000,0,Salaverry 994,Casa,True,remateHipotecario,False,19.5008986,-99.127767
-364,450,4,3,1,2,11,Lindavista Norte,590000,0,Lindavista,Casa,True,remateHipotecario,False,19.4928937,-99.1262341
-194,300,3,3,0,2,10,Lindavista Sur,590000,0,Cda. de Otavalo,Casa,True,remateHipotecario,False,19.4930342,-99.133728
-60,60,2,1,0,1,10,El Arbolillo,455000,0,CAMINO VIEJO A CUAUHTEPEC 9 B,Apartamento,True,remateHipotecario,True,19.5329125,-99.1488062
-89,90,2,2,0,1,10,Gustavo A. Madero,500000,0,Unión 257,Apartamento,True,remateHipotecario,True,19.4830734,-99.1212802
-98,98,3,2,0,1,12,Bondojito,561837,0,Avenida Henry Ford 351,Casa,True,remateHipotecario,False,19.4658916,-99.108351
-65,65,2,1,0,0,17,Jorge Negrete,450000,100,JORGE NEGRETE,Apartamento,True,remateHipotecario,True,19.5264606,-99.1435398
-304,380,3,2,0,1,47,Lindavista Norte,1299000,0,Latacunga 820,Casa,True,remateHipotecario,False,19.4924147,-99.126716
-67,67,2,1,0,1,10,Acueducto de Guadalupe,693800,0,Acueducto de Guadalupe,Apartamento,True,remateHipotecario,False,19.527204336436306,-99.15030831614683
 81,81,2,1,0,0,50,Industrial,3200000,0,Fundidora de Monterrey,Apartamento,False,,False,19.4813201,-99.1261974
-282,524,4,2,1,3,15,Tepeyac Insurgentes,710000,0,Calle Garrido 278,Casa,True,remateHipotecario,False,19.4840022,-99.1219267
 177,421,3,3,0,2,60,Gertrudiz Sánchez,6800000,0,Norte 86,Casa,False,,False,19.459,-99.1022
-76,76,2,2,0,1,4,Guadalupe Victoria,2084838,0,Avenida Insurgentes Norte 900,Apartamento,True,remateHipotecario,True,19.4699274,-99.1391745
 175,393,6,4,2,1,56,Industrial,6400000,0,Escuela Industrial 118,Casa,False,,False,19.4715136,-99.1233319
-64,64,2,1,0,1,18,Lindavista Sur,500000,150,Linares 679A,Apartamento,True,remateHipotecario,True,19.4886776,-99.1298123
 300,300,6,2,0,3,,Lindavista,10200000,0,COQUIMBO,Casa,False,,False,19.4893,-99.12655
 119,119,3,2,1,2,0,Lindavista,6210000,0,"Av Politécnico Nacional, Col. Lindavista",Apartamento,False,,False,19.4970349,-99.1320201
-70,70,2,1,0,1,25,El Arbolillo,1891300,10,Río San Javier 320,Apartamento,True,remateHipotecario,False,19.5279322,-99.1496345
 195,225,2,1,0,11,25,Providencia,4650000,0,Delegación Gustavo A. Madero,Casa,False,,False,19.487557,-99.0673089
 135,135,3,2,0,1,32,Lindavista Sur,3464968,0,Montiel 221,Apartamento,False,,True,19.4866044,-99.1263452
-162,330,3,2,0,1,47,Gustavo A. Madero,1190000,0,Volcán Xitle 33,Casa,True,remateHipotecario,False,19.4723373,-99.06622
-230,234,4,3,1,2,15,Lindavista Sur,640000,0,Oruro ,Casa,True,remateHipotecario,False,19.490852,-99.128653
-202,155,3,2,0,2,18,Vasco de Quiroga,1385000,0,CALLE JUAN BOSCO NO 107 LT 4 MZA,Casa,True,remateHipotecario,True,19.4912922,-99.0944108
-228,323,4,3,1,2,10,Estrella,590000,0,Calle Brillante,Casa,True,remateHipotecario,False,19.4758639,-99.1184445
-200,310,4,2,0,2,9,Villa de Aragón,650000,0,Villa de Aragón,Casa,True,remateHipotecario,False,19.4672793,-99.0605643
-110,141,4,1,1,0,10,Estrella,985000,0,Calle Diamante 94,Casa,True,remateHipotecario,False,19.4767979,-99.1172358
-220,220,4,3,1,2,17,Lindavista,730000,0,Lindavista,Casa,True,remateHipotecario,False,19.5037694,-99.1324282
-126,305,5,4,1,1,12,Valle del Tepeyac,981200,0,Eten 544,Casa,True,remateHipotecario,False,19.4869256,-99.1394714
-256,170,4,3,0,2,10,San Juan de Aragón,530000,1,"Avenida , Colonia San Juan de Aragón I Sección, C.P. 07969",Casa,True,remateHipotecario,True,19.4619648,-99.0930528
-172,172,4,4,0,3,10,Zona Escolar,970000,0,Avenida Adolfo López Mateos 174,Casa,True,remateHipotecario,False,19.54207651113582,-99.14627219580078
-209,185,3,2,0,3,12,Lindavista Sur,640000,0,Cerrada de Otavalo ,Casa,True,remateHipotecario,False,19.4936934,-99.1382127
 216,367,6,3,1,3,65,La Joya,5700000,0,Oriente 87 3433,Casa,False,,False,19.4582843,-99.1093895
 160,275,3,2,1,3,37,Residencial Acueducto de Guadalupe,5957577,0,El puerto 27,Casa,False,,False,19.5232329,-99.1490745
-96,204,3,1,1,1,19,San Juan de Aragón IV Secc,500000,0,Calle 631,Casa,True,remateHipotecario,False,19.4543769,-99.0654184
-143,229,4,2,1,1,10,Campestre Aragón,1048487,0,Cam. de La Enseñanza,Casa,True,remateHipotecario,True,19.484298,-99.081131
-315,450,4,2,1,2,15,Estrella,630000,0,Calle Amatista,Casa,True,remateHipotecario,False,19.4764229,-99.1194587
 57,57,2,1,0,0,21,DM Nacional,2066000,0,Calz. San Juan de Aragón 439,Apartamento,False,,False,19.4760698,-99.0948001
-263,168,3,2,1,1,10,San Juan de Aragón I Secc,780000,0,Av 511 230,Casa,True,remateHipotecario,False,19.4650013,-99.0919407
-190,370,4,3,0,1,12,Industrial,650000,0,Romulo Escobar 112,Casa,True,remateHipotecario,False,19.4736617,-99.1278181
-72,72,2,1,1,1,15,DM Nacional,520000,0,Calz. San Juan de Aragón 439,Apartamento,True,remateHipotecario,True,19.4799484,-99.1000512
-218,420,4,3,0,2,19,Lindavista,615000,0,Lindavista,Casa,True,remateHipotecario,False,19.5037694,-99.1324282
-54,74,3,1,0,1,30,Gustavo A. Madero,411500,0,Camino San Juan de Aragón no. 191,Apartamento,True,remateHipotecario,False,19.4735544,-99.0810358
-241,283,4,3,1,2,11,Tepeyac Insurgentes,817800,0,Santiago 32,Casa,True,remateHipotecario,False,19.4855507,-99.1220962
 50,50,2,1,0,1,0,Juventino Rosas,2292098,1200,Juan Sebastián Bach 182,Apartamento,False,,False,19.4659954,-99.1363297
-153,213,3,1,1,1,10,Guadalupe Tepeyac,2490000,0,Lidia ,Casa,True,remateHipotecario,False,19.4666273,-99.1199946
-150,260,4,2,1,1,10,Industrial,580000,0,Santa Gertrudis,Casa,True,remateHipotecario,False,19.4728963,-99.1259522
-430,4480,3,3,1,3,7,Valle del Tepeyac,2240193,0,Moctezuma 525,Casa,True,remateHipotecario,True,19.4881524,-99.141459
-384,294,3,3,1,2,24,Estrella,1080000,0,"C. Amatista 21, Col. Estrella, Gustavo A. Madero, 07810 Ciudad de México, CDMX",Casa,True,remateHipotecario,False,19.4752875,-99.1196971
-406,470,5,4,1,3,20,Gustavo A. Madero,710000,0,Mollendo 1072,Casa,True,remateHipotecario,False,19.502321,-99.124075
-136,70,3,2,0,1,60,Ampliación Casas Alemán,640000,0,Puerto de San Blas,Casa,True,remateHipotecario,False,19.47459,-99.08599
-295,360,4,2,0,2,17,Lindavista Norte,800000,0,Matagalpa 932,Casa,True,remateHipotecario,False,19.4984043,-99.1274426
-144,168,3,2,1,1,40,Industrial,3878206,0,Buen Tono 97,Casa,True,remateHipotecario,False,19.4723169,-99.1270055
 60,60,2,1,0,0,25,San Pedro El Chico,2100000,180,Rinconada de la Hacienda Calzada San Juan de Aragón 439,Apartamento,False,,False,19.4752326,-99.0966542
 180,470,3,1,0,0,20,Gustavo A. Madero,4700000,0,av martin carrera,Casa,False,,False,19.4887492,-99.1065772
 50,50,2,1,0,1,10,Industrial,2450000,1150,Insurgentes Norte ,Apartamento,False,,False,19.4714191,-99.1356947
-218,218,4,3,0,2,16,Lindavista Sur,500000,0,Oruro,Casa,True,remateHipotecario,False,19.4902138,-99.1289849
 48,48,2,1,0,0,20,Acueducto de Guadalupe,1600000,0,.,Apartamento,False,,False,19.5232329,-99.1490745
-193,210,4,3,0,2,15,Nueva Atzacoalco,900000,0,C.  ,Casa,True,remateHipotecario,False,19.5026857,-99.0827952
-120,198,4,2,0,1,50,Gertrudiz Sánchez,500000,0,Norte 72-A,Casa,True,remateHipotecario,True,19.4716122,-99.1040103
-145,260,6,3,0,3,15,Lindavista Sur,650000,10,Cda. de Otavalo ,Casa,True,remateHipotecario,False,19.4937018,-99.13809
-207,232,4,2,1,2,17,Lindavista Norte,2000000,0,Managua 821,Casa,True,remateHipotecario,False,19.4946153,-99.129885
 220,220,4,4,1,1,10,Campestre Aragón,3650000,0,Amatista,Apartamento,False,,False,19.484002,-99.0798509
 200,220,4,4,0,2,,Planetario Lindavista,11000000,0,LINDAVISTA,Casa,False,,False,19.4962,-99.1422
-72,72,2,1,0,1,20,San Juan de Aragón,365900,0,Juan Francisco no. 113,Apartamento,True,remateHipotecario,False,19.471611830965283,-99.0834338243286
-59,59,2,1,0,1,9,Martín Carrera,564048,0,José Joaquin Herrera 241,Apartamento,True,remateHipotecario,True,19.4869241,-99.1064817
 79,79,2,2,0,1,9,Acueducto de Guadalupe,3900000,0,Acueducto de Guadalupe,Apartamento,False,,False,19.5232329,-99.1490745
-86,86,3,1,1,1,10,Vallejo,680000,0,Schumann,Apartamento,True,remateHipotecario,True,19.4676866,-99.1300704
-163,253,3,2,0,2,15,Acueducto de Guadalupe,750000,0,De la ola 29,Casa,True,remateHipotecario,False,19.5253083,-99.1540631
-169,442,5,3,1,2,15,El Coyol,575000,0,Calle 309,Casa,True,remateHipotecario,False,19.4884599,-99.0910732
 146,186,3,3,1,2,0,Tepeyac Insurgentes,5650000,0,Zaragoza 2,Casa,False,,False,19.4855507,-99.1220962
 256,419,9,6,0,0,70,Tepeyac Insurgentes,9950000,0,Unión 346,Apartamento,False,,False,19.4841133,-99.1210433
-148,271,4,2,1,2,58,Gertrudiz Sánchez,980000,0,Nte 82-B,Casa,True,remateHipotecario,False,19.4639436,-99.1016638
-190,235,4,2,1,3,10,Industrial,550000,0,Miraflores,Casa,True,remateHipotecario,True,19.4703598,-99.1264528
 250,320,5,4,1,2,25,San Juan de Aragón I Secc,6400000,0,Av.  ,Casa,False,,False,19.4577522,-99.0903215
-63,63,2,1,0,1,26,San Juan de Aragón,830008,300,Puerto Oporto 64,Apartamento,True,remateHipotecario,True,19.4689724,-99.0907497
 200,360,8,7,0,2,36,Vallejo,6800000,0,Calle Wagner 300,Casa,False,,True,19.4677611,-99.1279172
 51,51,2,1,0,0,26,San Juan de Aragón I Secc,1650000,0,Puerto Oporto,Apartamento,False,,False,19.4692999371,-99.0905958039
-172,344,4,2,2,3,25,Zona Escolar,970000,0,Avenida Adolfo López Mateos 174,Casa,True,remateHipotecario,True,19.5329563,-99.141809
 61,61,2,1,0,1,,La Purísima TicomAn,2550000,0,MIGUEL BERNARD,Apartamento,False,,False,19.51677,-99.14326
-202,155,3,2,0,2,40,Vasco de Quiroga,1850009,0,Calle Padre Juan Bosco 107-lt 4,Casa,True,remateHipotecario,True,19.491287,-99.0944031
-160,145,3,2,1,0,45,El Coyol,645600,0,Calle 319,Casa,True,remateHipotecario,True,19.490129,-99.0877847
-117,100,3,1,1,1,32,Tablas de San Agustín,900000,0,Norte 56,Casa,True,remateHipotecario,False,19.4648716,-99.1149877
-64,64,2,1,0,1,10,San Juan de Aragón,830000,0,Emiliano Zapata,Apartamento,True,remateHipotecario,True,19.467274830020024,-99.08578462349548
-202,155,3,2,0,2,8,Gustavo A. Madero,1385000,0,Calle Padre Juan Bosco,Casa,True,remateHipotecario,False,19.4927536,-99.0981088
-202,155,3,2,0,2,20,Vasco de Quiroga,1385000,0,C. Padre Juan Bosco,Casa,True,remateHipotecario,True,19.491357875936178,-99.0941820460022
-160,170,3,1,1,2,45,El Coyol,596900,0,Calle 313,Casa,True,remateHipotecario,True,19.4881312,-99.0900856
-142,142,3,2,0,1,20,Industrial,1950000,1,Santa Gertrudis 88,Casa,True,remateHipotecario,True,19.4718517,-99.1262254
-202,155,3,2,0,2,10,Vasco de Quiroga,1385000,0,juan bosco,Casa,True,remateHipotecario,True,19.491170730179537,-99.09391576137696
-254,336,4,2,2,2,10,Industrial,2300000,0,C. La Corona 280,Casa,True,remateHipotecario,False,19.4765777,-99.1226551
 131,240,5,2,0,3,,Fernando Casas Alemán,5500000,0,DOLARES,Casa,False,,False,19.45232441650551,-99.09825107134158
-250,250,3,3,0,2,20,Lindavista Sur,500000,0,Buenavista,Casa,True,remateHipotecario,False,19.4914212,-99.1279932
-138,291,4,2,1,2,45,Ampliación Casas Alemán,675000,100,Puerto Manzanillo 74,Casa,True,remateHipotecario,True,19.4770961,-99.0834009
-118,222,5,2,0,2,20,Estrella,707000,0,Opalo,Casa,True,remateHipotecario,False,19.4753085,-99.1157212
-164,183,4,1,1,2,14,La Escalera,770000,0,Arroyo Zacatenco,Casa,True,remateHipotecario,False,19.50856089005935,-99.1367200685394
-168,270,4,2,1,2,10,San Juan de Aragón I Secc,900000,0,Av 511,Casa,True,remateHipotecario,False,19.4600869,-99.0936211
 51,51,2,1,0,1,0,Constitución de La República,2172400,0,Luis de la Rosa 16,Apartamento,False,,False,19.4816783,-99.1028158
-136,162,3,1,1,1,20,15 de Agosto,600000,0,General Antonio Neri,Casa,True,remateHipotecario,False,19.4844631,-99.1062657
-98,98,3,2,0,2,12,Bondojito,1222694,0,Avenida Henry Ford 351,Apartamento,True,remateHipotecario,False,19.4658916,-99.1083511
-350,350,4,2,1,2,15,Lindavista Sur,963000,0,Linares,Casa,True,remateHipotecario,False,19.4890114,-99.1297215
-197,300,4,2,1,2,10,Lindavista,530000,0,Ambato 942,Casa,True,remateHipotecario,False,19.5037694,-99.1324282
-136,188,3,2,1,1,25,Gustavo A. Madero,1000000,0,Puerto Guaymas 135,Casa,True,remateHipotecario,False,19.4799253,-99.0859287
-138,291,4,2,1,2,47,Fernando Casas Alemán,1319859,0,Puerto Manzanillo,Casa,True,remateHipotecario,True,19.4525991,-99.096164
-176,238,3,2,0,2,10,Industrial,3500000,0,Ing Antonio Narro Acuña 64,Casa,True,remateHipotecario,False,19.4707234,-99.129069
-280,160,4,2,0,2,14,Lindavista Vallejo,627000,0,Norte 17 5252,Casa,True,remateHipotecario,False,19.4865658,-99.146826
-110,250,3,2,0,2,12,Vallejo,846000,0,Calle Tetrazzini no 232,Casa,True,remateHipotecario,False,19.4667787,-99.131672
-86,86,3,1,0,1,18,7 de Noviembre,1962685,0,Norte 42-A 3636,Apartamento,True,remateHipotecario,True,19.4614454,-99.122413
-209,405,3,2,0,1,15,San Juan de Aragón,995000,0,puerto de palos ,Casa,True,remateHipotecario,False,19.4700541,-99.0904885
-163,165,3,2,0,1,10,San Juan de Aragón,590000,0,AV 529,Casa,True,remateHipotecario,False,19.4646286,-99.0873663
 68,68,2,1,0,0,32,Aragón la Villa,2260000,0,Moctezuma 40,Apartamento,False,,False,19.4801846,-99.1157202
-145,145,3,1,0,1,20,Lindavista Norte,1250000,0,Lindavista 275,Apartamento,True,remateHipotecario,False,19.4948839,-99.1278456
-480,480,3,3,1,3,19,Valle del Tepeyac,2241000,0,Valle del Tepeyac,Casa,True,remateHipotecario,False,19.4882202,-99.1421561
-218,262,4,2,1,1,40,Constitución de La República,1290000,0,Félix Romero 112,Casa,True,remateHipotecario,False,19.4836939,-99.098999
-296,296,2,1,0,2,30,Valle del Tepeyac,700000,0,Corumbá 598,Casa,True,remateHipotecario,False,19.488929,-99.1395867
-172,344,4,4,0,3,18,Zona Escolar,970000,0,Av Adolfo López Mateos,Casa,True,remateHipotecario,True,19.542298333437515,-99.14605973226318
-166,332,4,3,0,2,0,Lindavista Norte,790000,0,Ambato,Casa,True,remateHipotecario,True,19.5000712,-99.1288767
 65,65,2,2,0,1,0,Lindavista Norte,4833000,0,Avenida Instituto Politécnico Nacional 1939,Apartamento,False,,True,19.4970349,-99.1320201
-51,51,2,1,0,1,3,Vasco de Quiroga,600000,0,Av. Ing. Eduardo Molina 8132,Apartamento,True,remateHipotecario,False,19.4892709,-99.0938023
-58,58,2,1,0,0,8,Acueducto de Guadalupe,915890,0,Avenida de las Brisas,Apartamento,True,remateHipotecario,False,19.5276898,-99.1513301
-208,268,3,1,1,1,43,Residencial Zacatenco,976000,0,Mollendo ,Casa,True,remateHipotecario,False,19.50088239116133,-99.1244726371872
-214,263,4,2,1,2,45,Lindavista Sur,4112000,0,Chosica 645,Casa,True,remateHipotecario,True,19.4900135,-99.1356275
-52,52,2,1,0,0,22,Gustavo A. Madero,932000,0,Caruso 275,Apartamento,True,remateHipotecario,False,19.467281,-99.1300595
-98,98,3,1,1,1,8,Bondojito,1360000,0,Av. Henry Ford 351,Apartamento,True,remateHipotecario,True,19.4658916,-99.108351
-59,59,3,2,0,1,35,El Arbolillo,288226,0,El Arbolillo 2,Apartamento,True,remateHipotecario,True,19.5357931,-99.1411184
-73,73,1,1,0,1,19,Estanzuela,624864,0,Gral. Pedro Negrete,Apartamento,True,remateHipotecario,True,19.49008584466216,-99.11003501957396
-254,254,4,3,0,2,10,San Juan de Aragón VII Secc,500000,0,Av. Francisco Morazán 127,Casa,True,remateHipotecario,True,19.4772727,-99.0725918
-240,240,4,3,0,0,25,Lindavista Norte,890000,0,Ámbito #939 Lindavista Norte Ciudad de México,Casa,True,remateHipotecario,False,19.4943246,-99.1276638
-70,70,2,2,0,1,19,San Juan de Aragón,978577,0,San Juan de Aragón,Apartamento,True,remateHipotecario,False,19.4686303,-99.0923614
 60,60,2,1,0,0,1,La Pradera,1800000,0,Monte de Las Cruces,Apartamento,False,,False,19.475079,-99.0677101
-110,110,3,2,0,1,10,San Bartolo Atepehuacan,963000,0,Eje Central Lázaro Cárdenas ,Apartamento,True,remateHipotecario,False,19.489708,-99.1441785
-251,370,5,3,1,2,10,Estrella,907800,0,Avenida Tesoro 66,Casa,True,remateHipotecario,False,19.4740492,-99.1179939
-112,198,4,2,1,2,15,Martín Carrera,750000,0,Gral. Miguel Miramón,Casa,True,remateHipotecario,True,19.4895325,-99.107235
-84,84,2,1,0,1,12,Bondojito,450000,300,Ferrocarril Hidalgo 1321,Apartamento,True,remateHipotecario,True,19.4675753,-99.1164884
-147,245,4,2,0,2,29,Tepeyac Insurgentes,873000,0,Zacatenco #35,Casa,True,remateHipotecario,False,19.4820949,-99.1214778
-134,200,4,3,0,2,20,Industrial,745000,0,Romulo Escobar,Casa,True,remateHipotecario,False,19.4741202,-99.1275379
-93,93,3,1,0,1,10,Granjas Modernas,810000,800,Gaviotas 11,Apartamento,True,remateHipotecario,False,19.4783881,-99.1034242
-135,201,3,2,0,2,57,Gustavo A. Madero,950000,0,Nte. 72 3615,Casa,True,remateHipotecario,False,19.4573606,-99.1099719
-140,207,3,1,0,1,35,7 de Noviembre,730000,0,7 de Noviembre,Casa,True,remateHipotecario,False,19.4612738,-99.1214045
-152,184,4,2,1,1,10,7 de Noviembre,2000000,0,Estela 49,Casa,True,remateHipotecario,False,19.4652604,-99.1214005
-60,60,2,1,0,1,10,DM Nacional,780000,0,Rinconada de Don Blas y Galindo,Casa,True,remateHipotecario,False,19.4746459,-99.0960266
-158,216,3,2,0,1,10,Gustavo A. Madero,470000,0,C. ,Casa,True,remateHipotecario,False,19.4538998,-99.0657859
 54,54,2,1,0,1,,Bondojito,3200000,0,FC. HIDALGO,Apartamento,False,,False,19.4675906041551,-99.11648778862995
 128,240,4,2,0,1,35,San Juan de Aragón VI Secc,3200000,0,Calle 45 68,Casa,False,,False,19.4677043,-99.0667845
 138,193,5,3,0,1,10,Estrella,6450000,0,Calle Venturina,Casa,False,,False,19.4746217,-99.1141556
 373,650,5,5,0,2,75,Estrella,9950000,0,Joyas 69,Casa,False,,False,19.475399,-99.1174361
 326,320,3,2,1,4,48,La Joya,7600000,0,Calle Norte 74 3732,Casa,False,,False,19.4592921,-99.1084861
-100,160,3,2,1,1,10,El Coyol,580000,0,Calle 319-A,Casa,True,remateHipotecario,True,19.4869182,-99.0888187
-60,60,2,1,0,1,15,El Arbolillo,455000,0,Cam. Viejo a Cuautepec,Apartamento,True,remateHipotecario,True,19.53281608000252,-99.14873553544312
-118,207,4,2,1,2,15,Valle del Tepeyac,1127000,0,Boyacá,Casa,True,remateHipotecario,False,19.4882878,-99.1428226
 171,146,2,1,0,4,70,Tepeyac Insurgentes,5350000,0,Cerrada Talara Calle,Casa,False,,False,19.4861689,-99.1212612
 264,136,6,3,0,4,40,Loma La Palma,4500000,0,"MARIA GREVER 44  , Loma La Palma , 07160 Gustavo A. Madero, Ciudad de México, México",Casa,False,,False,19.5597288,-99.1391659
-158,136,4,1,1,1,8,Industrial,1340000,0,Ing. Manuel Marroquín y Rivera 35,Casa,True,remateHipotecario,False,19.4713344,-99.1325788
-50,59,2,1,0,0,19,Indeco,1050000,0,Perdiz,Casa,True,remateHipotecario,True,19.47192785926461,-99.09054034253614
 56,56,2,1,0,1,5,Vallejo,2344190,1500,Juan Sebastián Bach,Apartamento,False,,False,19.4663817,-99.1380422
-151,303,4,3,1,2,39,Gertrudiz Sánchez,455300,1,Norte 80-A,Casa,True,remateHipotecario,True,19.4676031,-99.1015712
-150,280,3,2,0,1,15,Villa de Aragón,1300000,0,Villa de Tezozomoc 63,Casa,True,remateHipotecario,True,19.4700845,-99.0625297
-127,170,4,2,1,2,15,Estrella,750000,0,Sardónica 67,Casa,True,remateHipotecario,False,19.4748034,-99.1130359
-282,524,5,4,0,3,15,Tepeyac Insurgentes,710000,0,Calle Garrido 278,Casa,True,remateHipotecario,False,19.4840022,-99.1219267
 120,360,3,3,2,4,13,Lindavista Norte,8700000,1900,Pernambuco,Casa,False,,False,19.4911889,-99.1258002
-228,386,5,2,0,2,25,Tepeyac Insurgentes,710000,0,Calle Garrido,Casa,True,remateHipotecario,False,19.4834259,-99.1198668
-180,108,3,2,0,0,14,San Juan de Aragón I Secc,1600000,0,3 3a.  ,Casa,True,remateHipotecario,False,19.4619648,-99.0930528
-135,110,3,2,1,2,20,Ampliación Casas Alemán,2400000,500,Puerto Angel 117,Casa,True,remateHipotecario,True,19.4796486,-99.0886275
-160,305,4,3,0,3,7,Ampliación Casas Alemán,1197651,0,Puerto Manzanillo 74,Casa,True,remateHipotecario,True,19.4770961,-99.0834009
-163,173,3,2,0,1,15,Vasco de Quiroga,880000,0,Fray Juan Padilla ,Casa,True,remateHipotecario,False,19.4968358,-99.093836
 143,575,3,3,1,4,47,Lindavista,12600000,0,Cienfuegos,Casa,False,,False,19.4879932,-99.1332692
-190,260,4,3,0,2,15,Industrial,600000,0,Aurelio Leyva 27,Casa,True,remateHipotecario,False,19.4716066,-99.1347324
-120,132,3,2,1,1,27,Villa de Aragón,1200000,0,C. Villa Moctezuma 101,Casa,True,remateHipotecario,False,19.4704607,-99.0612302
-63,63,2,2,0,1,10,Ticoman,965000,0,Av Rio de los Remedios 57,Apartamento,True,remateHipotecario,False,19.5182061,-99.1340801
-128,251,4,2,1,2,34,Ampliación San Juan de Aragón,3308000,0,Avenida 499 133,Casa,True,remateHipotecario,True,19.4712831,-99.0706751
 0,58,2,1,0,1,0,Villa de Aragón,2750000,0,Cuitlahuac,Apartamento,False,,False,19.4672793,-99.0605643
-59,59,2,1,0,1,20,Santa Maria Ticoman,500000,1,Plan de Acatempan 73,Apartamento,True,remateHipotecario,True,19.5133768,-99.1355298
-120,123,3,2,1,1,52,Industrial,650000,2024,Hormiga 64,Casa,True,remateHipotecario,False,19.4828556,-99.1261118
 73,73,2,1,0,0,1,Tres Estrellas,2775000,0,Oniquina,Apartamento,False,,False,19.4715,-99.1107
-45,45,2,1,1,1,15,Gustavo A. Madero,1800000,1,Florencio Constantino 243,Apartamento,True,remateHipotecario,False,19.4636189,-99.1300776
-60,60,2,1,0,0,21,Vasco de Quiroga,810008,200,Avenida Ingeniero Eduardo Molina 1720,Apartamento,True,remateHipotecario,True,19.4909454,-99.0954726
 250,390,7,7,0,1,40,Del Obrero,5300000,0,Ejido 41,Casa,False,,False,19.4992341,-99.0921659
 170,300,3,2,1,1,10,El Coyol,650000,0,Calle 311,Casa,False,,False,19.4882841,-99.0905436
-137,127,3,2,1,1,25,Estrella,730000,0,Prol. Granate,Casa,True,remateHipotecario,True,19.4736027,-99.1177795
-172,344,4,2,2,3,33,Zona Escolar,970000,0,Av Adolfo López Mateos 174,Casa,True,remateHipotecario,True,19.5418295,-99.1463827
-160,189,3,2,1,1,59,Santa Rosa,590900,200,Calle 28-A,Casa,True,remateHipotecario,False,19.5239533,-99.1696738
-0,160,3,2,0,1,11,Estrella,600000,0,TURQUESA,Casa,True,remateHipotecario,False,19.4744617,-99.1151335
-310,450,4,3,0,2,25,Lindavista Norte,590000,0,Matanzas ,Casa,True,remateHipotecario,False,19.4958041,-99.1284953
 74,74,3,2,0,1,5,Residencial Zacatenco,3100000,0,Av . Acueducto,Apartamento,False,,False,19.5016,-99.1212
-156,156,3,3,0,2,15,Valle del Tepeyac,889000,0,Coban No. ,Casa,True,remateHipotecario,False,19.4872212,-99.1406709
-172,333,4,3,0,2,30,San Juan de Aragón II Secc,590000,0,Av. 563,Casa,True,remateHipotecario,False,19.4529297,-99.0830212
-487,487,6,5,0,3,19,Lindavista Sur,5305000,0,Lindavista Sur,Casa,True,remateHipotecario,False,19.4908853,-99.1331631
-145,176,4,2,0,2,20,San Juan de Aragón,660000,0,Calle ,Casa,True,remateHipotecario,False,19.4530325,-99.0670337
-400,360,4,3,0,3,15,Zacatenco,660000,0,Salaverry 1068,Casa,True,remateHipotecario,False,19.5028084,-99.1267285
 73,72,2,1,0,1,0,Gustavo A. Madero,2775000,1,Oniquina ,Apartamento,False,,True,19.4703632,-99.1105337
 240,295,4,2,1,2,55,Lindavista,13000000,1000,Chiclayo ,Casa,False,,False,19.4909803,-99.1295779
-100,160,3,2,1,0,9,El Coyol,600000,0,Calle 311,Casa,True,remateHipotecario,True,19.4882841,-99.0905436
-58,58,2,1,0,1,25,Vallejo,500000,300,Schumann 117,Apartamento,True,remateHipotecario,False,19.4676866,-99.1300704
-300,347,4,2,1,2,36,La Escalera,610000,0,Arroyo Ticoman 53,Casa,True,remateHipotecario,False,19.5106587,-99.1382248
 152,265,3,2,1,2,30,Gertrudiz Sánchez,6900000,0,Norte 82-A 6100,Casa,False,,True,19.467982,-99.1004484
-138,97,3,2,0,2,10,Villa de Aragón,550000,0,Villa de Aragón 7,Casa,True,remateHipotecario,False,19.4686486,-99.0592895
-40,70,2,1,0,1,20,C.T.M. Atzacoalco,500000,10,Wolstano Pineda 2,Apartamento,True,remateHipotecario,True,19.5057717,-99.0961293
-350,380,3,2,1,2,20,Lindavista Sur,660000,0,Coquimbo,Casa,True,remateHipotecario,False,19.4899235,-99.1259687
-242,350,4,2,1,2,20,Lindavista Sur,700000,0,Lindavista Sur,Casa,True,remateHipotecario,False,19.4908853,-99.1331631
-450,300,5,2,1,5,30,Lindavista Sur,6000000,0,Callao,Casa,True,remateHipotecario,False,19.4895251,-99.1254278
 349,121,3,1,0,2,60,Tepeyac Insurgentes,3250000,0,Santiago,Apartamento,False,,False,19.4875,-99.1215
 80,80,3,2,0,1,,Tepeyac Insurgentes,3100000,0,CALZADA DE LOS MISTERIOS,Apartamento,False,,False,19.48785,-99.11793
 502,350,4,1,0,5,30,Gustavo A. Madero,5600000,0,Supercito Cuautepec Barrio Alto,Casa,False,,False,19.555176,-99.1313269
-0,210,4,2,0,2,24,Lindavista Vallejo,890000,0,"Av Sur de los 100 metros #89, Lindavista Vallejo, Gustavo A Madero",Casa,True,remateHipotecario,False,19.4839309,-99.148055
-33,59,2,1,0,1,15,Santiago Atepetlac,899050,0,Calle 15 278,Apartamento,True,remateHipotecario,True,19.5238111,-99.1559643
 180,281,3,3,0,2,,Estrella,7100000,0,CORAL,Casa,False,,False,19.47627,-99.11788
-280,440,4,3,1,2,10,Villa de Aragón,650000,0,Calle Villa Cuitláhuac 76,Casa,True,remateHipotecario,False,19.469961,-99.0616976
-63,63,2,1,0,1,8,Gustavo A. Madero,830000,0,Puerto Oporto 64,Apartamento,True,remateHipotecario,False,19.4689724,-99.0907497
 89,89,3,1,0,1,,Nueva Industrial Vallejo,2550000,0,AV. MIGUEL OTHON DE MENDIZABAL,Apartamento,False,,False,19.50325,-99.15685
-59,59,3,2,0,2,35,El Arbolillo,288226,0,El Arbolillo,Apartamento,True,remateHipotecario,True,19.5357931,-99.1411184
-86,86,2,1,1,1,26,Vallejo,680000,0,Schumann 117,Apartamento,True,remateHipotecario,True,19.4676866,-99.1300704
 160,350,8,5,0,1,36,Vasco de Quiroga,4100000,1,Vasco de Quiroga,Casa,False,,False,19.4950848,-99.0937441
-234,195,4,3,0,0,27,Industrial,1021000,1,Santa Gertrudis,Casa,True,remateHipotecario,False,19.4728963,-99.1259522
-144,100,3,1,1,1,25,Industrial,3878202,0,Buen Tono 97,Casa,True,remateHipotecario,False,19.4723169,-99.1270055
-200,220,3,3,1,2,25,San Juan de Aragón III Secc,529000,0,Av 581,Casa,True,remateHipotecario,False,19.4510419,-99.0754283
-63,63,2,1,0,1,12,San Juan de Aragón,830000,0,P Oporto 64,Apartamento,True,remateHipotecario,True,19.468852838764164,-99.09300513016356
 160,350,8,5,0,1,28,Vasco de Quiroga,4100000,1,Fray Bartolomé de las Casas 34,Casa,False,,True,19.4950848,-99.0937441
 230,315,5,4,0,3,,San Juan de Aragón II Secc,6500000,0,AV. ,Casa,False,,False,19.45156,-99.08929
-280,400,4,3,0,3,15,Torres Lindavista,645000,0,Torres Lindavista,Casa,True,remateHipotecario,False,19.5109537,-99.1442316
 75,75,2,2,0,2,5,Magdalena de las Salinas,4250000,1900,av. insurgentes norte 1346,Apartamento,False,,False,19.4811493,-99.1299205
 125,125,2,1,0,1,,Estrella,4950000,0,MALAQUITA,Casa,False,,False,19.47448,-99.11292
 72,72,2,1,0,1,0,Tres Estrellas,2775000,1,"Gustavo Madero, Tres Estrellas",Apartamento,False,,True,19.472076,-99.1117223
 130,218,6,3,0,0,50,Estrella,5200000,0,Zafiro,Casa,False,,False,19.4743887,-99.1137898
-91,91,3,2,1,1,30,Tepeyac Insurgentes,708502,800,Unión 257,Apartamento,True,remateHipotecario,False,19.4855507,-99.1220962
-202,155,3,2,0,2,20,Vasco de Quiroga,1385000,0,C. Padre Juan Bosco,Casa,True,remateHipotecario,True,19.491357875936178,-99.09416058833008
-202,155,3,2,0,2,30,Vasco de Quiroga,1385008,0,C. Fray Juan Bosco ,Casa,True,remateHipotecario,True,19.491655868794886,-99.09521953639636
-160,160,5,3,3,2,20,Gustavo A. Madero,4181866,0,Nte. 17 5252,Casa,True,remateHipotecario,False,19.4865658,-99.146826
-280,400,4,2,1,2,10,Torres Lindavista,590000,0,Torres Lindavista,Casa,True,remateHipotecario,False,19.5109537,-99.1442316
 52,52,2,1,0,0,33,Aragón la Villa,1524000,0,Avenida Preparatorias 224,Apartamento,False,,False,19.5350165,-99.1479756
-50,59,2,1,0,0,18,San Juan de Aragón,1050000,0,Perdiz,Casa,True,remateHipotecario,True,19.47185834657379,-99.09032828556668
-62,62,2,1,0,1,17,Triunfo de La República,624863,1,Gral. Pedro Negrete ,Apartamento,True,remateHipotecario,True,19.489923,-99.1099599
-200,200,4,3,0,2,5,Lindavista Vallejo,1370020,0,Norte 17 ,Casa,True,remateHipotecario,False,19.4854996,-99.1470098
-201,312,4,2,1,1,8,Nueva Atzacoalco,650000,0,C. 315 206,Casa,True,remateHipotecario,False,19.4908455,-99.0887352
 201,322,3,3,0,1,46,San Pedro El Chico,6250000,0,Calle Norte 84 6523,Casa,False,,False,19.4701357,-99.0986294
-172,344,4,4,0,3,16,Zona Escolar,970000,0,ADOLFO LOPEZ MATEOS Mza 43,Casa,True,remateHipotecario,True,19.5421067286704,-99.1465002704834
 72,72,2,2,0,1,3,Gustavo A. Madero,2765000,0,Av Centenario 2103,Apartamento,False,,False,19.5005583,-99.0944149
-177,160,3,2,1,2,20,Acueducto de Guadalupe,590000,0,De Boca del Río 12,Casa,True,remateHipotecario,False,19.520946,-99.145812
-158,220,3,2,0,2,11,Guadalupe Tepeyac,520000,0,Martha 70,Casa,True,remateHipotecario,False,19.4680088,-99.1193297
 126,240,4,1,0,1,,San Juan de Aragón VI Secc,3950000,0,C. ,Casa,False,,False,19.46886,-99.06969
 59,59,2,1,0,0,34,Industrial,2200000,0,Industrial,Apartamento,False,,False,19.4713491,-99.1270435
-242,350,4,2,1,2,10,Lindavista Sur,620000,0,Linares,Casa,True,remateHipotecario,True,19.4888785,-99.1298249
-197,395,4,2,1,2,26,San Juan de Aragón VII Secc,550000,0,Avenida Francisco Morazán 127,Casa,True,remateHipotecario,False,19.4772727,-99.0725918
-90,120,3,2,0,1,31,San Juan de Aragón,650000,0,ANDADOR DE LA PERDIZ LT. 65,Casa,True,remateHipotecario,True,19.4686303,-99.0923614
 176,301,6,2,1,1,30,Industrial,6490000,0,Anfora,Casa,False,,False,19.4737127,-99.1261308
-58,58,2,1,0,1,19,San Juan de Aragón,2100000,0,Calzada San Juan de Aragón,Apartamento,True,remateHipotecario,False,19.4702966,-99.085996
-305,367,4,3,0,2,10,Lindavista Norte,660000,0,Matanzas 872,Casa,True,remateHipotecario,False,19.4958675,-99.1283725
 109,109,2,2,0,2,0,Residencial Zacatenco,4536000,1200,Av. Acueducto 650,Apartamento,False,,True,19.5016187,-99.1212316
-160,100,3,2,1,1,0,El Coyol,700000,100,Calle 311,Casa,True,remateHipotecario,True,19.4882841,-99.0905436
-241,283,4,3,1,2,10,Tepeyac Insurgentes,817800,0,Santiago 32,Casa,True,remateHipotecario,False,19.4855507,-99.1220962
-200,415,4,2,0,1,15,Industrial,900000,0,Carolina 30,Casa,True,remateHipotecario,False,19.4793378,-99.125077
-320,138,3,2,1,2,45,Lindavista Sur,490000,0,GUAYAQUIL,Casa,True,remateHipotecario,False,19.4942886,-99.1355765
-160,280,3,2,0,2,18,Lindavista,590000,0,Gustavo A. Madero,Casa,True,remateHipotecario,False,19.491207768637548,-99.14943769949308
 139,333,6,4,2,2,0,La Joya,7200000,0,Norte 74 A No. 3517,Casa,False,,True,19.45520374895755,-99.10937497665176
-211,249,4,2,1,2,10,Lindavista Vallejo,600000,0,Nte. 17 5252,Casa,True,remateHipotecario,False,19.4865658,-99.146826
 225,236,4,3,1,2,30,Lindavista Sur,11000000,0,Puno 773,Casa,False,,False,19.4891572973087,-99.13140745848158
-160,160,3,2,0,1,50,Gustavo A. Madero,799811,0,Vicente García González,Casa,True,remateHipotecario,False,19.5087481,-99.0940085
-200,280,3,2,0,1,15,San Felipe de Jesús,565000,0,Atizapán de Zaragoza 133,Casa,True,remateHipotecario,False,19.4941238,-99.0714754
-52,52,2,1,0,1,30,Vasco de Quiroga,780000,0,5 de Mayo 57,Apartamento,True,remateHipotecario,False,19.4978194,-99.0904588
-216,269,3,2,0,2,35,San Juan de Aragón II Secc,2145008,0,Avenida  ,Casa,True,remateHipotecario,True,19.457077342228107,-99.0838017356802
-500,507,3,1,1,1,62,Mártires de Río Blanco,5162500,0,Norte 58,Casa,True,remateHipotecario,False,19.46207979699401,-99.11519018161468
-133,263,4,2,1,1,10,Fernando Casas Alemán,3500000,0,Pto. Zihuatanejo,Casa,True,remateHipotecario,False,19.4773764,-99.0869269
-216,269,4,3,0,1,42,San Juan de Aragón II Secc,5200000,1,Av. 553 196,Casa,True,remateHipotecario,True,19.4571646,-99.0839495
-147,207,3,2,1,1,58,Gertrudiz Sánchez,650000,0,Calle Norte 74 6121,Casa,True,remateHipotecario,True,19.4692162,-99.1039311
-162,300,4,3,0,2,25,Acueducto de Guadalupe,750000,0,De La Playa 55,Casa,True,remateHipotecario,False,19.526651,-99.1549672
-66,66,2,2,0,2,0,Salvador Díaz Mirón,2245334,0,Av. Ing. Eduardo Molina 8132,Apartamento,True,remateHipotecario,True,19.4892578,-99.0939946
-138,454,3,2,0,1,40,Gustavo A. Madero,4849000,0,C. 15 74,Casa,True,remateHipotecario,True,19.5170312,-99.1596671
-150,200,3,2,1,2,29,Lindavista Vallejo II Secc,610500,0,Norte 19-A 5327,Casa,True,remateHipotecario,False,19.4874202,-99.1478348
 63,55,2,1,0,1,20,DM Nacional,2399000,0,"Calzada San Juan de Aragón 439, Rinconada Don Blas Edificio B",Apartamento,False,,False,19.47401643659334,-99.09594466878664
 198,203,5,3,1,3,41,Jorge Negrete,4900000,0,Pedro Armendariz,Casa,False,,False,19.528015141539488,-99.14258702565613
-145,145,3,2,0,1,10,Industrial,2425200,1200,Santa Gertrudis 88,Casa,True,remateHipotecario,True,19.4718517,-99.1262254
-252,340,5,3,0,2,20,Lindavista Sur,450000,0,Linares,Casa,True,remateHipotecario,False,19.4888785,-99.1298249
 126,178,3,2,0,2,,San Juan de Aragón VI Secc,4200000,0,C. ,Casa,False,,False,19.46517,-99.06232
 65,65,2,1,0,0,17,Vasco de Quiroga,1200000,0,Torres Vasco de Quiroga,Apartamento,False,,False,19.4903377,-99.0936914
-140,270,3,2,0,2,30,Lindavista Norte,1671681,0,Pujato 16,Casa,True,remateHipotecario,True,19.4984485,-99.1312227
-130,130,3,2,0,2,30,Faja de Oro,1301000,0,Eduardo Molina,Casa,True,remateHipotecario,False,19.4658088,-99.1036653
-50,59,2,1,0,0,18,San Juan de Aragón,1050000,0,ANDADOR DE LA PERDIZ LT. 65,Casa,True,remateHipotecario,True,19.471882370181014,-99.0904355739273
 200,267,6,3,0,2,,San Felipe de Jesús,4900000,0,Pachuca Mz 275 Lote 3719,Casa,False,,False,19.4932,-99.083
-155,255,4,2,1,1,16,Gustavo A. Madero,600000,0,Av -A,Casa,True,remateHipotecario,False,19.468512,-99.0762494
 137,163,2,1,1,1,25,Ampliación Casas Alemán,4150000,0,"Puerto Cozumel 182  , Ampliación Casas Alemán , 07580 Gustavo A. Madero, Ciudad de México, México",Casa,False,,False,19.48177659999999,-99.0871357
-164,183,4,1,1,2,15,La Escalera,770000,0,Arroyo Zacatenco,Casa,True,remateHipotecario,False,19.5053045,-99.1339413
 108,108,3,2,0,2,7,Juan de Dios Bátiz,5760000,0,Avenida Juan de Dios Bátiz 415,Apartamento,False,,False,19.5029494,-99.1288112
-292,315,4,1,0,2,11,Lindavista Norte,650000,0,Quito,Casa,True,remateHipotecario,False,19.494112,-99.1276295
-136,111,3,2,0,0,36,Ampliación Casas Alemán,2400000,0,Puerto Angel 117,Casa,True,remateHipotecario,True,19.4796486,-99.0886275
 123,160,3,2,0,2,25,San Felipe de Jesús,2280000,0,Tierra Pródiga,Casa,False,,True,19.51383143794852,-99.02147753504636
-160,210,3,1,1,1,23,Gustavo A. Madero,700000,0,De La Playa ,Casa,True,remateHipotecario,False,19.526651,-99.1549672
 162,492,4,3,1,3,41,Residencial Acueducto de Guadalupe,7800000,0,Boca del Río,Casa,False,,False,19.4987458,-99.1129563
-57,57,2,1,0,1,23,DM Nacional,1650000,0,Calz. San Juan de Aragón 439,Apartamento,True,remateHipotecario,True,19.4799484,-99.1000512
-164,164,3,2,0,2,15,Lindavista Vallejo II Secc,765000,0,Norte  17 No. ,Casa,True,remateHipotecario,False,19.4854996,-99.1470098
-1,1,3,2,0,1,20,General Felipe Berriozabal,3200000,0,Felipe de Berriozabal,Casa,True,remateHipotecario,True,19.5558887,-99.1293518
-263,186,3,2,1,1,10,San Juan de Aragón,780000,0,Av 511 230,Casa,True,remateHipotecario,False,19.4650013,-99.0919407
-186,219,4,3,0,2,17,Lindavista Sur,550000,0,Guayaquil,Casa,True,remateHipotecario,False,19.4942886,-99.1355765
-168,300,4,1,1,2,18,Gustavo A. Madero,535000,0,Av 499,Casa,True,remateHipotecario,True,19.4678151,-99.07197
 48,48,1,1,0,0,1,15 de Agosto,1600000,0,"GENERAL GUADALUPE VICTORIA #74, 15 de Agosto, Gustavo A. Madero",Apartamento,False,,True,19.4850379,-99.1075091
-90,126,4,3,1,2,27,Zona Escolar,213616,0,ADOLFO LOPEZ MATEOS 174  LT 14 MZA 43,Casa,True,remateHipotecario,True,19.5293072,-99.1416082
-190,284,4,4,0,1,20,Guadalupe Tepeyac,8980000,0,Alicia 112B,Casa,True,remateHipotecario,True,19.4677285,-99.123146
-160,300,4,3,0,2,15,Industrial,990000,0,Romulo Escobar 112,Casa,True,remateHipotecario,False,19.4736617,-99.1278181
-56,56,2,1,0,1,25,Vallejo,610000,0,Smetana 43,Apartamento,True,remateHipotecario,False,19.4645477,-99.1306521
-202,155,3,2,0,2,10,Vasco de Quiroga,1385000,0,C. Padre Juan Bosco 107,Casa,True,remateHipotecario,False,19.4912922,-99.0944108
 100,100,5,1,0,0,15,Prados de Cuautepec,2800000,0,Florida 17,Apartamento,False,,False,19.561398,-99.1403972
-59,59,2,1,0,1,29,Guadalupe Proletaria,1517910,800,C. 15 278,Apartamento,True,remateHipotecario,True,19.5238111,-99.1559643
-116,190,4,2,1,1,15,Estrella,710000,0,Calle Turquesa  ESRELLA,Casa,True,remateHipotecario,True,19.4744617,-99.1151335
-60,60,2,1,0,1,30,Martín Carrera,837477000,100,José Joaquin Herrera 241,Apartamento,True,remateHipotecario,False,19.4869241,-99.1064817
-85,85,2,2,0,1,5,Gustavo A. Madero,1204814,0,Av. Centenario 2152,Apartamento,True,remateHipotecario,False,19.5022555,-99.0943081
-190,190,4,3,0,2,9,Industrial,600000,0,Industrial,Casa,True,remateHipotecario,True,19.4736233,-99.1248628
-174,348,4,3,0,2,10,Nueva Vallejo,650000,0,Nte. 17-A,Casa,True,remateHipotecario,False,19.484009,-99.1475063
-196,282,3,1,1,2,10,San Felipe de Jesús,580000,0,Atizapán de Zaragoza 133,Casa,True,remateHipotecario,False,19.4941752,-99.0715292
-180,165,3,2,1,1,15,El Coyol,535000,0," 00, El Coyol, Gustavo A. Madero.",Casa,True,remateHipotecario,True,19.4900619,-99.0879406
-50,50,2,1,0,1,18,Nueva Industrial Vallejo,890000,0,CALLE TETRAZZINI NO 232 VIVIENDA B-3,Casa,True,remateHipotecario,True,19.4667787,-99.131672
 1,65,2,2,0,1,0,Lindavista Norte,3993600,0,Lindavista Norte,Apartamento,False,,False,19.494112,-99.1276295
-136,136,3,2,0,1,25,Fernando Casas Alemán,2400000,0,Puerto Angel 117,Casa,True,remateHipotecario,True,19.4525991,-99.096164
-150,120,3,2,1,1,9,El Coyol,670000,0,Calle 313-A,Casa,True,remateHipotecario,True,19.4866399,-99.0903296
-190,350,5,3,0,2,15,San Juan de Aragón II Secc,780000,0,Av. 541,Casa,True,remateHipotecario,False,19.4546669,-99.0879067
 0,64,2,1,0,1,0,Santiago Atzacoalco,2688000,0,centenario,Apartamento,False,,False,19.4977106,-99.0966874
-136,162,2,1,0,1,10,15 de Agosto,600000,0,Gral. Antonio Neri,Casa,True,remateHipotecario,True,19.4844631,-99.1062657
 63,63,2,1,0,0,30,Gustavo A. Madero,2200000,0,Norte 82-A,Apartamento,False,,False,19.4720974,-99.0987548
-85,85,2,2,0,1,10,Santiago Atzacoalco,1204814,0,Avenida Centenario 2152,Apartamento,True,remateHipotecario,True,19.5022555,-99.0943081
-230,230,4,2,1,2,25,Industrial,800000,1,Av Huasteca 46,Casa,True,remateHipotecario,False,19.4701846,-99.1261406
-120,123,3,2,1,1,52,Industrial,650000,0,Hormiga 64,Casa,True,remateHipotecario,True,19.4828556,-99.1261118
-179,158,3,2,1,2,27,Residencial La Escalera,500000,1,Avenida Guillermo Massieu Helguera 104,Casa,True,remateHipotecario,True,19.508504723289096,-99.13513714921264
-340,252,4,2,1,2,20,Lindavista Sur,450000,0,Linares 658,Casa,True,remateHipotecario,False,19.4880565,-99.130662
-128,251,4,2,1,2,20,San Juan de Aragón VI Secc,3308000,0,Avenida 499 133,Casa,True,remateHipotecario,True,19.4712831,-99.0706751
 200,100,2,2,0,2,40,San Felipe de Jesús,3580000,0,Nogales ,Casa,False,,False,19.4898708,-99.0682354
 200,354,4,2,1,3,0,Nueva Atzacoalco,4100000,0,Calle 321 529,Casa,False,,False,19.4969127,-99.0846348
 250,350,4,2,1,4,50,Lindavista Norte,9200000,0,Oruro,Casa,False,,False,19.4900315,-99.1291353
-187,286,4,3,1,1,27,Industrial,838820,0,Avenida Huasteca,Casa,True,remateHipotecario,False,19.4741606,-99.124467
 200,325,5,4,1,2,10,Lindavista Norte,17000000,0,"Caracas 72  , Lindavista Norte , 07300 Gustavo A. Madero, Ciudad de México, México",Casa,False,,False,19.51055718457171,-99.1435057989502
-180,180,3,2,0,2,18,San Juan de Aragón IV Secc,715000,0,Calle 615 #117 San Juan de Aragón IV sección Ciudad de México,Casa,True,remateHipotecario,False,19.4522992,-99.0666756
-43,43,2,1,0,1,12,Granjas Modernas,750000,0,Gaviotas,Apartamento,True,remateHipotecario,True,19.478671314045624,-99.10584891694944
 65,65,2,2,0,0,0,Lindavista,4943100,1,"Departamento en Venta en Gustavo Madero, Lindavista AF 27-1077",Apartamento,False,,True,19.4510326,-99.0592362
-523,380,3,2,0,2,15,San Bartolo Atepehuacan,580000,0,Celaya 25,Casa,True,remateHipotecario,False,19.4925705,-99.1435398
-161,280,3,2,1,2,38,La Escalera,2000000,0,Arroyo Zacatenco ,Casa,True,remateHipotecario,False,19.5083438,-99.1372138
 174,241,4,2,0,2,58,Valle del Tepeyac,6990000,0,"Avenida Fortuna  596  , Valle del Tepeyac , 07740 Gustavo A. Madero, Ciudad de México, México",Casa,False,,False,19.486774200000013,-99.1430286
 104,104,3,2,0,2,58,Nueva Industrial Vallejo,2950000,0,Edit 68 Ent B Depto 300 Unidad Lindavista Vallejo,Apartamento,False,,True,19.5005344,-99.1535718
-263,314,4,3,1,3,15,San Juan de Aragón II Secc,800000,0,Avenida 547,Casa,True,remateHipotecario,False,19.4536564,-99.086773
-172,344,4,4,0,3,20,Zona Escolar,970000,0,adolfo lopéz mateos,Casa,True,remateHipotecario,True,19.5416517415187,-99.14621595632782
 103,164,4,2,0,1,,Industrial,5300000,0,PERFECCIONADA,Casa,False,,False,19.47449,-99.129
-446,300,4,3,1,1,41,Lindavista,490000,0,PARANAGUA,Casa,True,remateHipotecario,False,19.50874638632451,-99.12581155263976
-90,120,4,3,0,2,29,Vasco de Quiroga,1000000,0,CALLE JUAN BOSCO NO  107 LT 4 MZA,Casa,True,remateHipotecario,True,19.4912922,-99.0944108
 54,54,1,1,0,0,0,Santiago Atzacoalco,2146000,0,Centenario,Apartamento,False,,True,19.4977106,-99.0966874
-230,234,4,3,1,2,26,Lindavista Sur,640000,0,Oruro 30,Casa,True,remateHipotecario,True,19.490852,-99.128653
-78,128,3,2,1,1,15,San Juan de Aragón V Secc,650000,0,Calle 625,Casa,True,remateHipotecario,True,19.4515179,-99.0651868
 54,54,2,1,0,0,0,La Pradera,1800000,0,Cofre de Perote,Apartamento,False,,False,19.4743558,-99.0663552
-263,168,3,2,1,1,10,San Juan de Aragón,780000,0,Av 511 230,Casa,True,remateHipotecario,False,19.4650013,-99.0919407
 60,60,3,1,0,1,4,Juan González Romero,1810000,0,Juan González Romero,Apartamento,False,,False,19.5056089,-99.0895959
-138,291,4,2,1,1,35,Ampliación Casas Alemán,1319857,0,Puerto Manzanillo,Casa,True,remateHipotecario,True,19.4783513,-99.0830271
-98,98,3,1,1,1,10,Bondojito,1360000,0,Avenida Henry Ford 351,Apartamento,True,remateHipotecario,True,19.4658916,-99.108351
-140,300,4,2,1,1,19,Ampliación Casas Alemán,700000,0,Puerto San Blas 69,Casa,True,remateHipotecario,False,19.4772528,-99.0854968
-215,340,3,1,0,1,41,Lindavista Sur,1580000,0,Chosica 716,Casa,True,remateHipotecario,False,19.4926094,-99.135499
-156,300,4,1,1,1,8,Industrial,678000,0,Av. Río Blanco 192,Casa,True,remateHipotecario,False,19.4790098,-99.1276406
 485,399,3,3,1,3,18,Torres Lindavista,19800000,0,Jovellanos,Casa,False,,False,19.508165,-99.1474302
 213,213,6,6,0,3,45,La Malinche,4600000,0,Calle Norte 84 4220,Casa,False,,False,19.4527347,-99.1058611
-282,282,3,2,0,1,40,Gustavo A. Madero,888500,0,Avenida Insurgentes Norte,Casa,True,remateHipotecario,False,19.4867872,-99.1239195
 57,57,2,1,0,1,3,Vasco de Quiroga,2941470,0,Av. Eduardo Molina,Apartamento,False,,False,19.4952274,-99.0913179
 68,68,2,2,0,0,0,Lindavista,3809999,1,"Gustavo Madero , Lindavista",Apartamento,False,,True,19.5037694,-99.1324282
 65,65,2,2,0,1,0,Lindavista,4833000,1,"Departamento en Venta en Gustavo Madero, Lindavista AF 27-1076",Apartamento,False,,True,19.4510326,-99.0592362
-128,230,4,2,0,2,10,San Juan de Aragón,660000,0,Av 499 133,Casa,True,remateHipotecario,True,19.4712831,-99.0706751
-63,63,2,1,0,1,19,San Juan de Aragón,830000,0,Puerto Oporto,Apartamento,True,remateHipotecario,True,19.4697805,-99.0901962
-80,92,3,2,1,1,52,C.T.M. Atzacoalco,1733972,0,Roberto Gómez Muñoz 15,Casa,True,remateHipotecario,True,19.5091191,-99.0991915
 73,73,3,2,0,1,39,Lindavista Vallejo,2130000,0,Unidad Habitacional Lindavista Vallejo Edif. 32B,Apartamento,False,,False,19.4965028,-99.1497308
-160,180,4,2,1,2,47,Santa Rosa,500000,1,Calle 44-A 108,Casa,True,remateHipotecario,True,19.524173,-99.1737331
-120,252,4,3,0,2,20,Villa de Aragón,590000,0,Villa Aragón,Casa,True,remateHipotecario,False,19.4672793,-99.0605643
-160,146,3,2,0,2,25,Gustavo A. Madero,2160000,10,Sierra Madre Oriental 142,Casa,True,remateHipotecario,False,19.4757147,-99.0642696
 75,75,3,1,0,0,10,Nueva Atzacoalco,3500000,0,Nueva Atzacoalco,Apartamento,False,,False,19.4991516,-99.0861392
-92,236,3,2,0,1,16,San Juan de Aragón IV Secc,630009,0,Calle ,Casa,True,remateHipotecario,False,19.4543769,-99.0654184
 161,161,2,3,0,3,43,San Felipe de Jesús,4284000,0,Colima 269,Casa,False,,False,19.5002267,-99.0766993
-182,280,4,2,1,2,10,Industrial,970000,0,Norte 24-A,Casa,True,remateHipotecario,False,19.472428,-99.130118
 110,110,3,2,0,1,0,Guadalupe Tepeyac,4185084,0,,Apartamento,False,,True,19.4680088,-99.1193297
 90,90,2,2,0,0,2,La Pradera,2200000,0,Monte de Las Cruces,Apartamento,False,,False,19.475079,-99.0677101
 57,57,2,1,0,0,10,Vasco de Quiroga,3719000,0,Vasco de Quiroga,Apartamento,False,,False,19.4966,-99.0965
-122,225,3,2,1,2,10,San Juan de Aragón VI Secc,643000,0,Calle 1507,Casa,True,remateHipotecario,False,19.4702031,-99.0693188
-190,256,3,1,1,2,45,Villa de Aragón,490000,0,NEZAHUALCOYOTL,Casa,True,remateHipotecario,False,19.4694852,-99.0618076
-124,215,4,3,0,2,41,Vasco de Quiroga,1000000,0,CALLE JUAN BOSCO NO  107 LT 4 MZA,Casa,True,remateHipotecario,True,19.4912922,-99.0944108
-350,380,3,3,1,2,18,Lindavista Sur,720000,0,Coquimbo,Casa,True,remateHipotecario,False,19.4899235,-99.1259687
-43,43,2,1,0,1,8,Gustavo A. Madero,750000,0,Gaviotas 21,Apartamento,True,remateHipotecario,False,19.478817,-99.1056928
 120,120,5,3,0,1,0,Ampliación San Juan de Aragón,5500000,0,San Juan de Aragón,Casa,False,,False,19.4781316,-99.0960678
 66,65,2,2,0,1,1,Lindavista Norte,4943100,1,Avenida Instituto Politécnico Nacional 1923A,Apartamento,False,,True,19.4973459,-99.1320295
 216,367,6,3,1,3,66,La Joya,5700000,0,Oriente 87,Casa,False,,False,19.4579448,-99.1083676
 129,120,3,2,0,1,20,General Felipe Berriozabal,2673000,0,Jeronimo treviño,Casa,False,,False,19.5551604,-99.1297045
-217,320,3,2,1,1,31,Lindavista Norte,1430000,0,Latacunga 808,Casa,True,remateHipotecario,False,19.4919362,-99.1271652
-200,265,4,3,1,3,27,Tres Estrellas,1363000,0,Calle Granito ,Casa,True,remateHipotecario,False,19.4742896,-99.1104042
-122,320,4,3,0,2,20,Villa de Aragón,1000000,0,C VILLA CUITLAHUAC 76,Casa,True,remateHipotecario,False,19.469961,-99.0616976
-178,197,3,2,1,1,48,Valle del Tepeyac,720000,150,Pisagua 553,Casa,True,remateHipotecario,True,19.4874582,-99.1402434
-128,311,4,3,0,2,30,Fernando Casas Alemán,800000,0,C. Dracmas ,Casa,True,remateHipotecario,False,19.4532322,-99.0958327
-231,139,3,2,1,2,25,Estrella,550000,0,C. CORAL,Casa,True,remateHipotecario,False,19.476111,-99.1178492
-300,347,4,2,1,2,15,La Escalera,610000,0,Arroyo Ticoman,Casa,True,remateHipotecario,False,19.51500452536716,-99.13508159678956
-350,242,4,2,1,2,10,Lindavista,495000,0,LINARES,Casa,True,remateHipotecario,False,19.4888785,-99.1298249
-400,302,4,2,1,2,18,Residencial Zacatenco,630000,0,Residencial Zacatenco,Casa,True,remateHipotecario,True,19.5002857,-99.1220962
-180,297,4,2,0,1,28,Estrella,1095000,0,Calle Diamante 92,Casa,True,remateHipotecario,False,19.4767333,-99.117257
 57,57,2,1,0,0,21,DM Nacional,2066000,0,Calzada SAN Juan DE Aragon 439,Apartamento,False,,False,19.4760698,-99.0948001
 50,50,2,1,0,0,8,Loma La Palma,1400000,0,07160,Apartamento,False,,False,19.5553007,-99.1414643
-178,203,3,2,1,2,12,Lindavista Sur,1550000,0,Eten 719,Casa,True,remateHipotecario,True,19.4933889,-99.1379331
-51,51,2,1,0,1,24,Jorge Negrete,650000,0,El Arbolillo,Apartamento,True,remateHipotecario,True,19.53454436113865,-99.14711045493928
-98,98,3,2,0,1,17,Bondojito,561837,200,Avenida Henry Ford 351,Apartamento,True,remateHipotecario,True,19.4658916,-99.1083511
-218,280,5,2,1,2,15,San Juan de Aragón I Secc,690000,0,Av. 519,Casa,True,remateHipotecario,False,19.4568673,-99.092836
 240,417,3,4,0,2,37,Lindavista Norte,13700000,0,CALI,Casa,False,,False,19.4867,-99.1267
 405,370,5,4,3,5,0,Lindavista,22500000,0,Casa en Venta en Lindavista,Casa,False,,False,19.5037694,-99.1324282
-310,179,4,2,1,2,10,San Juan de Aragón I Secc,590000,0,AV 529,Casa,True,remateHipotecario,False,19.4579624,-99.0899036
-179,158,3,1,1,1,18,La Escalera,500000,450,Avenida Guillermo Massieu Helguera 104,Casa,True,remateHipotecario,True,19.5091924,-99.1343003
 207,278,3,4,1,2,50,Lindavista,9200000,0,Otavalo,Casa,False,,False,19.4941502,-99.1401171
 180,360,8,5,0,3,,San Juan de Aragón I Secc,4700000,0,AV. ,Casa,False,,False,19.45957,-99.09079
-282,524,4,2,1,3,15,Tepeyac Insurgentes,710000,0,GARRIDO,Casa,True,remateHipotecario,False,19.4834259,-99.1198668
-150,300,2,2,1,1,10,Campestre Aragón,1980000,0,Cam. del Éxito ,Casa,True,remateHipotecario,False,19.4853342,-99.0813639
-264,398,4,2,0,2,28,San Pedro Zacatenco,1000000,0,Paranagua #1153,Casa,True,remateHipotecario,False,19.5076509,-99.1259038
-200,200,3,4,0,2,12,Valle del Tepeyac,690000,0,Natal ,Casa,True,remateHipotecario,True,19.4874828,-99.138181
 60,60,2,1,1,1,15,Gustavo A. Madero,3400000,800,Av. Sur de Los 100 Metros,Apartamento,False,,False,19.4843399,-99.1465851
-242,232,4,3,1,4,15,San Juan de Aragón II Secc,899000,0,AV 547 #39 Col. San Juan de Aragon 2a Secc Gustavo A. Madero,Casa,True,remateHipotecario,False,19.4498934,-99.0881162
 240,332,4,4,0,5,,Torres Lindavista,17500000,0,CARACAS SUR,Casa,False,,False,19.50862,-99.14416
-116,116,3,2,0,2,28,Estrella,690000,0,C.Turquesa 10,Casa,True,remateHipotecario,False,19.4734384,-99.1156901
-233,278,5,3,0,1,25,Industrial,8250000,1,Excelsior 239,Casa,True,remateHipotecario,False,19.4752201,-99.132246
 155,189,4,2,0,1,50,Gustavo A. Madero,4500000,0,Calle 16-a,Casa,False,,False,19.5219695,-99.1671351
-220,248,4,3,0,2,30,San Juan de Aragón II Secc,2145000,0,Av. 553,Casa,True,remateHipotecario,False,19.4527498,-99.0855437
-250,340,4,3,1,3,24,Lindavista Sur,673000,0,Linares,Casa,True,remateHipotecario,True,19.4888785,-99.1298249
-260,280,4,3,0,2,15,Gustavo A. Madero,600000,0,Avenida 529 118,Casa,True,remateHipotecario,False,19.4568799,-99.0904612
-160,240,3,2,0,1,15,Estrella,1200000,0,Calle Turquesa 32,Casa,True,remateHipotecario,False,19.4725092,-99.1160871
 154,165,3,4,0,1,27,Gustavo A. Madero,4300000,0,Segundo Callejón de la Silla 14,Casa,False,,False,19.4898582,-99.081564
-100,120,3,2,0,2,32,Vasco de Quiroga,1100000,0,Calle Juan Bosco 107,Casa,True,remateHipotecario,True,19.4912922,-99.0944108
 64,64,2,1,0,1,3,Gustavo A. Madero,2469000,0,Av Centenario 2103,Apartamento,False,,False,19.5005583,-99.0944149
 65,65,2,1,0,1,,San Bartolo Atepehuacan,2990000,0,CALZADA AZCAPOTZALCO - LA VILLA,Apartamento,False,,False,19.49107,-99.14246
-172,172,4,4,0,3,10,Zona Escolar,970000,0,Avenida Adolfo López Mateos 174,Casa,True,remateHipotecario,False,19.5329563,-99.141809
-180,135,3,2,0,1,15,Acueducto de Guadalupe,990000,850000,puerto matamoros 85,Casa,True,remateHipotecario,False,19.476857,-99.0801204
-184,303,3,2,0,1,11,San Juan de Aragón I Secc,498000,0,San Juan de Aragón I Sección,Casa,True,remateHipotecario,False,19.4619648,-99.0930528
-250,150,3,2,1,2,20,7 de Noviembre,830000,0,Estela 33,Casa,True,remateHipotecario,True,19.4647306,-99.1215726
-250,320,4,3,1,2,10,Gustavo A. Madero,585000,0,Av. 603,Casa,True,remateHipotecario,False,19.4520587,-99.0702693
-120,120,3,2,0,1,21,General Felipe Berriozabal,3200000,400,Felipe Berriozabal,Casa,True,remateHipotecario,False,19.5551604,-99.1297045
 270,158,4,3,0,3,,Guadalupe Insurgentes,6400000,0,AURELIO LEYVA,Casa,False,,False,19.47197,-99.1347
-60,60,2,1,0,1,18,El Arbolillo,455000,0,Cam. Viejo a Cuautepec,Apartamento,True,remateHipotecario,True,19.53307897601034,-99.1488213661316
-190,327,4,3,0,2,28,San Juan de Aragón II Secc,769000,0,AV  ,Casa,True,remateHipotecario,False,19.4520858,-99.0844712
-260,280,4,3,0,2,15,San Juan de Aragón VII Secc,495000,0,Av. Francisco Morazán 127,Casa,True,remateHipotecario,False,19.4772727,-99.0725918
-45,45,2,1,0,1,5,Nueva Vallejo,2141000,0,Florencio Constantino 243,Apartamento,True,remateHipotecario,False,19.4923603,-99.1476908
-189,284,4,4,1,2,22,Tepeyac Insurgentes,1449000,0,Habana ,Casa,True,remateHipotecario,False,19.4871901,-99.1212198
 117,243,4,2,0,2,,Ferrocarrilera,5290000,0,SIMON DE LA GARZA Y MELO,Casa,False,,False,19.48179,-99.09209
 136,198,0,4,0,3,50,15 de Agosto,6200000,0,Antonio Neri,Casa,False,,False,19.4845,-99.1063
-80,80,2,1,0,1,25,Gustavo A. Madero,749000,0,Sara 4625,Apartamento,True,remateHipotecario,False,19.4688125,-99.1170329
-225,300,4,3,0,2,10,Lindavista Sur,560000,0,Oruro,Casa,True,remateHipotecario,True,19.4902138,-99.1289849
-86,86,3,1,1,1,15,Vallejo,780000,500,Schumann 117,Apartamento,True,remateHipotecario,False,19.4676866,-99.1300704
-200,200,4,2,1,2,20,Villa de Aragón,1200000,0,Villa de Aragón No. ,Apartamento,True,remateHipotecario,False,19.4690152,-99.0592361
-62,62,2,1,0,1,20,Estanzuela,550000,0,General Pedro Negrete 179,Apartamento,True,remateHipotecario,False,19.489923,-99.1099599
-190,263,4,3,0,1,15,San Juan de Aragón II Secc,2145000,0,Avenida 553 196,Casa,True,remateHipotecario,True,19.4571646,-99.0839495
-210,390,4,2,1,1,16,Industrial,600000,0,Avenida Huasteca 46,Casa,True,remateHipotecario,False,19.4701846,-99.1261406
 125,303,7,3,0,1,50,Gustavo A. Madero,5980000,0,1507,Casa,False,,False,19.4702,-99.0693
 180,190,4,2,0,2,,San Juan de Aragón I Secc,5000000,0,AV. ,Casa,False,,False,19.45575,-99.09233
-45,45,2,1,0,1,15,Vallejo,1891001,500,Florencio Constantino 243,Apartamento,True,remateHipotecario,True,19.4636189,-99.1300776
-258,490,3,2,0,1,10,Zona Escolar,970000,0,Av Adolfo López Mateos,Casa,True,remateHipotecario,True,19.541838291412034,-99.146386961763
-73,73,3,1,1,1,10,Triunfo de La República,464000,200,Gral. Pedro Negrete 179,Apartamento,True,remateHipotecario,True,19.489923,-99.1099599
-50,50,2,1,0,1,18,Nueva Industrial Vallejo,890000,0,C. Tetrazzini,Casa,True,remateHipotecario,True,19.46676257491595,-99.13158947665175
-85,146,3,3,0,0,55,Industrial,1100000,0,Fama,Casa,True,remateHipotecario,False,19.4737208,-99.1306775
 221,326,4,2,0,2,35,Constitución de La República,4200000,0,Jose Antonio Gamboa ,Casa,False,,False,19.4844348,-99.1021758
-104,104,3,1,0,0,20,San Juan de Aragón II Secc,1738331,0,Calle 1519,Casa,True,remateHipotecario,False,19.4679419,-99.0672198
-50,50,2,2,0,1,25,Nueva Industrial Vallejo,890000,0,C. Tetrazzini 232,Casa,True,remateHipotecario,True,19.4667787,-99.131672
-165,186,3,2,0,2,23,La Escalera,845000,0,Arroyo Zacatenco #14,Casa,True,remateHipotecario,False,19.5083158,-99.1372566
 160,350,8,5,0,1,36,Residencial Zacatenco,4100000,0,"Casa en Venta en Residencial Zacatenco, Gustavo Madero AF 27-454",Casa,False,,True,19.5002857,-99.1220962
 200,400,4,4,2,2,40,Vallejo,4900000,0,Schumann,Casa,False,,False,19.4676866,-99.1300704
-60,60,2,1,0,1,30,El Arbolillo,455000,0,Camino Viejo a Cuautepec 9,Apartamento,True,remateHipotecario,True,19.5329041,-99.1488093
-318,327,4,2,1,2,8,Tepeyac Insurgentes,2400000,0,Valparaíso 117,Casa,True,remateHipotecario,False,19.4855507,-99.1220962
-96,188,3,2,0,2,10,C.T.M. Aragón,650000,0,Calle 685,Casa,True,remateHipotecario,False,19.4539472,-99.0556627
 75,75,3,1,0,0,0,Aragón la Villa,2140000,0,Moctezuma,Apartamento,False,,False,19.4748205,-99.088353
-332,332,5,4,1,2,49,Lindavista Sur,860000,0,Oruro 30,Casa,True,remateHipotecario,False,19.490852,-99.128653
-350,380,3,3,1,3,10,Lindavista Sur,720000,0,Coquimbo,Casa,True,remateHipotecario,False,19.4899235,-99.1259687
-200,250,5,2,1,2,15,Guadalupe Tepeyac,600000,0,ELSA 8,Casa,True,remateHipotecario,False,19.4639453,-99.1226227
-114,144,3,2,0,2,16,Tablas de San Agustín,795000,200,FC Hidalgo 1337,Apartamento,True,remateHipotecario,True,19.4684702,-99.1156559
-232,150,4,2,1,1,12,Campestre Aragón,650000,0,"CCam. de La Enseñanza 32, Campestre Aragón, Gustavo A. Madero,  Ciudad de México, CDMX",Casa,True,remateHipotecario,False,19.48443,-99.08294
-200,200,4,3,1,2,18,Ampliación Providencia,550000,0,Volcán Santa María,Casa,True,remateHipotecario,False,19.4796065,-99.0709327
 160,550,10,7,0,4,33,La Joya,7060000,0,NORTE 68 3722,Casa,False,,False,19.4595401,-99.110452
-355,480,5,2,1,3,10,Lindavista Norte,495000,0,MATANZAS,Casa,True,remateHipotecario,False,19.49479291015641,-99.1290087238256
-197,480,4,2,1,2,15,Lindavista Norte,790000,0,Ambato ,Casa,True,remateHipotecario,False,19.4998009,-99.129324
-250,332,4,4,0,2,20,Lindavista Sur,760000,800,Oruro,Casa,True,remateHipotecario,False,19.4902138,-99.1289849
-230,234,4,3,1,2,19,Lindavista Sur,640000,0,Oruro,Casa,True,remateHipotecario,False,19.4902138,-99.1289849
 77,77,3,1,0,1,44,San Juan de Aragón,2435700,0,"Departamento Venta San Juan de Aragón, Gustavo A. Madero 27-399 FM",Apartamento,False,,True,19.4686303,-99.0923614
-63,63,2,1,0,1,10,Gustavo A. Madero,690000,0,Smetana 90,Apartamento,True,remateHipotecario,False,19.4648876,-99.1324018
-210,390,4,2,1,1,15,Industrial,600000,0,Av Huasteca 46,Casa,True,remateHipotecario,False,19.4701846,-99.1261406
-100,120,4,3,0,2,32,Nueva Industrial Vallejo,500000,0,Calle Tetrazzini 232,Casa,True,remateHipotecario,True,19.4667787,-99.131672
-120,210,4,3,2,2,30,Lindavista Norte,510000,0,Ambato,Casa,True,remateHipotecario,False,19.5000712,-99.1288767
 48,48,2,1,0,1,,Industrial,2295000,0,NECAXA,Apartamento,False,,False,19.47732,-99.12775
-85,85,2,2,0,1,10,Santiago Atzacoalco,1204814,0,Avenida Centenario 2152,Apartamento,True,remateHipotecario,False,19.5022555,-99.0943081
 85,85,2,1,0,1,25,Acueducto de Guadalupe,2949000,0,Av. Acueducto de Guadalupe,Apartamento,False,duenoDirecto,False,19.5222878,-99.1500351
 681,581,4,4,3,3,15,Lindavista Norte,25000000,0,Managua 887,Casa,False,duenoDirecto,False,19.4964981,-99.128349
-67,67,2,1,0,1,20,Vasco de Quiroga,1581900,10,Av. Ing. Eduardo Molina 1720,Apartamento,True,remateHipotecario,True,19.4909454,-99.0954726
 70,68,4,1,0,2,30,Acueducto de Guadalupe,1450000,0,Acueducto de Guadalupe,Apartamento,False,duenoDirecto,False,19.52654959965753,-99.1514563016052
 94,94,3,2,0,2,6,Residencial Zacatenco,4600000,3402,Avenida Acueducto,Apartamento,False,,False,19.5016187,-99.1212316
 59,59,2,1,0,0,58,Lindavista,1550000,200,Avenida Instituto Politécnico Nacional 1990,Apartamento,False,,False,19.5009117,-99.1314889
 61,61,3,2,0,0,0,Constitución de La República,3300000,1100,Calzada San Juan de Aragón 322,Apartamento,False,duenoDirecto,False,19.4809484,-99.1018239
 64,64,2,1,0,0,60,Lindavista Vallejo,1850000,200,Poniente ,Apartamento,False,duenoDirecto,False,19.5008131,-99.1555297
 214,291,3,3,1,2,10,Lindavista Norte,10300000,0,Chiclayo,Casa,False,duenoDirecto,False,19.49451145545447,-99.12658608675537
-122,122,3,2,0,2,20,Villa Gustavo A. Madero,890000,0,Villa Cuitláhuac  76,Casa,True,remateHipotecario,True,19.469961,-99.0616976
 73,73,2,1,1,2,0,Vallejo,3700000,0,Gustavo E. Campa,Apartamento,False,,False,19.46374,-99.1283285
 146,210,4,2,1,2,54,San Bartolo Atepehuacan,7900000,1200,Sololá ,Casa,False,duenoDirecto,False,19.4925705,-99.1435398
-218,218,3,2,0,2,15,Vasco de Quiroga,1259000,0,"Padre Juan Bosco 107, Vasco de Quiroga , Gustavo A Madero",Casa,True,remateHipotecario,True,19.491287,-99.0944031
 68,65,3,1,1,1,12,Nueva Industrial Vallejo,2850000,0,Avenida 100 metros #1040,Apartamento,False,duenoDirecto,False,19.509530446116923,-99.15375663452228
 160,270,4,2,1,3,45,Guadalupe Insurgentes,6400000,0,Guadalupe Insurgentes,Casa,False,duenoDirecto,False,19.4739758,-99.1324714
 62,62,2,2,0,1,7,Bondojito,2700000,950,Avenida Henry Ford 153,Apartamento,False,duenoDirecto,True,19.468639,-99.1150504
@@ -1183,23 +480,17 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 150,213,4,3,0,3,45,San Felipe de Jesús,4199000,0,Cerrada Emiliano Zapata 20,Casa,False,,False,19.4912962,-99.0852877
 59,59,2,1,0,1,0,Vallejo,2243587,0,Vallejo,Apartamento,False,,False,19.4673105,-99.1331631
 211,294,4,4,0,2,6,Providencia,4875000,0,"Camino de la Unión ""A""",Casa,False,duenoDirecto,False,19.4861708,-99.0750242
-250,250,3,2,0,3,20,San Juan de Aragón,800000,0,"Calle 519 ,san Juan de Aragón , Gustavo A Madero",Casa,True,remateHipotecario,True,19.4568263,-99.0930355
 124,80,2,1,1,2,7,Residencial Zacatenco,5300000,1600,Cienfuegos,Apartamento,False,duenoDirecto,False,19.500935479318816,-99.12223296994958
-150,150,3,2,2,0,15,Churubusco Tepeyac,799000,0,"Casma  522, Churubusco Tepeyac, Gustavo A Madero",Casa,True,remateHipotecario,True,19.4858563,-99.1371191
 350,450,4,1,1,40,50,Lindavista Norte,12000000,0,Pernambuco 731,Casa,False,,False,19.4893276,-99.1271211
 149,550,9,0,0,0,,Churubusco Tepeyac,8780000,0,"Avenida Oroya 573, Churubusco Tepeyac, 07730 Gustavo A Madero, CDMX, México",Apartamento,False,,False,19.4876718,-99.1376194
 68,68,2,1,0,0,,Aragón la Villa,2130000,0,"Moctezuma 67, Aragón La Villa, 07000 Gustavo A Madero, CDMX, México",Apartamento,False,,False,19.4793647,-99.1141294
-77,77,2,1,0,1,20,DM Nacional,939922,0,"Arcos de Aragón 439, DM Nacional, Gustavo A Madero",Apartamento,True,remateHipotecario,True,19.47762,-99.09494
-77,77,2,1,0,1,20,DM Nacional,939922,0,Arcos DE Aragon  439,Apartamento,True,remateHipotecario,True,19.47762,-99.09494
 58,58,2,2,0,1,7,Constitución de La República,2750000,1100,Calz. San Juan de Aragón 322,Apartamento,False,duenoDirecto,False,19.4809484,-99.1018239
 96,175,3,2,1,1,40,San Juan de Aragón IV Secc,4800000,0,Calle 615,Casa,False,duenoDirecto,False,19.4530325,-99.0670337
 245,401,4,4,2,3,20,Torres Lindavista,15000000,0,Caracas 173,Casa,False,duenoDirecto,False,19.51076155742384,-99.14225749416504
 120,126,3,2,0,1,56,Valle del Tepeyac,6500000,0,Calle Jujuy,Casa,False,duenoDirecto,False,19.488201,-99.1424003
-0,0,4,3,0,2,17,El Coyol,780000,0,Calle 311 77,Casa,True,remateHipotecario,True,19.4866394,-99.0909133
 144,262,6,2,0,1,50,Guadalupe Insurgentes,6350000,0,Ing Braulio Martinez al 141,Casa,False,,False,19.4730268,-99.1332655
 240,240,3,3,1,2,38,Lindavista Norte,7100000,3000,Coquimbo 911 Bis,Apartamento,False,duenoDirecto,False,19.4937863,-99.1227395
 0,75,3,2,0,0,0,Lindavista Sur,4420000,0,Av. Montevideo,Apartamento,False,duenoDirecto,False,19.490776186247366,-99.13425967885132
-218,218,3,2,0,3,12,Vasco de Quiroga,1259000,0,Juan Bosco 107,Casa,True,remateHipotecario,True,19.491287,-99.0944031
 150,250,3,3,1,2,45,Lindavista Norte,7500000,0,Coquimbo 828,Casa,False,duenoDirecto,False,19.4917431,-99.1246132
 200,350,6,5,1,3,0,Progreso Nacional,6600000,0,S/C S/N,Casa,False,,False,19.515303,-99.16015
 65,65,2,1,0,1,35,El Coyol,1855000,0,Avenida Ingeniero Eduardo Molina 7725,Apartamento,False,duenoDirecto,False,19.484054,-99.0947294
@@ -1210,11 +501,9 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 220,220,4,2,1,1,30,C.T.M. Aragón,4950000,0,C. T. M. Aragón,Casa,False,duenoDirecto,False,19.452751,-99.0564178
 59,59,2,1,0,1,0,Vallejo,2141606,0,Vallejo,Apartamento,False,,False,19.4673105,-99.1331631
 70,100,3,2,0,1,50,Magdalena de las Salinas,5000000,500,Av Instituto Politécnico Nacional 1618,Casa,False,duenoDirecto,False,19.4853424,-99.133509
-370,370,6,4,0,2,0,San Pedro Zacatenco,1466500,0,Paranagua 217,Casa,True,remateHipotecario,True,19.5087992,-99.1257112
 231,301,4,1,1,0,30,Chalma de Guadalupe,3690000,0,San Luis Potosí 1139,Casa,False,duenoDirecto,False,19.5497748,-99.1548175
 51,51,2,1,0,1,0,Vallejo,2141606,0,Vallejo,Apartamento,False,,False,19.4673105,-99.1331631
 275,425,3,3,2,4,50,Lindavista,20000000,3000,Pujato 8,Casa,False,,False,19.4982817,-99.1313089
-170,170,3,2,0,0,12,Juan González Romero,1259500,0,Gladiola 10,Casa,True,remateHipotecario,True,19.5037059,-99.08955
 166,442,6,6,0,4,35,La Escalera,8050000,0,Arroyo Escondido 10,Casa,False,duenoDirecto,False,19.4873329,-99.1236134
 48,48,2,1,0,0,0,Ticoman,2100000,0,Av. Acueducto 835,Apartamento,False,,False,19.5193643,-99.1327786
 65,65,2,1,1,1,15,Granjas Modernas,685000,0,Gaviotas 21,Apartamento,False,,False,19.478817,-99.1056928
@@ -1229,21 +518,16 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 125,220,3,3,0,2,25,Gertrudiz Sánchez,4800000,0,Norte 90 ,Casa,False,duenoDirecto,False,19.4642352,-99.0981834
 90,75,3,2,0,0,0,Lindavista Sur,4420000,0,Av. Montevideo,Apartamento,False,duenoDirecto,False,19.4902098,-99.1322212
 80,110,3,1,1,2,2,Lindavista Sur,7800000,0,Avenida Instituto Politécnico Nacional,Apartamento,False,,False,19.4920299,-99.1331687
-300,300,3,2,0,2,12,Villa de Aragón,1000000,0,Villa DE Aragon  7,Casa,True,remateHipotecario,True,19.4690152,-99.0592361
 170,208,4,2,1,3,35,Valle del Tepeyac,6950000,0,Salama,Casa,False,duenoDirecto,False,19.48841938109062,-99.14314466137708
 95,95,3,2,1,2,5,Residencial Zacatenco,5150000,0,"Residencial Zacatenco, Gustavo A. Madero, Ciudad de México",Apartamento,False,,False,19.5008897,-99.1149043
 157,257,5,2,0,0,,Juventino Rosas,2990000,0,"Calle Nicandro Castillo 13, Juventino Rosas, 07150 Gustavo A Madero, CDMX, México",Casa en condominio,False,,False,19.5629316,-99.1342565
 64,60,2,1,0,1,12,DM Nacional,2390000,400,Calzada San Juan de Aragón ,Apartamento,False,duenoDirecto,False,19.4760698,-99.0948001
-165,165,3,2,0,2,12,Estrella,745700,0,Diamante 37,Casa,True,remateHipotecario,True,19.47505360359477,-99.11770055662232
 52,52,2,1,0,1,0,Vallejo,2292098,0,Vallejo,Apartamento,False,,False,19.4673105,-99.1331631
 229,419,4,2,1,3,0,Lindavista Norte,10800000,0,"Lindavista, Gustavo A. Madero, Cdmx",Casa,False,,False,19.4940851,-99.1274186
 160,240,5,3,1,1,56,Lindavista Norte,8000000,0,Matanzas 940,Casa,False,duenoDirecto,False,19.4980111,-99.1265959
-255,255,4,3,0,2,10,Santa Isabel Tola,800000,0,Acueducto de Guadalupe  49,Casa,True,remateHipotecario,False,19.4958821,-99.1131657
 110,63,3,1,1,1,1,Industrial,4200000,0,Romulo Escobar ,Casa,False,duenoDirecto,False,19.4698991,-99.1289394
 160,265,4,3,2,1,30,Lindavista Vallejo,6000000,0,Norte 19-A ,Casa,False,duenoDirecto,True,19.4871446,-99.147923
 118,179,3,2,0,1,40,C.T.M. El Risco,3649000,0,Sánchez Hormigo,Casa,False,duenoDirecto,False,19.51061143046249,-99.09851488821634
-200,200,5,3,0,2,10,Nueva Atzacoalco,700000,0,C 317  #534,Casa,True,remateHipotecario,False,19.4973007,-99.0858584
-300,300,3,2,0,2,15,Villa de Aragón,1000000,0,"Villa de Aragón 7, Villa de Aragón , Gustavo A Madero",Casa,True,remateHipotecario,True,19.4690152,-99.0592361
 57,57,2,1,0,1,0,Vallejo,2344190,0,Vallejo,Apartamento,False,,False,19.4673105,-99.1331631
 74,74,3,2,0,1,5,Residencial Zacatenco,3000000,3000,Departamento en Venta en Col. Residencial Zacatenco. Gustavo A. Madero. Cdmx,Apartamento,False,,True,19.5016187,-99.1212316
 52,52,2,1,0,1,0,Vallejo,2292098,0,Vallejo,Apartamento,False,,False,19.4673105,-99.1331631
@@ -1252,10 +536,8 @@ Total_area_m2,Built_area_m2,Rooms,Bathrooms,HalfBathrooms,Parkings,Antiguedad,Co
 84,84,3,1,0,1,40,La Escalera,3100000,500,Miguel Bernard 690,Apartamento,False,duenoDirecto,False,19.5111138,-99.1404294
 100,100,3,2,0,2,5,7 de Noviembre,5800000,0,Norte 44 3618,Apartamento,False,,False,19.460592,-99.1222952
 560,520,13,7,0,4,15,Santa Isabel Tola,25000000,0,"Cacama #9, Santa Isabel Tola, Gustavo A. Madero, Ciudad de México",Casa,False,,True,19.4985709,-99.1171337
-370,370,6,4,0,2,15,San Pedro Zacatenco,1466500,0,"Paranagua 217, San Pedro Zacatenco , Gustavo A Madero",Casa,True,remateHipotecario,True,19.5087992,-99.1257112
 574,681,5,5,2,6,17,Lindavista Norte,29800000,0,Chiclayo 848,Casa,False,duenoDirecto,False,19.4943182,-99.1271883
 152,206,4,3,0,2,44,Salvador Díaz Mirón,3950000,0,Norte 74 ,Casa,False,duenoDirecto,False,19.4892903,-99.0955135
-300,300,4,2,1,0,18,Lindavista,850000,0,Managua  911,Casa,True,remateHipotecario,True,19.4969866,-99.1279253
 160,320,4,2,0,0,1,San Juan de Aragón II Secc,8400000,0,,Casa,False,duenoDirecto,False,19.4529297,-99.0830212
 70,70,2,2,0,1,0,7 de Noviembre,2400000,850,"Av. Congreso de la Unión #3523, 7 de Noviembre, Gustavo A. Madero, Ciudad de México",Apartamento,False,,True,19.4564932,-99.113971
 168,200,3,2,1,2,0,Torres Lindavista,11500000,1250,Casa en Venta en Col. Torres Lindavista. Gustavo A. Madero. Cdmx,Casa,False,,True,19.5109537,-99.1442316
